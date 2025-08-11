@@ -1,0 +1,4 @@
+Number,Type,Congress,Title,Url,Sponsor,Subject,Text Access
+870,S,118,"An act to authorize appropriations for the United States Fire Administration and firefighter assistance grant programs, to advance the benefits of nuclear energy, and for other purposes.",https://api.congress.gov/v3/bill/118/s/870?format=xml,"Sen. Peters, Gary C. [D-MI]",Energy,https://www.congress.gov/118/bills/s870/BILLS-118s870enr.xml
+7377,HR,118,Royalty Resiliency Act,https://api.congress.gov/v3/bill/118/hr/7377?format=xml,"Rep. Hunt, Wesley [R-TX-38]",Energy,https://www.congress.gov/118/bills/hr7377/BILLS-118hr7377enr.xml
+1042,HR,118,Prohibiting Russian Uranium Imports Act,https://api.congress.gov/v3/bill/118/hr/1042?format=xml,"Rep. McMorris Rodgers, Cathy [R-WA-5]",Energy,https://www.congress.gov/118/bills/hr1042/BILLS-118hr1042enr.xml

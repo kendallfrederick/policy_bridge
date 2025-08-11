@@ -1,0 +1,49 @@
+Climate change attribution is the study of whether, or to what degree, human influence may have 
+contributed to extreme climate or weather events.  
+Advances in the science of climate attribution now allow scientists to make estimates of the 
+human contribution to such events.1 Understanding the attribution process and its uncertainties 
+may be helpful to policymakers, organizations, and individuals in evaluating and weighing these 
+estimates, and in considering how to prioritize and manage associated risks. 
+A key area of climate research has been the effort to attribute observed changes in the climate to 
+natural and human-related factors.2 A scientific consensus has emerged that the increase in 
+concentrations of greenhouse gases (GHGs) in the atmosphere is the result of human actions such 
+as the emissions of GHGs from the burning of fossil fuels and land management and that these 
+emissions are influencing the climate.3 This influence has been confirmed with increasing 
+confidence for many global and regional climate processes.4  
+By the early years of the 21st century there was broad acceptance in the scientific community that 
+some global trends in the climate, such as increases in global average temperature since the mid-
+20th century, could be attributed to human action with some degree of confidence.5 However, 
+existing methods could not determine whether a specific weather event, such as a heat wave or a 
+severe storm, could be linked to human-induced climate change.6 In 2003, a scientist proposed to 
+statistically test whether changes in extreme event probability could be attributed to human 
+influence.7 Since that time, scientists have developed a variety of methods to investigate human 
+influence on extreme weather or climate events.8 
+ 
+1 The U.S. Department of Agriculture on its “Climate Hubs: Extreme Weather” website 
+(https://www.climatehubs.usda.gov/node/1476/) distinguishes weather and climate extreme events:  
+Extreme events are occurrences of unusually severe weather or climate conditions that can cause 
+devastating impacts on communities and agricultural and natural ecosystems. Weather-related 
+extreme events are often short-lived and include heat waves, freezes, heavy downpours, tornadoes, 
+tropical cyclones and floods. Climate-related extreme events either persist longer than weather 
+events or emerge from the accumulation of weather or climate events that persist over a longer 
+period of time. Examples include drought resulting from long periods of below-normal 
+precipitation or wildfire outbreaks when a prolonged dry, warm period follows an abnormally wet 
+and productive growing season. 
+2 H. Le Treut et al., “Historical Overview of Climate Change” in Intergovernmental Panel on Climate Change (IPCC), 
+Climate Change 2007: The Physical Science Basis—Contribution of Working Group I to the Fourth Assessment Report 
+of the Intergovernmental Panel on Climate Change, 2007.  
+3 The glossary in IPCC, Climate Change 2014: Mitigation of Climate Change—Contribution of Working Group III to 
+the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, 2014, defines greenhouse gases as 
+“those gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and emit radiation at 
+specific wavelengths within the spectrum of terrestrial radiation emitted by the earth’s surface, the atmosphere itself, 
+and by clouds. This property causes the greenhouse effect.” 
+4 IPCC, Climate Change 2021: The Physical Science Basis—Contribution of Working Group I to the Sixth Assessment 
+Report of the Intergovernmental Panel on Climate Change, 2021 (hereinafter IPCC AR6 WGI 2021). 
+5 CRS Report R45086, Evolving Assessments of Human and Natural Contributions to Climate Change, by Jane A. 
+Leggett; and CRS Report R43229, Climate Change Science: Key Points, by Jane A. Leggett. 
+6 Friederike E. L. Otto, “Attribution of Weather and Climate Events,” Annual Review of Environment and Resources 
+vol. 42, no. 1 (2017), p. 627 (hereinafter Otto 2017). See also CRS Report R45086, Evolving Assessments of Human 
+and Natural Contributions to Climate Change, by Jane A. Leggett. 
+7 Myles Allen, “Liability for Climate Change,” Nature, vol. 421, no. 6926 (2003), p. 891. See also Otto 2017.  
+8 D. Swain et al., “Attributing Extreme Events to Climate Change: A New Frontier in a Warming World,” One Earth, 
+vol. 2, no. 6 (2020), p. 522 (hereinafter Swain 2020). 

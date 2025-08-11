@@ -1,0 +1,11 @@
+Number,Type,Congress,Title,Url,Sponsor,Subject,Text Access
+7132,HR,117,Safe Connections Act of 2022,https://api.congress.gov/v3/bill/117/hr/7132?format=xml,"Rep. Kuster, Ann M. [D-NH-2]","Science, Technology, Communications",https://www.congress.gov/117/bills/hr7132/BILLS-117hr7132enr.xml
+4346,HR,117,CHIPS and Science Act,https://api.congress.gov/v3/bill/117/hr/4346?format=xml,"Rep. Ryan, Tim [D-OH-13]","Science, Technology, Communications",https://www.congress.gov/117/bills/hr4346/BILLS-117hr4346enr.xml
+1541,S,117,Martha Wright-Reed Just and Reasonable Communications Act of 2022,https://api.congress.gov/v3/bill/117/s/1541?format=xml,"Sen. Duckworth, Tammy [D-IL]","Science, Technology, Communications",https://www.congress.gov/117/bills/s1541/BILLS-117s1541enr.xml
+3405,S,117,Low Power Protection Act,https://api.congress.gov/v3/bill/117/s/3405?format=xml,"Sen. Blunt, Roy [R-MO]","Science, Technology, Communications",https://www.congress.gov/117/bills/s3405/BILLS-117s3405enr.xml
+658,S,117,National Cybersecurity Preparedness Consortium Act of 2021,https://api.congress.gov/v3/bill/117/s/658?format=xml,"Sen. Cornyn, John [R-TX]","Science, Technology, Communications",https://www.congress.gov/117/bills/s658/BILLS-117s658enr.xml
+3919,HR,117,Secure Equipment Act of 2021,https://api.congress.gov/v3/bill/117/hr/3919?format=xml,"Rep. Scalise, Steve [R-LA-1]","Science, Technology, Communications",https://www.congress.gov/117/bills/hr3919/BILLS-117hr3919enr.xml
+8663,HR,118,DETECT Fentanyl and Xylazine Act of 2024,https://api.congress.gov/v3/bill/118/hr/8663?format=xml,"Rep. LaLota, Nick [R-NY-1]","Science, Technology, Communications",https://www.congress.gov/118/bills/hr8663/BILLS-118hr8663enr.xml
+1648,S,118,Launch Communications Act,https://api.congress.gov/v3/bill/118/s/1648?format=xml,"Sen. Schmitt, Eric [R-MO]","Science, Technology, Communications",https://www.congress.gov/118/bills/s1648/BILLS-118s1648enr.xml
+1734,HR,118,TRANQ Research Act of 2023,https://api.congress.gov/v3/bill/118/hr/1734?format=xml,"Rep. Collins, Mike [R-GA-10]","Science, Technology, Communications",https://www.congress.gov/118/bills/hr1734/BILLS-118hr1734enr.xml
+2787,S,118,5G SALE Act,https://api.congress.gov/v3/bill/118/s/2787?format=xml,"Sen. Kennedy, John [R-LA]","Science, Technology, Communications",https://www.congress.gov/118/bills/s2787/BILLS-118s2787enr.xml

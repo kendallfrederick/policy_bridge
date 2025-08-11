@@ -1,0 +1,12 @@
+streamlit 
+pandas 
+numpy
+lxml
+bs4
+langchain-ollama
+roman
+llama3.2-token-counter
+weaviate
+langchain-text-splitters
+ndjson
+streamlit-scrollable-textbox
