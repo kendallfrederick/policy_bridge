@@ -7,9 +7,6 @@ import helpers as xx
 
 import pandas as pd
 
-# Constants
-API_KEY = 'qo7lPHj8lcYm7TK9tEGascFIhm1cWqeZ9PJyxPEh' # i know this is bad and i'm sorry
-
 def get_subjects_list(client, number, type, congress):
     """
     Returns a tuple. 

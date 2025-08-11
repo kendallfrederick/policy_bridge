@@ -3,8 +3,6 @@ import congress_api_to_df.clean_html as cc
 
 import congress_api_to_df.df_from_xml as dd
 
-API_KEY = 'qo7lPHj8lcYm7TK9tEGascFIhm1cWqeZ9PJyxPEh'
-
 class Bill:
     """
     Represents a bill with its metadata and content.
