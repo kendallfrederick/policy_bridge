@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1d3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLOS Glob Public Health</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosgph</journal-id>
+<journal-title-group>
+<journal-title>PLOS Global Public Health</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2767-3375</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294</article-id>
+<article-id pub-id-type="publisher-id">PGPH-D-24-00274</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject><subj-group><subject>Food</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject><subj-group><subject>Food</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Earth sciences</subject><subj-group><subject>Seasons</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Physiology</subject><subj-group><subject>Physiological processes</subject><subj-group><subject>Food consumption</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Earth sciences</subject><subj-group><subject>Seasons</subject><subj-group><subject>Seasonal variations</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Malnutrition</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Malnutrition</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Physiology</subject><subj-group><subject>Physiological parameters</subject><subj-group><subject>Body weight</subject></subj-group></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Seasonal variations in household food security and consumption affect women’s nutritional status in rural South Ethiopia</article-title>
+<alt-title alt-title-type="running-head">Seasonal variations in household food security and consumption on women’s nutrition</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4255-117X</contrib-id>
+<name name-style="western">
+<surname>Mezgebe</surname>
+<given-names>Bethelhem</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="corresp" rid="cor001">*</xref>
+<xref ref-type="aff" rid="aff001"/>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Gari</surname>
+<given-names>Taye</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"/>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-2064-1644</contrib-id>
+<name name-style="western">
+<surname>Belayneh</surname>
+<given-names>Mehretu</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"/>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6267-6984</contrib-id>
+<name name-style="western">
+<surname>Lindtjørn</surname>
+<given-names>Bernt</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"/>
+</contrib>
+</contrib-group>
+<aff id="aff001"><addr-line>School of Public Health, College of Medicine and Health Sciences, Hawassa University, Hawassa, Ethiopia</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Amugsi</surname>
+<given-names>Dickson Abanimi</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/>
+</contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>African Population and Health Research Center, KENYA</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">bethelhem_mezgebe@yahoo.com</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>20</day>
+<month>8</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2024</year>
+</pub-date>
+<volume>4</volume>
+<issue>8</issue>
+<elocation-id>e0003294</elocation-id>
+<history>
+<date date-type="received">
+<day>15</day>
+<month>2</month>
+<year>2024</year>
+</date>
+<date date-type="accepted">
+<day>13</day>
+<month>7</month>
+<year>2024</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2024</copyright-year>
+<copyright-holder>Mezgebe et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pgph.0003294"/>
+<abstract>
+<p>Food availability varies seasonally in most rural areas of developing nations, especially in areas affected by drought and climate change, with women being one of the most vulnerable groups. This study aimed to assess the effect of seasonal variation in household food security, adequate dietary diversity, food consumption, and wealth on the nutritional status of women of reproductive age in a rural community in South Ethiopia. Further, the study aimed at identifying associated factors with women’s nutrition status. An open cohort study was conducted from June 2021 to June 2022, with follow-up visits every three months. Anthropometric measurements were carried out along with interviews. Data were analyzed using STATA version 15. Multilevel, multiple linear regressions were employed. Findings revealed that women’s average body mass index (BMI) was 20.4 kg/m<sup>2</sup> (95% CI: 20.4–20.5). The highest (20.6 kg/m<sup>2</sup>, 95% CI: 20.5–20.8) was observed in December, while the lowest (20.2 kg/m<sup>2</sup>, 95% CI: 20–20.3) occurred in September. During the main postharvest period in December, the household food insecurity score was the lowest (median: 4, Inter quartile range (IQR): 0–9), while the household dietary diversity score (median: 6, IQR: 5–7), and the household food consumption score were the highest (median: 50.5, IQR: 44–70). Factors such as household food security, food consumption, previous season BMI, age, marital status, and membership in safety net programs were identified as determinants of women’s BMI. The study showed the vulnerability of women in drought-prone areas to seasonal undernutrition. We recommend collaborative work among stakeholders to ensure sustainable food access and minimize seasonal food shortages’ effect on women’s nutrition and overall well-being.</p>
+</abstract>
+<funding-group>
+<award-group id="award001">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100005416</institution-id>
+<institution>Norges Forskningsråd</institution>
+</institution-wrap>
+</funding-source>
+<award-id>CMI project: 18033</award-id>
+<principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6267-6984</contrib-id>
+<name name-style="western">
+<surname>Lindtjørn</surname>
+<given-names>Bernt</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<funding-statement>This study was funded by Norges Forskningsråd or the Research Council of Norway (CMI Project: 18033) in the form of funding awarded to the Co-producing Gender-responsive Climate Services for Enhanced Food and Nutrition Security and Health in Ethiopia and Tanzania (COGENT) project conducted under Hawassa University. The funders were not involved in the study design, data collection and analysis, publication decision, or manuscript preparation.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="3"/>
+<table-count count="4"/>
+<page-count count="18"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability">
+<meta-name>Data Availability</meta-name>
+<meta-value>The data is deposited on Dryad with dataset title “Household food accessibility and women nutrition in rural South Ethiopia”. DOI <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.sj3tx96c1" xlink:type="simple">https://doi.org/10.5061/dryad.sj3tx96c1</ext-link>.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>Introduction</title>
+<p>Farmers in low-income countries often rely on rain-fed agriculture, which is affected by seasonal and weather variability [<xref ref-type="bibr" rid="pgph.0003294.ref001">1</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref002">2</xref>]. This can lead to low and insufficient agricultural production for year-round consumption, resulting in periodic food scarcity, as shown in countries such as Burkina Faso, Ghana, Bangladesh, and Ethiopia [<xref ref-type="bibr" rid="pgph.0003294.ref003">3</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref006">6</xref>]. Seasonal food shortages can also result in unstable household wealth and changing household food security [<xref ref-type="bibr" rid="pgph.0003294.ref007">7</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref011">11</xref>], often affecting women’s nutritional status [<xref ref-type="bibr" rid="pgph.0003294.ref012">12</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref014">14</xref>].</p>
+<p>The effect of seasonal food shortages on women’s nutrition can be influenced by other factors such as workload, illness, culture, and reproductive responsibilities. Women usually work from dawn to dusk throughout the year on household chores, social obligations, paid labor, and substantial agricultural tasks during peak seasons [<xref ref-type="bibr" rid="pgph.0003294.ref015">15</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref016">16</xref>]. This heavy workload and inadequate food during lean periods can lead to an energy imbalance and undernutrition [<xref ref-type="bibr" rid="pgph.0003294.ref017">17</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref020">20</xref>].</p>
+<p>Illness is the other contributing factor to undernutrition, creating a vicious cycle [<xref ref-type="bibr" rid="pgph.0003294.ref021">21</xref>]. Illness results in a loss of appetite, diminished nutrient absorption, and increased energy expenditure, all collectively contributing to undernutrition [<xref ref-type="bibr" rid="pgph.0003294.ref022">22</xref>]. Undernutrition, in turn, can increase the incidence and severity of illnesses [<xref ref-type="bibr" rid="pgph.0003294.ref023">23</xref>]. This can negatively influence household wealth by limiting women’s productivity and increasing healthcare expenditure [<xref ref-type="bibr" rid="pgph.0003294.ref024">24</xref>]. Studies in Ethiopia showed that intestinal parasitic infestation [<xref ref-type="bibr" rid="pgph.0003294.ref025">25</xref>], anemia [<xref ref-type="bibr" rid="pgph.0003294.ref026">26</xref>], malaria, and other infectious diseases can predict women’s undernutrition. Limited decision-making power, a lack of money for treatment, and a lack of access to quality healthcare exacerbate the impact of illness on women’s nutritional status [<xref ref-type="bibr" rid="pgph.0003294.ref027">27</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref028">28</xref>].</p>
+<p>Culture can impact women’s undernutrition by influencing the amount and quality of food they eat [<xref ref-type="bibr" rid="pgph.0003294.ref029">29</xref>]. Pregnancy and breastfeeding increase nutritional needs, but studies show women in several countries often don’t meet these recommendations, especially during periods of food shortages [<xref ref-type="bibr" rid="pgph.0003294.ref008">8</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref013">13</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref030">30</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref032">32</xref>]. Focusing on women’s nutrition is essential because they are vital to household food security since they are frequently involved in food production, purchasing, preparation, preservation, and allocation [<xref ref-type="bibr" rid="pgph.0003294.ref033">33</xref>]. Furthermore, women often invest their income to improve the health and education of their children [<xref ref-type="bibr" rid="pgph.0003294.ref019">19</xref>]. Therefore, improving women’s nutrition is about her and the whole family’s well-being.</p>
+<p>Previous research in Nepal, Madagascar, and Ethiopia demonstrated the existence of seasonal variation in household food security, dietary diversity, and food consumption [<xref ref-type="bibr" rid="pgph.0003294.ref013">13</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref034">34</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref036">36</xref>]. However, the effect of these variations on the nutritional status of women of reproductive age group has yet to be adequately investigated. Many nutrition-related studies in Ethiopia and other low-income countries usually focus on pregnant women or mothers with children under the age of five, excluding women who are not yet mothers or are unable to conceive [<xref ref-type="bibr" rid="pgph.0003294.ref037">37</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref040">40</xref>]. It is essential to recognize that assessing and improving women’s nutrition extends beyond reproductive responsibilities. In Africa, women make up nearly 40% of the agricultural labor force [<xref ref-type="bibr" rid="pgph.0003294.ref041">41</xref>], highlighting their significant contribution to the economy and emphasizing the importance of their well-being.</p>
+<p>In our study, we conducted a more comprehensive assessment of the wealth index compared to the usual practice of measuring it only once. Instead, we measured it three times within a year to capture its temporal variation. Additionally, we considered the impact of women’s previous BMI on their current BMI.</p>
+<p>This study aimed to assess the effect of seasonal variation in household food security, adequate dietary diversity, food consumption, and wealth status on the nutritional status of women of reproductive age in a rural community in South Ethiopia and identify associated factors with women’s nutritional status. To achieve these objectives, we tested the hypothesis that women’s body mass index remains unchanged regardless of seasonal variations in household food security, consumption, dietary diversity, and wealth.</p>
+</sec>
+<sec id="sec002" sec-type="materials|methods">
+<title>Methods and materials</title>
+<sec id="sec003">
+<title>Study area description, food production, and food availability</title>
+<p>An open cohort study was conducted in the Boricha and Bilate Zuria districts in the Sidama National Regional State from June 2021 to June 2022, with follow-up visits every three months.</p>
+<p>The Sidama Region has 30 districts and 636 <italic>kebeles</italic> (the smallest administrative unit in Ethiopia). Bilate Zuria and Boricha are drought-prone districts with 30 rural and two urban <italic>kebeles</italic>. In 2022, the population size in these two districts was estimated to be 282,002, with 142,214 females. The annual birth rate was 22.8/1000 population, and women of reproductive age constitute 23.3% of the population. One primary hospital, eight health centers, and 30 health posts are governmental health institutions that provide health services to the population in the two districts [<xref ref-type="bibr" rid="pgph.0003294.ref042">42</xref>].</p>
+<p>The districts have a bimodal rainfall pattern; the main is <italic>Belg</italic>, which lasts from March to May, and the other rainy season, <italic>Kiremt</italic>, lasts from June to the end of September. Despite the presence of Bilate River in Bilate Zuria, both districts experience water scarcity, particularly during dry seasons [<xref ref-type="bibr" rid="pgph.0003294.ref043">43</xref>].</p>
+<p>The area has two harvesting times; the first harvest usually begins in August for short-cycle crops like potatoes, sweet potatoes, pepper, and haricot beans. The second harvest time starts around October for long-cycle crops like maize [<xref ref-type="bibr" rid="pgph.0003294.ref044">44</xref>]. Enset (<italic>Ensete ventricosum</italic>), which takes 5 to 7 years to mature, is a resilient food source during lean periods [<xref ref-type="bibr" rid="pgph.0003294.ref045">45</xref>]. Kale and sugarcane usually grow throughout the year. Some residences cultivate perennial crops like coffee, khat (<italic>Catha edulis</italic>), banana, and avocado. Coffee, khat, sugarcane, and paper are cash crops in the area.</p>
+<p>Boricha and Bilate Zuria districts are food-insecure areas. The food shortage gradually improves with the first harvest as household food stocks replenish and mini corn (unripe corn) bridges the food deficit until the second harvest. Food stocks reach their peak during the second harvest [<xref ref-type="bibr" rid="pgph.0003294.ref046">46</xref>]. However, in March, the food stocks usually deplete, and household food availability declines.</p>
+<p>Food insecurity is deeply rooted and has multiple underlying causes in the area. Despite efforts to improve livelihoods, household food insecurity remains a persistent problem [<xref ref-type="bibr" rid="pgph.0003294.ref047">47</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref048">48</xref>]. Population density, land scarcity, limited crop diversity, traditional farming methods, and climate change contribute to decreased crop and livestock production, exacerbating household food insecurity [<xref ref-type="bibr" rid="pgph.0003294.ref049">49</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref051">51</xref>].</p>
+<p>Furthermore, the COVID-19 pandemic, national instability due to the civil war and local disputes have added to the challenges faced by the residents. These conditions have led to price inflation for fertilizers, seeds, and food, worsening the already vulnerable situation.</p>
+</sec>
+<sec id="sec004">
+<title>Ethical consideration</title>
+<p>The Institutional Review Board of Hawassa University provided ethical clearance for the current study, conducted under the "Co-producing Gender-responsive Climate Services for Enhanced Food and Nutrition Security and Health in Ethiopia and Tanzania (COGENT) project." The project team obtained the first clearance on May 20, 2021(reference number IRB/181/13). Subsequently, a second clearance was obtained specifically for assessing women’s nutritional status, illness assessment, and level of physical activity on September 7, 2021 (reference number IRB/275/13). Additionally, the project team acquired the necessary permission letters from the Regional Health Bureau and district health offices.</p>
+<p>Written informed consent was obtained directly from participants who were 18 years old and above. In the case of adolescents below the age of 18, written consent was obtained from their parents or legal guardians. Throughout the study, strict confidentiality measures were implemented, ensuring that all information remained confidential. Personal identifiers were not used during the data analysis and data-sharing processes.</p>
+</sec>
+<sec id="sec005">
+<title>Data collection procedure</title>
+<p>The study included households that had previously participated in a study conducted in 2017 [<xref ref-type="bibr" rid="pgph.0003294.ref034">34</xref>]. To select the participants, a multistage sampling technique was employed. From the 30 rural <italic>kebeles</italic> in the districts, nine <italic>kebeles</italic> were randomly chosen. Subsequently, a total of 910 households were selected using cluster sampling. All eligible girls and women between the ages of 15 and 49 from the selected households were included in the study, except those who were seriously ill, paralyzed, deformed or belonged to families experiencing grief or festivity during the data collection period.</p>
+<p>The sample size was calculated using OpenEpi version 3.03 (Open Source Epidemiologic Statistics for Public Health; <ext-link ext-link-type="uri" xlink:href="http://www.openepi.com/" xlink:type="simple">www.OpenEpi.com</ext-link>). The sample size for the study was calculated based on the seasonal variation of women’s BMI. A sample size of 904 women was determined using assumptions from a previous cohort study conducted in the eastern part of Ethiopia [<xref ref-type="bibr" rid="pgph.0003294.ref014">14</xref>]. In that study, the percentage of mothers with a BMI less than 18.5 kg/m<sup>2</sup> during the pre-harvest season was 54.7%, and the percentage during the post-harvest period was 41.7%. A confidence level of 95% and a power of 80% were considered, with a ratio of unexposed to exposed individuals set at 1:1. Considering a design effect of 1.5 and assuming a 20% non-response rate; the final sample size was estimated to be 904 women. However, to minimize the effect of mobility and non-respondent rate we include all eligible (1,089 women) in the selected households.</p>
+</sec>
+<sec id="sec006">
+<title>Outcome variables</title>
+<p>The outcome variable was body mass index (BMI). Body weight was measured using a digital <italic>SECA</italic> scale (SECA GmbH, Germany) with a precision of 0.1 kg. The weight measurements were conducted using the following procedure: Before data collection, we verified the accuracy of the weight scales using an object with a known weight. Data collectors ensured the scale reading was exactly at zero ahead of any measurement, and the measurements were taken on a flat surface. The individuals being weighed wore lightweight clothes and stood barefoot.</p>
+<p>Height was measured with a standard stadiometer (SECA 217, GmbH, and Study Germany) to the nearest 0.1 cm. The participants stood upright, facing forward, with their heads and feet bare. They positioned themselves with their arms hanging at their sides, feet together, and ensuring contact between their heels, buttocks, shoulder blades, and head with the vertical surface of the stadiometer.</p>
+<p><italic>Predictor variables</italic>. Household level predictors were the socio-demographic status of the household head (marital status, educational status, and occupation), family size, household food security, household dietary diversity, household food consumption, household wealth index, and membership in a productive safety net program. Individual level factors were socio-demographic characteristics of the women (age, marital status, educational status, and occupation) and previous season BMI.</p>
+<p><italic>Food consumption score</italic>. Household food consumption was evaluated using a food frequency questionnaire comprising 12 food groups [<xref ref-type="bibr" rid="pgph.0003294.ref052">52</xref>]. The questionnaire assessed the frequency at which households consumed specific food groups. Respondents were provided with eight options to recall the frequency of consumption. 1: once/week, 2: twice a week, 3: 3 times a week, 4: 4 times a week 5: 2 or more times a month 6: once a month 7: yearly 8: never</p>
+<p>To calculate the food consumption score, the weekly consumption of each food group was weighted based on its nutrient density. The weighting scheme was as follows: cereals and roots were combined as main staples and assigned a weight of 2, vegetables weighed 1, fruits had a weight of 1, meat, fish, eggs, and milk had a weight of 4, pulses weighted 3, sweets weighted 0.5, fats weighted 0.5, and condiments weighted 0 [<xref ref-type="bibr" rid="pgph.0003294.ref052">52</xref>]. The weight assigned to each food group was multiplied by the number of days that the food group was consumed in a week. These weighted scores for each food group were then summed together to obtain the total food consumption score. This score was classified based on the following cut points [<xref ref-type="bibr" rid="pgph.0003294.ref052">52</xref>]:</p>
+<p>Households with a food consumption score &lt; = 21: poor food consumption;</p>
+<p>Households with a food consumption score of 21.5 to 35: borderline food consumption; and,</p>
+<p>Households with a food consumption score &gt; 35: acceptable food consumption.</p>
+<p><italic>Household dietary diversity</italic>. A household dietary diversity score was calculated by summing up the number of food groups eaten in the house during the day and night before the date of data collection based on 24 hours of dietary recall for 12 food groups that include cereals, roots, or tubers; vegetables; fruits; meat or poultry; eggs; fish and seafood; pulses or nuts; milk and milk products; oil or fats; sugar or honey; and condiments or coffee [<xref ref-type="bibr" rid="pgph.0003294.ref053">53</xref>]. Households with a household dietary diversity score &lt; = 3 were considered to have low household dietary diversity, 4 to 6 medium household dietary diversity, and &gt; = 7 high household dietary diversity.</p>
+<p><italic>Household Food Insecurity Access Scale (HFIAS)</italic>. The Household Food Insecurity Access Scale (HFIAS), validated for use in the Ethiopian setting, was used to evaluate the seasonal household food insecurity variability [<xref ref-type="bibr" rid="pgph.0003294.ref054">54</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref056">56</xref>]. It determined the household food insecurity condition four weeks before the study. It contains nine conditions, and each of them was scaled as never = 0, rarely = 1 (1 or 2 times a month), sometimes = 2 (3 to 10 times in a month), and often = 3 (more than ten times in a month). The household food insecurity score was calculated by adding the frequency for each of the nine conditions (0 to 3). The numeric outcome ranges from 0 to 27. The household food insecurity level was classified into food secure, mildly, moderately, and severely food insecure based on the indicator guide mentioned above [<xref ref-type="bibr" rid="pgph.0003294.ref054">54</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref056">56</xref>].</p>
+<p><italic>Meal frequency</italic>. To assess meal frequency, we utilized a 24-hour dietary recall questionnaire. During data collection, participants were asked yes/no questions regarding the types of meals they had consumed on the previous day. Based on their responses, meal frequency was valued as 0: if nothing had been eaten, 1 for one meal/day, 2 for two meals/day, and 3 for three meals or more /day. They were also asked about the type of meal they had eaten in the past 24hours.</p>
+<p><italic>Wealth index</italic>. Economic status was assessed three times: in June 2021, December 2021, and June 2022. The wealth index was constructed using principal component analysis. Initially, the factors analysis included the following 15 asset-assessing variables: the size of farming land, livestock ownership, electricity, mobile telephone, chair, bed with cotton matters, kerosene-based lamp, type of floor, type of roof, type of wall, place of cooking, telephone expenditure per month, monthly i<italic>dir</italic> (traditional cooperation and the supporting system usually during grief) expense, monthly saving, and participation in <italic>equib</italic> (traditional saving association). The principal component analysis excluded variables with sample adequacy &lt; 0.5, communality &lt; 0.5, and complex structure. The correlation matrix for the variables in the PCAs contains two or more correlations of 0.30 or greater. The final component analysis included the following five variables: mobile phone, type of roof, type of floor, type of wall, and telephone expense per month. The overall sampling adequacy Kaiser-Meyer-Olkin (KMO) test was &gt; 0.50 (0.65), and the P-value of Bartlett’s Test of Sphericity was &lt; 0.001 [<xref ref-type="bibr" rid="pgph.0003294.ref057">57</xref>].</p>
+<p>The data collection tool was prepared in English and translated into <italic>Sidaamo Afoo</italic>. It contains questions regarding socio-demographic characteristics, housing conditions, other asset-assessing questions, household food insecurity, 24-hour dietary recall, and food frequency. Data was obtained through face-to-face interviews and anthropometric measurements. Eighteen data collectors, two from each <italic>kebele</italic>, were involved in data collection. All of them had completed tenth grade or more and were fluent speakers of the local <italic>Sidaamo Afoo</italic> language.</p>
+<p>Pre-tests were done in the Qorangoge <italic>kebele</italic> found out of the selected <italic>kebeles</italic>. Training was provided for data collectors and supervisors on the questionnaire’s contents and how to take anthropometric measurements. To improve the data accuracy, the height of the women was taken in two seasons, in September 2021 and December 2021, and the average height was taken for BMI calculation. If there were discrepancies between the height measurements, a third measurement was taken. All data collection was closely monitored and supervised.</p>
+<p>Data were collected four times in addition to the baseline data: in September and December (post-harvest time) and in March and June (pre-harvest time). Socio-demographic status was assessed only once on baseline (June 2021); household asset (3,133 observations) was collected three times (June 2021, December 2021, and June 2022); household food security (5,238 observations) and household dietary diversity (5,225 observations) were assessed five times throughout the data collection time; food consumption (4,185 observations) and women’s anthropometry (3,911 observations) were measured four times: September 2021, December 2021, March 2022, and June 2022.</p>
+<p>At the baseline, women from 910 households were recruited. In the final analysis, 1,089 women from 894 households were included. It was observed that 169 households had two or more women participating in the study. At the beginning of the study, there were 1,055 women, and an additional 34 participants were enrolled in September and December. Consequently, a total of 1,089 women participated in the study. On average, 1,050 women of reproductive age group were followed up for 12 months with a follow-up visit every three months (<xref ref-type="fig" rid="pgph.0003294.g001">Fig 1</xref>).</p>
+<fig id="pgph.0003294.g001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title>Flow chart showing the dynamics of study participants.</title>
+<p>Flowchart of Study Participants Dynamics. This figure illustrates the flow of study participants across the different phases of the research. It conveys information about the number of participants at each stage, as well as the dynamic movement of individuals in and out of the study. The figure also showed the missing data of main variables in each season. The abbreviations used are: HFI: Household Food Insecurity, HHDD: Household Dietary Diversity.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.g001" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec007">
+<title>Data processing and analysis</title>
+<p>The questionnaires were checked and edited during data collection at the end of each day. The data was entered into EpiData version 3.1 (EpiData Classic, <ext-link ext-link-type="uri" xlink:href="http://www.epidata.dk/" xlink:type="simple">Http://www.epidata.dk</ext-link>) and analysed using SPSS Version 25 (IBM Corp, Armonk, NY) and STATA Version 15 (Stata Corp, Texas, USA).</p>
+<p>Descriptive statistics was performed to explore the data, identify outliers, and understand the data’s nature. Multilevel mixed-effect linear regression was conducted to understand the <italic>kebele</italic>, <italic>Gout</italic> (a subdivision of <italic>kebele</italic>), and household-level variability [<xref ref-type="bibr" rid="pgph.0003294.ref058">58</xref>]. In our analysis, the clustering effect at the empty model’s household, <italic>Gout</italic>, and <italic>kebele</italic> levels was 65.4%, 3.6%, and 2%, respectively. However, our final model showed no household-level effect, so the analysis was performed without controlling these potential clustering effects. Despite the absence of clustering, we employed multilevel mixed-effect linear regression to address the issue of dependency and unbalanced measurements.</p>
+<p>Multicollinearity was checked using variance inflation factor (VIF), normality was assessed through histograms and normality curves, and linearity was examined using a Q-Q plot. Both household and individual level variables with a P-value of &lt; 0.25 in the univariate analysis were included in the multivariate analysis. Subsequently, a model was constructed, and the model with the lowest Akaike’s information criterion (AIC) value of 5,217 was chosen as the final model. In the multivariable analysis, variables with a P-value of &lt; 0.05 were considered the final predictor of women’s BMI.</p>
+</sec>
+</sec>
+<sec id="sec008" sec-type="results">
+<title>Results</title>
+<sec id="sec009">
+<title>Baseline socio-demographic characteristics of participants</title>
+<p>Adolescents 15 to 19 years old contribute to 135/1089 (12.4%) of the participants.</p>
+<p>The average family size (SD) was 5.6 (1.7) persons. The mean age of the women (SD) was 28.9 (7.6) years. Nearly 80% of the respondents (865/1089) were married. Most women, 71.5% (779/1,089), were engaged in farming as their occupation. Among the participants, 57.7% (628/1089) had not attended formal education. Almost all residents, 99.5% (1083/1089), belonged to the Sidama ethnicity. Additionally, 85.1% (927 out of 1089) of the participants were Protestant.</p>
+</sec>
+<sec id="sec010">
+<title>Household food security, dietary diversity, meal type, and food consumption</title>
+<p>Of 5,238 observations, 15.4% (808 observations) were from food-secured households, while 61% (3,194 observations) were from severely food-insecure households. Regarding the proportion of women from food-secured households, the highest proportion was observed in December, accounting for 32.8% (347 out of 1,059 observations), while the lowest was observed in June 2022, with only 6.5% (67 out of 1,025 observations); see <xref ref-type="table" rid="pgph.0003294.t001">Table 1</xref>.</p>
+<table-wrap id="pgph.0003294.t001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.t001</object-id>
+<label>Table 1</label> <caption><title>Seasonal variation of household food security, dietary diversity, food consumption and meal type among women of reproductive age groups in South Ethiopia: June 2021 to June 2022.</title></caption>
+<alternatives>
+<graphic id="pgph.0003294.t001g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.t001" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">Household food security category</th>
+<th align="center">June 2021 N = 1053<break/>n (%)</th>
+<th align="center">September N = 1053<break/>n (%)</th>
+<th align="center">December N = 1059<break/>n (%)</th>
+<th align="center">March N = 1048<break/>n (%)</th>
+<th align="center">June 2022 N = 1025<break/>n (%)</th>
+<th align="center">Over all observation N = 5238</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Food secure</td>
+<td align="right">133 (12.6)</td>
+<td align="right">131 (12)</td>
+<td align="right">347 (32.8)</td>
+<td align="right">130 (12.4)</td>
+<td align="right">67 (6.5)</td>
+<td align="right">808 (15.4)</td>
+</tr>
+<tr>
+<td align="left">Mildly insecure</td>
+<td align="right">42 (4.0)</td>
+<td align="right">67 (6.4)</td>
+<td align="right">195(18.4)</td>
+<td align="right">139 (13.4)</td>
+<td align="right">82 (8)</td>
+<td align="right">525 (10.2)</td>
+</tr>
+<tr>
+<td align="left">Moderately insecure</td>
+<td align="right">70 (6.7)</td>
+<td align="right">141 (13.6)</td>
+<td align="right">185 (17.5)</td>
+<td align="right">147 (14)</td>
+<td align="right">168 (16.4)</td>
+<td align="right">711 (13.6)</td>
+</tr>
+<tr>
+<td align="left">Severely insecure</td>
+<td align="right">808 (76.7)</td>
+<td align="right">714 (67.9)</td>
+<td align="right">332 (31.4)</td>
+<td align="right">632 (60.3)</td>
+<td align="right">708 (69.1)</td>
+<td align="right">3194 (61)</td>
+</tr>
+<tr>
+<td align="left"><bold>Household Dietary diversity</bold></td>
+<td align="center"><bold>N = 1040</bold></td>
+<td align="center"><bold>N = 1053</bold></td>
+<td align="center"><bold>N = 1059</bold></td>
+<td align="center"><bold>N = 1048</bold></td>
+<td align="center"><bold>N = 1025</bold></td>
+<td align="center"><bold>N = 5225</bold></td>
+</tr>
+<tr>
+<td align="left">Low</td>
+<td align="right">123 (11.8)</td>
+<td align="right">217 (20.6)</td>
+<td align="right">54 (5.1)</td>
+<td align="right">95 (9.1)</td>
+<td align="right">57 (5.6)</td>
+<td align="right">546 (10.5)</td>
+</tr>
+<tr>
+<td align="left">Medium</td>
+<td align="right">704 (67.7)</td>
+<td align="right">725 (68.9)</td>
+<td align="right">721 (68.1)</td>
+<td align="right">779 (74.3)</td>
+<td align="right">854 (83.3)</td>
+<td align="right">3783 (72.4)</td>
+</tr>
+<tr>
+<td align="left">High</td>
+<td align="right">213 (20.5)</td>
+<td align="right">111 (10.5)</td>
+<td align="right">284 (26.8)</td>
+<td align="right">174 (16.6)</td>
+<td align="right">114 (11.1)</td>
+<td align="right">896 (17.2)</td>
+</tr>
+<tr>
+<td align="left"><bold>Meal type per day</bold></td>
+<td align="center"><bold>N = 1040</bold></td>
+<td align="center"><bold>N = 1053</bold></td>
+<td align="center"><bold>N = 1059</bold></td>
+<td align="center"><bold>N = 1048</bold></td>
+<td align="center"><bold>N = 1025</bold></td>
+<td align="center"><bold>N = 5225</bold></td>
+</tr>
+<tr>
+<td align="left">&gt; = 3 meals</td>
+<td align="right">526 (50.6)</td>
+<td align="right">564 (53.6)</td>
+<td align="right">851 (80.4)</td>
+<td align="right">711 (67.8)</td>
+<td align="right">634 (61.9)</td>
+<td align="right">3286 (62.9)</td>
+</tr>
+<tr>
+<td align="left">Breakfast and Dinner</td>
+<td align="right">382 (36.7)</td>
+<td align="right">373 (35.4)</td>
+<td align="right">185 (17.5)</td>
+<td align="right">262 (25)</td>
+<td align="right">357 (34.8)</td>
+<td align="right">1559 (29.8)</td>
+</tr>
+<tr>
+<td align="left">Lunch and Dinner</td>
+<td align="right">100 (9.6)</td>
+<td align="right">59 (5.6)</td>
+<td align="right">17 (1.6)</td>
+<td align="right">63 (6.0)</td>
+<td align="right">29 (2.8)</td>
+<td align="right">268 (5.1)</td>
+</tr>
+<tr>
+<td align="left">Breakfast and lunch</td>
+<td align="right">6 (0.6)</td>
+<td align="right">57 (5.4)</td>
+<td align="right">5 (0.5)</td>
+<td align="right">12 (1.1)</td>
+<td align="right">2 (0.2)</td>
+<td align="right">82 (1.6)</td>
+</tr>
+<tr>
+<td align="left">&lt; 2meals</td>
+<td align="right">26 (2.4)</td>
+<td align="right">0 (0.0)</td>
+<td align="right">1 (0.1)</td>
+<td align="right">0 (0.0)</td>
+<td align="right">3 (0.3)</td>
+<td align="right">30 (0.6)</td>
+</tr>
+<tr>
+<td align="left" colspan="2"><bold>Food consumption</bold></td>
+<td align="center"><bold>N = 1053</bold></td>
+<td align="center"><bold>N = 1059</bold></td>
+<td align="center"><bold>N = 1048</bold></td>
+<td align="center"><bold>N = 1025</bold></td>
+<td align="center"><bold>N = 4185</bold></td>
+</tr>
+<tr>
+<td align="left">Poor</td>
+<td align="left"/>
+<td align="right">81 (7.7)</td>
+<td align="right">27 (2.5)</td>
+<td align="right">28 (2.7)</td>
+<td align="right">15 (1.5)</td>
+<td align="right">151 (3.6)</td>
+</tr>
+<tr>
+<td align="left">Border line</td>
+<td align="left"/>
+<td align="right">332 (31.5)</td>
+<td align="right">89 (8.4)</td>
+<td align="right">159 (15.2)</td>
+<td align="right">363 (35.4)</td>
+<td align="right">943 (22.5)</td>
+</tr>
+<tr>
+<td align="left">Acceptable</td>
+<td align="left"> </td>
+<td align="right">640 (60.8)</td>
+<td align="right">943 (89.1)</td>
+<td align="right">861 (82.1)</td>
+<td align="right">647 (63.1)</td>
+<td align="right">3091 (73.9)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Most households had a medium dietary diversity of 72.4% (3,783/5,225 measurements). In December, the highest percentage of households with a high dietary diversity score was 26.8% (284/1059). Conversely, the lowest, 10.5% (111/1059), was observed in September; see <xref ref-type="table" rid="pgph.0003294.t001">Table 1</xref>.</p>
+<p>About one-third of the study participants, 37.1% (1939/5225 measurements), reported having two or fewer meals daily. At the baseline, around half of the women (49.4%; 514/1040) skipped one or more meals daily, the highest of all observed seasons. Lunch was the most frequently missed meal (29.8%; 1559/5225); see <xref ref-type="table" rid="pgph.0003294.t001">Table 1</xref>.</p>
+<p>From all observations, 151 of 4,185 measurements (3.6%) had poor household food consumption. The percentage of households with acceptable food consumption was higher in December at 89.1% (943/1,059) and March at 82.1% (861/1048), compared with September at 60.8% (640/1,053) and June at 63.1% (647/1025); see <xref ref-type="table" rid="pgph.0003294.t001">Table 1</xref>.</p>
+<p>The household food insecurity score (HFIASS) was the lowest in December (median: 4, IQR (interquartile range): 0–9) and the highest in June (median: 11, IQR: 7–16). The household dietary diversity score was nearly similar during the study periods, with a slight increment in December (median: 6, IQR: 5–7). On the other hand, the food consumption score was highest in December (median: 50.5, IQR: 44–70) and lowest in September (median: 39.5, IQR: 26–53) (<xref ref-type="fig" rid="pgph.0003294.g002">Fig 2</xref>).</p>
+<fig id="pgph.0003294.g002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title>Seasonal variation in the median score of household food insecurity, dietary diversity, and food consumption of women.</title>
+<p>Seasonal variation in Household Food Access. This figure illustrates the seasonal variations in key measures of household food access. Specifically, it plots the median values and interquartile ranges for: • HFIASS: Household Food Insecurity Access Scale Score.• HDDS: Household Dietary Diversity Score.• HFCS: Household Food Consumption Score.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.g002" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec011">
+<title>Wealth index</title>
+<p>The median (IQR) wealth index for all observations was 2,211 (900.5, 2,211). From all observations, nearly half of the households (52.1%: 1,635/3,138) were poor. The proportion of women from extremely poor households was the highest in June 2,022 (18.8%: 193/1027). At baseline, the proportion of very poor households (26.2%: 276/1,053) was the highest, while the proportion of women from rich households (11.4%: 120/1053) was the lowest, see <xref ref-type="table" rid="pgph.0003294.t002">Table 2</xref>.</p>
+<table-wrap id="pgph.0003294.t002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.t002</object-id>
+<label>Table 2</label> <caption><title>Household wealth status of women of reproductive age group in June 2021, December 2021, and June 2022, South Ethiopia.</title></caption>
+<alternatives>
+<graphic id="pgph.0003294.t002g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.t002" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">Household wealth</th>
+<th align="center">June 2021 N = 1053 n (%)</th>
+<th align="center">December N = 1058 n (%)</th>
+<th align="center">June 2022 N = 1027 n (%)</th>
+<th align="center">Overall N = 3138 n (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Extremely poor</td>
+<td align="right">138 (13.1)</td>
+<td align="right">146 (13.5)</td>
+<td align="right">193 (18.8)</td>
+<td align="right">477 (15.2)</td>
+</tr>
+<tr>
+<td align="left">Very poor</td>
+<td align="right">276 (26.2)</td>
+<td align="right">184 (17.4)</td>
+<td align="right">148 (14.4)</td>
+<td align="right">608 (19.4)</td>
+</tr>
+<tr>
+<td align="left">Poor</td>
+<td align="right">519 (49.3)</td>
+<td align="right">579 (54.7)</td>
+<td align="right">537 (52.3)</td>
+<td align="right">1635 (52.1)</td>
+</tr>
+<tr>
+<td align="left">Rich</td>
+<td align="right">120 (11.3)</td>
+<td align="right">149 (14.5)</td>
+<td align="right">149 (14.5)</td>
+<td align="right">418 (13.3)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec id="sec012">
+<title>BMI of women</title>
+<p>The mean BMI (95% CI) for women was 20.4 kg/m<sup>2</sup> (20.4, 20.5), with the highest BMI observed in the age group of 20–24 years at 20.9 kg/m<sup>2</sup> (20.7, 21.1). Among the different marital status groups, single women had the highest mean BMI of 20.7 kg/m<sup>2</sup> (20.5, 20.9). On the other hand, women with no formal education had the lowest mean BMI of 20.2 kg/m<sup>2</sup> (20.1, 20.3); See <xref ref-type="table" rid="pgph.0003294.t003">Table 3</xref>.</p>
+<table-wrap id="pgph.0003294.t003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.t003</object-id>
+<label>Table 3</label> <caption><title>Mean BMI of women 15 to 49 years old in south Ethiopia: September 2021 to June 2022.</title></caption>
+<alternatives>
+<graphic id="pgph.0003294.t003g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.t003" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">Variable</th>
+<th align="center">Mean BMI (95% CI)</th>
+<th align="center">SD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><bold>Age in year</bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">15–19</td>
+<td align="right">20.4 (20.2, 20.6)</td>
+<td align="right">2.0</td>
+</tr>
+<tr>
+<td align="left">20–24</td>
+<td align="right">20.9 (20.7, 21.1)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">25–29</td>
+<td align="right">20.5 (20.4, 20.6)</td>
+<td align="right">2.1</td>
+</tr>
+<tr>
+<td align="left">30–34</td>
+<td align="right">20.3 (20.2, 20.5)</td>
+<td align="right">2.3</td>
+</tr>
+<tr>
+<td align="left">35–39</td>
+<td align="right">20.4 (20.2, 20.5)</td>
+<td align="right">2.3</td>
+</tr>
+<tr>
+<td align="left">&gt; = 40</td>
+<td align="right">20.2 (19.9, 20.4)</td>
+<td align="right">2.5</td>
+</tr>
+<tr>
+<td align="left"><bold>Relation Ship</bold></td>
+<td align="left"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Household head</td>
+<td align="right">20.3 (19.9, 20.8)</td>
+<td align="right">2.3</td>
+</tr>
+<tr>
+<td align="left">Wife</td>
+<td align="right">20.4 (20.3, 20.5)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Child</td>
+<td align="right">20.7 (20.5, 20.9)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Other (Maid and relatives)</td>
+<td align="right">19.8 (16.6, 23.1)</td>
+<td align="right">2.6</td>
+</tr>
+<tr>
+<td align="left"><bold>Marital status</bold></td>
+<td align="left"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Married</td>
+<td align="right">20.4 (20.3, 20.5)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Single</td>
+<td align="right">20.7 (20.5, 20.9)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">others (Divorced and Widowed)</td>
+<td align="right">20.2 (19.8, 20.7)</td>
+<td align="right">2.3</td>
+</tr>
+<tr>
+<td align="left"><bold>Educational status</bold></td>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Couldn’t read and write</td>
+<td align="right">20.2 (20.1, 20.3)</td>
+<td align="right">2.3</td>
+</tr>
+<tr>
+<td align="left">Read and write</td>
+<td align="right">20.4 (20.1, 20.7)</td>
+<td align="right">2.0</td>
+</tr>
+<tr>
+<td align="left">Primary</td>
+<td align="right">20.7 (20.6, 20.9)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Secondary and above</td>
+<td align="right">20.7 (20.4, 20.9)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left"><bold>Occupational status</bold></td>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Farmer</td>
+<td align="right">20.3 (20.2, 20.4)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Student</td>
+<td align="right">20.8 (20.7, 21.0)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left">Trader</td>
+<td align="right">21.0 (20.7, 21.3)</td>
+<td align="right">2.6</td>
+</tr>
+<tr>
+<td align="left">Other (employed, dependent, daily labourer)</td>
+<td align="right">19.9 (19.5, 20.3)</td>
+<td align="right">2.2</td>
+</tr>
+<tr>
+<td align="left"><bold>Membership of safety net program</bold></td>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="right">20.3 (20.1, 20.5)</td>
+<td align="right">2.0</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="right">20.5 (20.4, 20.5)</td>
+<td align="right">2.3</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>The average BMI of December 20.6 kg/m<sup>2</sup> (95% CI: 20.5, 20.8) and March 20.6 kg/m<sup>2</sup> (95% CI: 20.4, 20.7) was significantly higher than the average BMI of September 20.2 kg/m<sup>2</sup> (95% CI: 20.0, 20.3) and June 20.3 kg/m<sup>2</sup> (95% CI: 20.2, 20.5); See <xref ref-type="fig" rid="pgph.0003294.g003">Fig 3</xref>.</p>
+<fig id="pgph.0003294.g003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.g003</object-id>
+<label>Fig 3</label>
+<caption>
+<title>Comparison of women’s BMI along different seasons, from September 2021 to June 2022, South Ethiopia.</title>
+<p>Seasonal variation in Women’s Body Mass Index. This figure illustrates the seasonal variation in the average body mass index of women in the study population. The abbreviations used is BMI: Body Mass Index.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.g003" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec013">
+<title>Predictors of women’s nutritional status</title>
+<p>A multilevel linear regression was employed to identify factors associated with women’s BMI. In the bivariate analysis, the following household-level factors showed a P-value of &lt; 0.25: household food security, dietary diversity, food consumption, and membership in a productive safety net program. Even if the wealth index had a higher P-value, we included it in the final model by considering its importance. On the other hand, all individual-level factors had a P-value of &lt; 0.25. However, the final model did not include occupational status because its inclusion in the multivariable analysis increased the Akaike Information Criterion (AIC) from 5217 to 5222. Therefore, the determinant factors of women’s BMI identified in the final model were household food insecurity score, household food consumption score, previous season BMI, age, educational status, marital status, and productive safety net program membership.</p>
+<p>The analysis showed that as age increased by one year, women’s BMI increased by β coefficient of 0.03 (95% CI: 0.02, 0.04). Household food insecurity score had an inverse relation with the BMI of women with β coefficient of -0.02 (95% CI: -0.03, -0.01), while the household food consumption score had a positive relation of 0.01 (95% CI: 0.01–0.02). Furthermore, the study found that women with a lower BMI in the previous season were likelier to have a lower BMI in the current season, as indicated by a β coefficient of 0.91 (95% CI: 0.89, 0.93). Unmarried women had higher BMI than married women, with a β coefficient of 0.57 (95% CI: 0.36, 0.77). Additionally, women who were not beneficiaries of the safety net program had higher BMIs than program beneficiaries, who had 0.38 (95% CI: 0.18–0.57); see <xref ref-type="table" rid="pgph.0003294.t004">Table 4</xref>.</p>
+<table-wrap id="pgph.0003294.t004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pgph.0003294.t004</object-id>
+<label>Table 4</label> <caption><title>Predictors of BMI of women of reproductive age group from September 2021 to June 2022, South Ethiopia.</title></caption>
+<alternatives>
+<graphic id="pgph.0003294.t004g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.t004" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">Variables</th>
+<th align="center">β coefficient</th>
+<th align="center">95% CI</th>
+<th align="center">P-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Age</td>
+<td align="right">0.03</td>
+<td align="right">0.02–0.04</td>
+<td align="right">&lt;0.001<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+<tr>
+<td align="left">Educational status</td>
+<td align="right">-0.01</td>
+<td align="right">-0.03, 0.02</td>
+<td align="right">0.578</td>
+</tr>
+<tr>
+<td align="left">Household food insecurity score</td>
+<td align="right">-0.02</td>
+<td align="right">-0.03–0.01</td>
+<td align="right">0.004<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+<tr>
+<td align="left">Household dietary diversity score</td>
+<td align="right">0.03</td>
+<td align="right">-0.02–0.09</td>
+<td align="right">0.224</td>
+</tr>
+<tr>
+<td align="left">Food consumption score</td>
+<td align="right">0.01</td>
+<td align="right">0.01–0.02</td>
+<td align="right">&lt;0.001<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+<tr>
+<td align="left">Wealth index</td>
+<td align="right">0.00002</td>
+<td align="right">-0.0001–0.0001</td>
+<td align="right">0.595</td>
+</tr>
+<tr>
+<td align="left">Previous BMI</td>
+<td align="right">0.91</td>
+<td align="right">0.89–0.93</td>
+<td align="right">&lt;0.001<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+<tr>
+<td align="left"><bold>Marital status</bold></td>
+<td align="right"/>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Married</td>
+<td align="right">1</td>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Single</td>
+<td align="right">0.57</td>
+<td align="right">0.36–0.77</td>
+<td align="right">&lt;0.001<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+<tr>
+<td align="left">others (Divorced and Widowed)</td>
+<td align="right">-0.14</td>
+<td align="right">0.47–0.2</td>
+<td align="right">0.416</td>
+</tr>
+<tr>
+<td align="left"><bold>Safety net</bold></td>
+<td align="right"/>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="right">1</td>
+<td align="right"/>
+<td align="right"/>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="right">0.38</td>
+<td align="right">0.18–0.57</td>
+<td align="right">&lt;0.001<xref ref-type="table-fn" rid="t004fn001">*</xref></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t004fn001"><p>* P- Value &lt; 0.05</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec id="sec014" sec-type="conclusions">
+<title>Discussion</title>
+<p>This study revealed the seasonal variation in household food access. Contrary to traditional assumptions, the study found that food scarcity occurred during the lean period in June, a month traditionally considered part of the food-plenty season in September. This suggests that the timing and duration of food shortages are unpredictable, underscored by the need to understand food accessibility dynamics.</p>
+<p>The study also showed a relative improvement in women’s average BMI during the season of better food access, indicating their higher vulnerability to seasonal undernutrition. Lower BMI was observed among married women, Productive Safety Net Program (PSNP) beneficiaries, and those with lower BMI in the previous season, suggesting these groups face compounded challenges. However, in this study, seasonal change in household wealth was not a predictor of women’s BMI.</p>
+<p>These findings suggest the need to consider the potential influence of localized weather patterns and the importance of examining seasonal food shortages within the broader climatic context. The development of climate resilience initiatives might help ensure year-round household food accessibility. Additionally, comprehensive interventions to better serve the specific needs of the most susceptible women to seasonal undernutrition are required to make a tangible difference in safeguarding their health and well-being.</p>
+<p>The study’s methodological approach was a key strength; an open cohort design allowed us to capture the dynamic, time-dependent relationships between food access, household wealth, and women’s nutritional status. This longitudinal perspective allowed the detection of trends and changes over time, a significant advancement from previous cross-sectional studies that provided only a static snapshot. The open cohort design also helped minimize loss to follow-up, enhancing the validity of the findings.</p>
+<p>The main limitations of the study include the length of follow-up time, different kinds of biases, and residual confounders. In drought-prone areas like Boricha, the study period of one year may have limited the ability to map seasonal patterns fully. Secondly, there is a limitation regarding the BMI of adolescents in the last two seasons. Since height measurements were only taken during the first two consecutive seasons, the BMI of adolescents in later seasons may be higher than expected due to potential height changes within six months. This study might be susceptible to information bias, such as social desirability and recall bias. Moreover, other unmeasured factors could affect the findings, such as the impact of school feeding programs, deworming, parity, contraception use, and other variables that should have been accounted for in our study. Lastly, using an open cohort design restricts the establishment of causal relationships.</p>
+<p>Despite the potential biases mentioned earlier, various efforts were undertaken to mitigate their impact on the study’s validity. We tried to minimize the social desirability bias aroused by the potential over-reporting of food scarcity in anticipation of aid by clearly explaining the study’s objectives to the respondents. Given that most dietary assessments relied on memory, there was a susceptibility to recall bias. To address this, we employed various strategies: we prompted respondents to recall their situations for household food security assessments and provided illustrative examples for each condition. Respondents were requested to list their food intake over the past 24 hours to minimize recall bias in household dietary diversity assessments. Furthermore, we managed recall bias in food consumption by restricting the duration of the food frequency analysis to a week. To mitigate information bias arising from inter- and intra-observer variability in anthropometric measurements, rigorous training sessions were conducted repeatedly. Despite the study’s limitations, the sample size was sufficient for generalizing the findings to similar drought-prone areas.</p>
+<p>In the current study, food availability was better in post-harvest than pre-harvest season, which aligns with findings in previous studies [<xref ref-type="bibr" rid="pgph.0003294.ref009">9</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref013">13</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref059">59</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref060">60</xref>]. A study conducted in the same area about five years ago showed that the prevalence of household food insecurity was higher in March than in September [<xref ref-type="bibr" rid="pgph.0003294.ref034">34</xref>], contrary to the current study. The unexpected food shortage in September and better household food security in March might be related to the inadequate and late onset of <italic>Belg</italic> rain for 2021 [<xref ref-type="bibr" rid="pgph.0003294.ref044">44</xref>]. This might have postponed the harvest time, prolonged the lean period until September, and extended the food stock for longer. Alternatively, there could be unmeasured nutritional interventions, support, or aids that reduce the magnitude of household food insecurity in March [<xref ref-type="bibr" rid="pgph.0003294.ref007">7</xref>]. The food accessibility in December and June followed the expected pattern.</p>
+<p>The mean BMI is consistent with a study conducted in eastern Ethiopia [<xref ref-type="bibr" rid="pgph.0003294.ref061">61</xref>] but slightly lower than other studies in Ethiopia [<xref ref-type="bibr" rid="pgph.0003294.ref062">62</xref>–<xref ref-type="bibr" rid="pgph.0003294.ref064">64</xref>]. The difference in average BMI in the later studies could be due to differences in the study target. The target groups in these studies were lactating women. The current study was also conducted in drought-prone areas, which could contribute to the lower average BMI. This relatively lower average BMI suggests the presence of potential nutritional deficiencies and associated health risks.</p>
+<p>In our study, women’s average BMI was higher during December and March, corresponding to seasons with relatively better food access. This observation aligns with previous studies demonstrating the positive impact of improved household food access on women’s nutritional status [<xref ref-type="bibr" rid="pgph.0003294.ref014">14</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref035">35</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref065">65</xref>].</p>
+<p>Food-insecure households may not get adequate amounts and quality of food, predisposing them to undernutrition or overnutrition [<xref ref-type="bibr" rid="pgph.0003294.ref066">66</xref>]. In this study, household food security and high food consumption scores were associated with better BMI, consistent with other study findings [<xref ref-type="bibr" rid="pgph.0003294.ref036">36</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref047">47</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref067">67</xref>]. This study’s mean BMI improved as age increased, which is consistent with previous studies [<xref ref-type="bibr" rid="pgph.0003294.ref068">68</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref069">69</xref>]. As women age increases, reproductive responsibilities also increase, possibly contributing to weight gain.</p>
+<p>In the current study, unmarried women had a better BMI than married women, supported by a few studies [<xref ref-type="bibr" rid="pgph.0003294.ref070">70</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref071">71</xref>]. Most unmarried women were 15 to 19 years old and were primary school students, potentially receiving additional food from school feeding programs [<xref ref-type="bibr" rid="pgph.0003294.ref072">72</xref>]. On the other hand, almost all married women were mothers, and food allocation was their responsibility. Therefore, during times of food shortage, they might prioritize their children [<xref ref-type="bibr" rid="pgph.0003294.ref073">73</xref>]. This could be an additional explanation for the higher BMI among unmarried women in the current study. This suggests that mothers are more susceptible to seasonal undernutrition compared to women who are not mothers.</p>
+<p>The Productive Safety Net Program (PSNP) is one of the social protection schemes in Ethiopia [<xref ref-type="bibr" rid="pgph.0003294.ref074">74</xref>]. It aims to support vulnerable households by offering cash transfers or food assistance for half of the year, usually during food shortages. However, several challenges hinder the program’s effectiveness, including inadequate cash transfers, delayed payments, and lack of sustainable effect [<xref ref-type="bibr" rid="pgph.0003294.ref075">75</xref>]. Despite these challenges, the PSNP positively impacts household food security and helps to prevent asset loss during catastrophic shocks [<xref ref-type="bibr" rid="pgph.0003294.ref048">48</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref075">75</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref076">76</xref>]. The current study indicated that the mean BMI of PSNP beneficiary women was lower than that of the non-beneficiaries, as shown by [<xref ref-type="bibr" rid="pgph.0003294.ref061">61</xref>].</p>
+<p>Contrary to this, other studies have shown that PSNP reduces childhood stunting and women’s undernutrition [<xref ref-type="bibr" rid="pgph.0003294.ref064">64</xref>, <xref ref-type="bibr" rid="pgph.0003294.ref077">77</xref>]. In the current study, the BMI of PSNP beneficiaries was lower than their counterparts in all seasons. This could suggest a pre-existing difference in average BMI between PSNP beneficiaries and non-beneficiaries. Therefore, further research is required to determine the effect of the PSNP on women’s nutritional status. This finding indicates that the Safety Net program should reassess the adequacy of its support to its beneficiaries. Furthermore, it should be integrated with other interventions to enhance the program’s effectiveness.</p>
+<p>This study found that women’s nutritional status in the previous season influences their nutritional status in the current season. This suggests that undernourished women will likely remain undernourished, regardless of some improvement in food availability.</p>
+</sec>
+<sec id="sec015" sec-type="conclusions">
+<title>Conclusion</title>
+<p>Household food security, dietary diversity, and food consumption vary across seasons. These variations are accompanied by changes in women’s BMI, highlighting their vulnerability to undernutrition during certain seasons. However, the patterns of variation are different from year to year and are influenced by the weather conditions. Any deviations from typical weather patterns can decrease crop productivity and food accessibility and subsequently impact the nutritional status of the women. In addition to food accessibility, age, marital status, productive safety net membership, and previous BMI were predictors of women’s BMI.</p>
+</sec>
+<sec id="sec016">
+<title>Recommendation</title>
+<p>To tackle seasonal food shortages and their disproportionate impact on women’s nutrition, we recommend that policymakers integrate sustainable food access policies across sectors and develop gender-responsive social protection programs. Local governments should empower women through entrepreneurship, vocational training, financial services, and nutrition education. Researchers should explore options to minimize reliance on rain-fed agriculture and evaluate the effectiveness of social protection programs. Farmers should diversify their income sources by engaging in off-farm activities. Implementing these recommendations could improve the nutritional well-being of women and other vulnerable groups.</p>
+</sec>
+<sec id="sec017" sec-type="supplementary-material">
+<title>Supporting information</title>
+<supplementary-material id="pgph.0003294.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.s001" xlink:type="simple">
+<label>S1 Table</label>
+<caption>
+<title>Socio-demographic characteristics of 15 to 49-year-old women in South Ethiopia, June 2021.</title>
+<p>This table provides the socio-demographic information of 1,089 women participants from 894 households. The data are presented as count (n) and percentage (%). The abbreviation “N” refers to the total number of participants.</p>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pgph.0003294.s002" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.s002" xlink:type="simple">
+<label>S2 Table</label>
+<caption>
+<title>Socio-demographic characteristics of household heads, South Ethiopia, June 2021.</title>
+<p>This table presents the socio-demographic information of the household heads where the study participants reside. The data are presented as count (n) and percentage (%).</p>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We express our gratitude to the COGENT project for funding this study. We want to thank the Health Bureau of the Sidama National Regional State and the health offices of the Boricha and Bilate Zuria districts for their valuable support. We would also like to thank the study participants and data collectors for their contributions. Lastly, we acknowledge the data clerk for their assistance in data entry.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pgph.0003294.ref001"><label>1</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tirado</surname> <given-names>M.C.</given-names></name>, <name name-style="western"><surname>Crahay</surname> <given-names>P.</given-names></name>, <name name-style="western"><surname>Hunnes</surname> <given-names>D.</given-names></name>, <name name-style="western"><surname>Cohen</surname> <given-names>M.</given-names></name>, <name name-style="western"><surname>Denton</surname> <given-names>F.</given-names></name>, <name name-style="western"><surname>Lartey</surname> <given-names>A.</given-names></name> <article-title>Climate change and nutrition in Africa: With a focus on Sub-Saharan Africa.</article-title> <source>SUNRAY</source>, <year>2012</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref002"><label>2</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Krishna</surname> <given-names>Krishnamurthy P.</given-names></name>, <name name-style="western"><surname>Kirsty</surname> <given-names>Lewis</given-names></name>, <article-title>Choularton Richard J. Climate impacts on food security and nutrition.</article-title> <source>WFP, Met office</source>, <year>2012</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Arsenault Joanne</surname> <given-names>E.</given-names></name>, <name name-style="western"><surname>Nikiema</surname> <given-names>Laetitia</given-names></name>, <name name-style="western"><surname>Allemand</surname> <given-names>Pauline</given-names></name>, <name name-style="western"><surname>Ayassou</surname> <given-names>Kossiwavi A</given-names></name>., <name name-style="western"><surname>Lanou</surname> <given-names>Hermann</given-names></name>, <name name-style="western"><surname>Moursi</surname> <given-names>Mourad</given-names></name>, <etal>et al</etal>. <article-title>Seasonal differences in food and nutrient intakes among young children and their mothers in rural Burkina Faso</article-title>. <source>JOURNAL OF NUTRITIONAL SCIENCE</source>. <year>2014</year>;<volume>3</volume>(<issue>55</issue>):<fpage>1</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/jns.2014.53" xlink:type="simple">10.1017/jns.2014.53</ext-link></comment> <object-id pub-id-type="pmid">26101623</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref004"><label>4</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Abizari</surname> <given-names>A-R</given-names></name>, <name name-style="western"><surname>Azupogo</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Nagasu</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Creemers</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Brouwer</surname> <given-names>ID</given-names></name>. <article-title>Seasonality affects dietary diversity of school-age children in northern Ghana.</article-title> <source>PloS one.</source> <year>2017</year>;<volume>12</volume>(<issue>8</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0183206" xlink:type="simple">10.1371/journal.pone.0183206</ext-link></comment> <object-id pub-id-type="pmid">28806418</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chris</surname> <given-names>Hillbruner</given-names></name>, and <name name-style="western"><surname>Rebecca</surname> <given-names>Egan</given-names></name>. <article-title>Seasonality, household food security, and nutritional status in Dinajpur, Bangladesh.</article-title> <source>Food and Nutrition Bulletin</source>. <year>2008</year>;<volume>29</volume>(<issue>3</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref006"><label>6</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sibhatu</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Qaim</surname> <given-names>M</given-names></name>. <article-title>Rural food security, subsistence agriculture, and seasonality.</article-title> <source>PloS one.</source> <year>2017</year>;<fpage>12</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0186406" xlink:type="simple">10.1371/journal.pone.0186406</ext-link></comment> <object-id pub-id-type="pmid">29049329</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref007"><label>7</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Raihan Mohammad Jyoti</surname> <given-names>Farzana Fahmida Dil</given-names></name>, <name name-style="western"><surname>Sabiha</surname> <given-names>Sultana</given-names></name>, <name name-style="western"><surname>Saha Kuntal Kumar</surname> <given-names>Haque Md Ahshanul</given-names></name>, <name name-style="western"><surname>Rahman Ahmed</surname> <given-names>Shafiqur</given-names></name>, <etal>et al</etal>. <article-title>Effect of Seasons on Household Food Insecurity in Bangladesh.</article-title> <source>Food and energy security.</source> <year>2018</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref008"><label>8</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hanley-Cook</surname> <given-names>GT</given-names></name>, <name name-style="western"><surname>Argaw</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>de Kok</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Toe</surname> <given-names>LC</given-names></name>, <name name-style="western"><surname>Dailey-Chwalibóg</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Ouédraogo</surname> <given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Seasonality and Day-to-Day Variability of Dietary Diversity: Longitudinal Study of Pregnant Women Enrolled in a Randomized Controlled Efficacy Trial in Rural Burkina Faso</article-title>. <source>The Journal of nutrition</source>. <year>2022</year>;<volume>152</volume>(<issue>9</issue>):<fpage>2145</fpage>–<lpage>54</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/jn/nxac104" xlink:type="simple">10.1093/jn/nxac104</ext-link></comment> <object-id pub-id-type="pmid">35524695</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref009"><label>9</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stevens</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Watt</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Brimbecombe</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Clough</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Judd</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Lindsay</surname> <given-names>D</given-names></name>. <article-title>The role of seasonality on the diet and household food security of pregnant women living in rural Bangladesh: a cross-sectional study.</article-title> <source>Public health nutrition.</source> <year>2017</year>;<volume>20</volume>(<issue>1</issue>):<fpage>121</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S136898001600183X" xlink:type="simple">10.1017/S136898001600183X</ext-link></comment> <object-id pub-id-type="pmid">27573667</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hirvonen</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Taffesse</surname> <given-names>AS</given-names></name>, <name name-style="western"><surname>Worku Hassen</surname> <given-names>I</given-names></name>. <article-title>Seasonality and household diets in Ethiopia.</article-title> <source>Public health nutrition.</source> <year>2015</year>;<volume>19</volume>:<fpage>1723</fpage>–<lpage>30</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S1368980015003237" xlink:type="simple">10.1017/S1368980015003237</ext-link></comment> <object-id pub-id-type="pmid">26585676</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref011"><label>11</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lázár</surname> <given-names>AN</given-names></name>, <name name-style="western"><surname>Adams</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Adger</surname> <given-names>WN</given-names></name>, <name name-style="western"><surname>Nicholls</surname> <given-names>RJ</given-names></name>. <article-title>Modelling household well-being and poverty trajectories: An application to coastal Bangladesh.</article-title> <source>PloS one</source>. <year>2020</year>;<volume>15</volume>(<issue>9</issue>):<fpage>e0238621</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0238621" xlink:type="simple">10.1371/journal.pone.0238621</ext-link></comment> <object-id pub-id-type="pmid">32886732</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Savy</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Martin-Pre ´vel</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Traissac</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Eymard-Duvernay</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Delpeuch</surname> <given-names>F</given-names></name>. <article-title>Dietary diversity scores and nutritional status of women change during the seasonal food shortage in rural Burkina Faso</article-title>. <source>Journal of Nutrition</source> <year>2006</year>;<volume>136</volume>:<fpage>2625</fpage>–<lpage>32</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref013"><label>13</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Saville</surname> <given-names>NM</given-names></name>, <name name-style="western"><surname>Cortina-Borja</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>De Stavola</surname> <given-names>BL</given-names></name>, <name name-style="western"><surname>Pomeroy</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Marphatia</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Reid</surname> <given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Comprehensive analysis of the association of seasonal variability with maternal and neonatal nutrition in lowland Nepal.</article-title> <source>Public health nutrition.</source> <year>2021</year>;<volume>25</volume>(<issue>7</issue>):<fpage>1</fpage>–<lpage>16</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S1368980021003633" xlink:type="simple">10.1017/S1368980021003633</ext-link></comment> <object-id pub-id-type="pmid">34420531</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref014"><label>14</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Roba</surname> <given-names>K</given-names></name><name name-style="western"><surname>O’Connor</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Belachew</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>O’Brien</surname> <given-names>N</given-names></name>. <article-title>Seasonal variation in nutritional status and anemia among lactating mothers in two agro-ecological zones of rural Ethiopia: A longitudinal study.</article-title> <source>Nutrition</source>. <year>2015</year>;<volume>31</volume> (<issue>10</issue>): <fpage>1213</fpage>–<lpage>8</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.nut.2015.03.007" xlink:type="simple">10.1016/j.nut.2015.03.007</ext-link></comment> <object-id pub-id-type="pmid">26238533</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><collab>Food and Agriculture Organization of the united nations (FAO).</collab> <source>Addressing women’s work burden Key issues, promising solutions and way forward.</source> <year>2016</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref016"><label>16</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Komatsu</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Malapit</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Balagamwala</surname> <given-names>M</given-names></name>. <article-title>Gender effects of agricultural cropping work and nutrition status in Tanzania.</article-title> <source>PloS one</source>. <year>2019</year>;<volume>14</volume>(<issue>9</issue>):<fpage>e0222090</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0222090" xlink:type="simple">10.1371/journal.pone.0222090</ext-link></comment> <object-id pub-id-type="pmid">31490988</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harun</surname> <given-names>ME</given-names></name>. <article-title>Womens workload and their role in agricultural production in Ambo district, Ethiopia.</article-title> <source>Journal of Development and Agricultural Economics</source>. <year>2014</year>;<volume>6</volume>:<fpage>356</fpage>–<lpage>62</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5897/jdae2013.0546" xlink:type="simple">10.5897/jdae2013.0546</ext-link></comment></mixed-citation></ref>
+<ref id="pgph.0003294.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Galfato</surname> <given-names>Gabiso</given-names></name>, <name name-style="western"><surname>Tesfaye</surname> <given-names>Abebe</given-names></name>, <name name-style="western"><surname>TeferTewodros</surname></name>. <article-title>Women in Home garden Agro forestry system of Sidama, SNNPRS</article-title>, <source>Ethiopia Scholarly Journal of Agricultural Science</source> <year>2015</year>;<volume>5</volume>(<issue>4</issue>):<fpage>103</fpage>–<lpage>11</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jabeen</surname> <given-names>Salma</given-names></name>, <name name-style="western"><surname>Haq</surname> <given-names>Sanam</given-names></name>, <name name-style="western"><surname>Jameel</surname> <given-names>Arif</given-names></name>, <name name-style="western"><surname>Hussain</surname> <given-names>Abid</given-names></name>, <name name-style="western"><surname>Asif</surname> <given-names>Muhammad</given-names></name>, <name name-style="western"><surname>Hwang</surname> <given-names>Jinsoo</given-names></name>, <etal>et al</etal>. <article-title>"Impacts of Rural Women’s Traditional Economic Activities on Household Economy: Changing Economic Contributions through Empowered Women in Rural Pakistan.</article-title> <source>Sustainability, MDPI.</source> <year>2020</year>;<volume>12</volume>(<issue>7</issue>):<fpage>1</fpage>–<lpage>23</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref020"><label>20</label><mixed-citation publication-type="journal" xlink:type="simple"><collab>Ma. Elena Chiong-Javier.</collab> <article-title>Health Consequences of Rural Women Productive Role in Agriculture in the Philippines and Other Developing Countries.</article-title> <source>Journal of International Women’s Studies</source>. <year>2009</year>;<volume>10</volume>(<issue>4</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref021"><label>21</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Joffe</surname> <given-names>Michael</given-names></name>. <article-title>Health, livelihoods, and nutrition in low-income rural systems</article-title>. <source>Food and Nutrition Bulletin</source>. <year>2007</year>;<volume>28</volume>(<issue>2</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/15648265070282S202" xlink:type="simple">10.1177/15648265070282S202</ext-link></comment> <object-id pub-id-type="pmid">17658069</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maleta</surname> <given-names>K.</given-names></name> <source>Undernutrition Malawi Med J</source>. <year>2006</year>;<volume>18</volume>(<issue>4</issue>):<fpage>189</fpage>–<lpage>205</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref023"><label>23</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Militao</surname> <given-names>EMA</given-names></name>, <name name-style="western"><surname>Salvador</surname> <given-names>EM</given-names></name>, <name name-style="western"><surname>Uthman</surname> <given-names>OA</given-names></name>, <name name-style="western"><surname>Vinberg</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Macassa</surname> <given-names>G</given-names></name>. <article-title>Food Insecurity and Health Outcomes Other than Malnutrition in Southern Africa: A Descriptive Systematic Review.</article-title> <source>International journal of environmental research and public health</source>. <year>2022</year>;<volume>19</volume>(<issue>9</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/ijerph19095082" xlink:type="simple">10.3390/ijerph19095082</ext-link></comment> <object-id pub-id-type="pmid">35564477</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>John</surname> <given-names>Ulimwengu</given-names></name>. <source>Farmers’ health and agricultural productivity in rural Ethiopia AFJARE September</source> <year>2009</year>;<volume>3</volume>(<issue>2</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref025"><label>25</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gemechu</surname> <given-names>Kumera</given-names></name>, <name name-style="western"><surname>Dereje</surname> <given-names>Gedle</given-names></name>, <name name-style="western"><surname>Animut</surname> <given-names>Alebel</given-names></name>, <name name-style="western"><surname>Fetuma</surname> <given-names>Feyera</given-names></name>, and <name name-style="western"><surname>Setegn</surname> <given-names>Eshetie</given-names></name>. <article-title>Undernutrition and its association with socio-demographic, anemia and intestinal parasitic infection among pregnant women attending antenatal care at the University, Northwest Ethiopia.</article-title> <source>Maternal Health, Neonatology, and Perinatology.</source> <year>2018</year>;<volume>4</volume>(<issue>18</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref026"><label>26</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Andersen</surname> <given-names>CT</given-names></name>, <name name-style="western"><surname>Tadesse</surname> <given-names>AW</given-names></name>, <name name-style="western"><surname>Bromage</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Fekadu</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Hemler</surname> <given-names>EC</given-names></name>, <name name-style="western"><surname>Passarelli</surname> <given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Anemia Etiology in Ethiopia: Assessment of Nutritional, Infectious Disease, and Other Risk Factors in a Population-Based Cross-Sectional Survey of Women, Men, and Children</article-title>. <source>The Journal of nutrition</source>. <year>2021</year>;<volume>152</volume>(<issue>2</issue>):<fpage>501</fpage>–<lpage>12</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/jn/nxab366" xlink:type="simple">10.1093/jn/nxab366</ext-link></comment> <object-id pub-id-type="pmid">34647598</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Todd P Lewis</surname> <given-names>Margaret McConnell</given-names></name>, <name name-style="western"><surname>Aryal</surname> <given-names>Amit</given-names></name>, <name name-style="western"><surname>Irimu</surname> <given-names>Grace</given-names></name>, <name name-style="western"><surname>Mehata</surname> <given-names>Suresh</given-names></name>, <name name-style="western"><surname>Mrisho</surname> <given-names>Mwifadhi</given-names></name>, <etal>et al</etal>. <article-title>Health service quality in 2929 facilities in six low-income and middle-income countries: a positive deviance analysis</article-title>. <source>The Lancet Global health</source>. <year>2023</year>;<volume>11</volume>(<issue>6</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S2214-109X%2823%2900163-8" xlink:type="simple">10.1016/S2214-109X(23)00163-8</ext-link></comment> <object-id pub-id-type="pmid">37202022</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref028"><label>28</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Park</surname> <given-names>J-E</given-names></name>, <name name-style="western"><surname>Kibe</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Yeboah</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Oyebode</surname> <given-names>O</given-names></name>, <name name-style="western"><surname>Harris</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Ajisola</surname> <given-names>MM</given-names></name>, <etal>et al</etal>. <article-title>Factors associated with accessing and utilisation of healthcare and provision of health services for residents of slums in low and middle-income countries: a scoping review of recent literature</article-title>. <source>BMJ open</source>. <year>2022</year>;<volume>12</volume>(<issue>5</issue>):<fpage>e055415</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1136/bmjopen-2021-055415" xlink:type="simple">10.1136/bmjopen-2021-055415</ext-link></comment> <object-id pub-id-type="pmid">35613790</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref029"><label>29</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harris-Fry</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Shrestha</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Costello</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Saville</surname> <given-names>NM</given-names></name>. <article-title>Determinants of intra-household food allocation between adults in South Asia–a systematic review</article-title>. <source>International journal for equity in health</source>. <year>2017</year>;<volume>16</volume>(<issue>1</issue>):<fpage>107</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12939-017-0603-1" xlink:type="simple">10.1186/s12939-017-0603-1</ext-link></comment> <object-id pub-id-type="pmid">28637477</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref030"><label>30</label><mixed-citation publication-type="journal" xlink:type="simple"><collab>French agency for food environmental and occupational health and safety (ANSES).</collab> <article-title>Dietary guidelines for specific population groups.</article-title> <source>Children, pregnant &amp; breastfeeding women and the elderly 2019 expert appraisal.</source> <year>2019</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lander</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Hambidge</surname> <given-names>KM</given-names></name>, <name name-style="western"><surname>Westcott</surname> <given-names>JE</given-names></name>, <name name-style="western"><surname>Tejeda</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Diba</surname> <given-names>TS</given-names></name>, <name name-style="western"><surname>Mastiholi</surname> <given-names>SC</given-names></name>, <etal>et al</etal>. <article-title>Pregnant Women in Four Low-Middle Income Countries Have a High Prevalence of Inadequate Dietary Intakes That Are Improved by Dietary Diversity.</article-title> <source>Nutrients</source>. <year>2019</year>;<volume>11</volume>(<issue>7</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/nu11071560" xlink:type="simple">10.3390/nu11071560</ext-link></comment> <object-id pub-id-type="pmid">31295916</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zebenay Workneh Bitew</surname></name>, <name name-style="western"><surname>Alemu</surname> <given-names>Ayinalem</given-names></name>, <name name-style="western"><surname>Ermias Getaneh</surname> <given-names>Ayele</given-names></name>, <name name-style="western"><surname>Teshager</surname> <given-names>Worku</given-names></name>. <article-title>Dietary diversity and practice of pregnant and lactating women in Ethiopia: A systematic review and meta-analysis.</article-title> <source>Food science and nutrition</source>. <year>2021</year>;<volume>9</volume>:<fpage>2686</fpage>–<lpage>702</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/fsn3.2228" xlink:type="simple">10.1002/fsn3.2228</ext-link></comment> <object-id pub-id-type="pmid">34026082</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Naz</surname> <given-names>Madiha</given-names></name>, <name name-style="western"><surname>Izhar Ahmad</surname> <given-names>Khan</given-names></name>, <name name-style="western"><surname>Ashfaq Ahmad</surname> <given-names>Maan</given-names></name>, <name name-style="western"><surname>Shahbaz</surname> <given-names>B</given-names></name>. <article-title>Rural women contribution in household food security in agrarian communities: a cross-sectional study of rural areas of punjab, pakistan</article-title>. <source>J Agric Res</source>. <year>2020</year>;<volume>58</volume>(<issue>1</issue>):<fpage>49</fpage>–<lpage>57</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Belayneh</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Loha</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Seasonal Variation of Household Food Insecurity and Household Dietary Diversity on Wasting and Stunting among Young Children in A Drought Prone Area in South Ethiopia: A Cohort Study</article-title>. <source>Ecology of food and nutrition</source>. <year>2021</year>;<volume>60</volume>(<issue>1</issue>):<fpage>44</fpage>–<lpage>69</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/03670244.2020.1789865" xlink:type="simple">10.1080/03670244.2020.1789865</ext-link></comment> <object-id pub-id-type="pmid">32672490</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bosha</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Lambert</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Riedel</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Melesse</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Biesalski</surname> <given-names>HK</given-names></name>. <article-title>Dietary Diversity and Anthropometric Status of Mother-Child Pairs from Enset (False Banana) Staple Areas: A Panel Evidence from Southern Ethiopia.</article-title> <source>International journal of environmental research and public health</source>. <year>2019</year>;<volume>16</volume>(<issue>12</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/ijerph16122170" xlink:type="simple">10.3390/ijerph16122170</ext-link></comment> <object-id pub-id-type="pmid">31248176</object-id>; PubMed Central PMCID: PMC6617300.</mixed-citation></ref>
+<ref id="pgph.0003294.ref036"><label>36</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ravaoarisoa</surname></name>, <etal>et al</etal>. <article-title>Food consumption and undernutrition variations among mothers during the post harvest and lean seasons in Amoron’i Mania Region, Madagascar.</article-title> <source>BMC public health.</source> <year>2019</year>;<volume>19</volume>(<issue>1005</issue>):<fpage>3</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12889-019-7333-9" xlink:type="simple">10.1186/s12889-019-7333-9</ext-link></comment> <object-id pub-id-type="pmid">31349840</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref037"><label>37</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fox</surname> <given-names>Elizabeth L.</given-names></name>, <name name-style="western"><surname>Claire</surname> <given-names>Davis</given-names></name>, <name name-style="western"><surname>Downs Shauna</surname> <given-names>M</given-names></name>., <name name-style="western"><surname>Schultink</surname> <given-names>Werner</given-names></name>, <name name-style="western"><surname>Fanzo</surname> <given-names>Jessica</given-names></name>. <article-title>Who is the Woman in Women’s Nutrition? A Narrative Review of Evidence and Actions to Support Women’s Nutrition throughout Life</article-title>. <source>CURRENT DEVELOPMENTS IN NUTRITION</source>. <year>2019</year>;<volume>3</volume>(<issue>1</issue>):<fpage>nzy076</fpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/cdn/nzy076" xlink:type="simple">https://doi.org/10.1093/cdn/nzy076</ext-link>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref038"><label>38</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fite</surname> <given-names>MB</given-names></name>, <name name-style="western"><surname>Tura</surname> <given-names>AK</given-names></name>, <name name-style="western"><surname>Yadeta</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Oljira</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Roba</surname> <given-names>KT</given-names></name>. <article-title>Factors associated with food consumption score among pregnant women in Eastern Ethiopia: a community-based study</article-title>. <source>Journal of Health, Population and Nutrition.</source> <year>2022</year>;<volume>41</volume>(<issue>1</issue>):<fpage>6</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s41043-022-00286-x" xlink:type="simple">10.1186/s41043-022-00286-x</ext-link></comment> <object-id pub-id-type="pmid">35232495</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref039"><label>39</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Saaka</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Mutaru</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Osman</surname> <given-names>SM</given-names></name>. <article-title>Determinants of dietary diversity and its relationship with the nutritional status of pregnant women</article-title>. <source>J Nutr Sci</source>. <year>2021</year>;<fpage>2</fpage>(10). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/jns.2021.6" xlink:type="simple">10.1017/jns.2021.6</ext-link></comment> <object-id pub-id-type="pmid">33889397</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref040"><label>40</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bryson</surname> <given-names>JM</given-names></name>, <name name-style="western"><surname>Patterson</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Berrang-Ford</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Lwasa</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Namanya</surname> <given-names>DB</given-names></name>, <name name-style="western"><surname>Twesigomwe</surname> <given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Seasonality, climate change, and food security during pregnancy among indigenous and non-indigenous women in rural Uganda: Implications for maternal-infant health.</article-title> <source>PloS one.</source> <year>2021</year>;<volume>16</volume>(<issue>3</issue>):<fpage>e0247198</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0247198" xlink:type="simple">10.1371/journal.pone.0247198</ext-link></comment> <object-id pub-id-type="pmid">33760848</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref041"><label>41</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Palacios-Lopez</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Christiaensen</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Kilic</surname> <given-names>T</given-names></name>. <article-title>How much of the labor in African agriculture is provided by women?</article-title> <source>Food Policy.</source> <year>2017</year>;<volume>67</volume>:<fpage>52</fpage>–<lpage>63</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.foodpol.2016.09.017" xlink:type="simple">10.1016/j.foodpol.2016.09.017</ext-link></comment> <object-id pub-id-type="pmid">28413246</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref042"><label>42</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bureau</surname> <given-names>SRH</given-names></name>. <article-title>Sidama Regional Health Bureau 2015 EFY Health facility &amp; population Profile.</article-title> <year>2022</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref043"><label>43</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Matewos</surname> <given-names>T.</given-names></name> <article-title>Climate Change-Induced Impacts on Smallholder Farmers in Selected Districts of Sidama, Southern Ethiopia</article-title>. <source>Climate</source>. <year>2019</year>;<volume>7</volume>(<issue>5</issue>):<fpage>70</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/cli7050070" xlink:type="simple">10.3390/cli7050070</ext-link></comment></mixed-citation></ref>
+<ref id="pgph.0003294.ref044"><label>44</label><mixed-citation publication-type="journal" xlink:type="simple"><collab>Food and agriculture organization of the united state (FAO).</collab> <source>ETHIOPIA: Crop and Livestock Situation for Drought Affected Areas</source>—<month>September</month> <year>2022</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref045"><label>45</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brandt</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Spring</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Hiebsch</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>McCabe</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Tabogie</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Diro</surname> <given-names>M</given-names></name>, <etal>et al</etal>. <source>The Tree Against Hunger: Enset-Based Agricultural Systems in Ethiopia</source> <year>1997</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref046"><label>46</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Taffesse</surname> <given-names>Samson</given-names></name>, <name name-style="western"><surname>Grazia</surname> <given-names>Maria</given-names></name>, <name name-style="western"><surname>Girma</surname> <given-names>Woldemariam</given-names></name>. <article-title>Maternal energy and macronutrient insecurity in an ensete-corn staple village of Southern Ethiopia</article-title>. <source>Ethiopia Journal of Health Development</source>. <year>1999</year>;<volume>13</volume>(<issue>3</issue>):<fpage>285</fpage>–<lpage>90</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref047"><label>47</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mekides</surname> <given-names>Wolde</given-names></name>, <name name-style="western"><surname>Yifru</surname> <given-names>Berhan</given-names></name>, and <name name-style="western"><surname>Alemzewed</surname> <given-names>Chala</given-names></name>. <article-title>Determinants of underweight, stunting and wasting among schoolchildren.</article-title> <source>BMC public health.</source> <year>2015</year>;<volume>15</volume>(<issue>8</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref048"><label>48</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Galato Zerhun</surname> <given-names>Ganewo</given-names></name>. <article-title>Impact of productive safety net program on household asset building, food security and annual income in Sidama Zone, Southern Ethiopia.</article-title> <source>International Journal of Current research</source>. <year>2020</year>;<volume>12</volume>(<issue>02</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref049"><label>49</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Asefach</surname> <given-names>Hailu</given-names></name>, <name name-style="western"><surname>Nigatu</surname> <given-names>Regassa</given-names></name>. <article-title>Correlates of Household Food Security in Densely Populated Areas of Southern Ethiopia: Does the Household Structure Matter?</article-title> <source>Journal of Home and Community Sciences.</source> <year>2006</year>;<volume>1</volume>(<issue>2</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref050"><label>50</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Beruk Berhanu Desalegn</surname> <given-names>Biruk Jagiso</given-names></name>. <article-title>Low diet diversity and its associated factors among the mothers and their children in agroforestry land use systems of Sidama, Ethiopia: A community-based cross-sectional study.</article-title> <source>Cogent Food &amp; Agriculture.</source> <year>2020</year>;<volume>6</volume>(<issue>1</issue>).</mixed-citation></ref>
+<ref id="pgph.0003294.ref051"><label>51</label><mixed-citation publication-type="journal" xlink:type="simple"><collab>Hameso Seyoum Yunkura</collab>. <source>Perceptions, vulnerability and adaptation to climate change in Ethiopia: the case of smallholder farmers in Sidama: University of East London;</source> <year>2015</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref052"><label>52</label><mixed-citation publication-type="book" xlink:type="simple"><collab>Food and Nutrition Technical Assistance III Project (FANTA).</collab> <source>Nutrition Assessment, Counseling, and Support (NACS): A User’s Guide—Module 2: Nutrition Assessment and Classification. Version 2.</source> <publisher-loc>Washington DC</publisher-loc>: <publisher-name>FHI 360/FANTA</publisher-name>, <year>2016</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref053"><label>53</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Swindale</surname> <given-names>A.</given-names></name>, <name name-style="western"><surname>Bilinsky</surname> <given-names>P.</given-names></name> <source>Household Dietary Diversity Score (HDDS) for measurement of household food access: Indicator guide.</source> <publisher-loc>Washington, D.C</publisher-loc>: <publisher-name>FHI 360/FANTA</publisher-name>, <year>2006</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref054"><label>54</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Jennifer</surname> <given-names>Coates</given-names></name>, <name name-style="western"><surname>Anne</surname> <given-names>Swindale</given-names></name>, <name name-style="western"><surname>Paula</surname> <given-names>Bilinsky</given-names></name>. <source>Household Food Insecurity Access Scale (HFIAS) for Measurement of Household Food Access: Indicator Guide.</source> <publisher-loc>Washington, D.C</publisher-loc>.: <publisher-name>Food and Nutrition Technical Assistance Project, Academy for Educational Development</publisher-name>, <month>August</month> <year>2007</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref055"><label>55</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kabalo</surname> <given-names>BY</given-names></name>, <name name-style="western"><surname>Gebreyesus</surname> <given-names>SH</given-names></name>, <name name-style="western"><surname>Loha</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Performance of an adapted household food insecurity access scale in measuring seasonality in household food insecurity in rural Ethiopia: a cohort analysis.</article-title> <source>BMC Nutr.</source> <year>2019</year>;<volume>5</volume>(<issue>54</issue>):<fpage>019</fpage>–<lpage>0323</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref056"><label>56</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gebreyesus</surname> <given-names>SH</given-names></name>, <name name-style="western"><surname>Lunde</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Mariam</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Woldehanna</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Is the adapted Household Food Insecurity Access Scale (HFIAS) developed internationally to measure food insecurity valid in urban and rural households of Ethiopia?</article-title> <source>BMC Nutrition.</source> <year>2015</year>;<volume>1</volume>(<issue>1</issue>):<fpage>2</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/2055-0928-1-2" xlink:type="simple">10.1186/2055-0928-1-2</ext-link></comment></mixed-citation></ref>
+<ref id="pgph.0003294.ref057"><label>57</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lisa</surname> <given-names>Hjelm</given-names></name>, <name name-style="western"><surname>Astrid</surname> <given-names>Mathiassen</given-names></name>, <name name-style="western"><surname>Darryl</surname> <given-names>Miller</given-names></name>, <name name-style="western"><surname>Amit</surname> <given-names>W</given-names></name>. <article-title>VAM guidance paper: Creation of a wealth index.</article-title> <source>In: World food programme, editor.</source> <year>2017</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref058"><label>58</label><mixed-citation publication-type="book" xlink:type="simple"><source>StataCorp. Stata: Release 13 Statistical Software.</source> <publisher-loc>College Station TX:</publisher-loc> <publisher-name>StataCorp LP</publisher-name>, <year>2013</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref059"><label>59</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Waswa</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Jordan</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Krawinkel</surname> <given-names>MB</given-names></name>, <name name-style="western"><surname>Keding</surname> <given-names>GB</given-names></name>. <article-title>Seasonal Variations in Dietary Diversity and Nutrient Intakes of Women and Their Children (6–23 Months) in Western Kenya.</article-title> <source>Frontiers in Nutrition.</source> <year>2021</year>;<volume>8</volume>(<issue>80</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fnut.2021.636872" xlink:type="simple">10.3389/fnut.2021.636872</ext-link></comment> <object-id pub-id-type="pmid">33763444</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref060"><label>60</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kabeta</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Holst</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Wondafrash</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Frigessi</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Gebremariam</surname> <given-names>M</given-names></name>. <source>Determinants of Household Dietary Diversity in Rural Ethiopia: A Household Panel Study</source> <year>2022</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref061"><label>61</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Irenso</surname> <given-names>AA</given-names></name>, <name name-style="western"><surname>Atomsa</surname> <given-names>GE</given-names></name>. <article-title>Implications of Ethiopian Productive Safety Net Programme on household dietary diversity and women’s body mass index: a cross-sectional study.</article-title> <source>Food Nutr Res.</source> <year>2018</year>;<volume>62</volume>(<issue>1</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.29219/fnr.v62.1574" xlink:type="simple">10.29219/fnr.v62.1574</ext-link></comment> <object-id pub-id-type="pmid">30574045</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref062"><label>62</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kebede</surname> <given-names>TB</given-names></name>, <name name-style="western"><surname>Mengesha</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Lindtjorn</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Engebretsen</surname> <given-names>IMS</given-names></name>. <article-title>Anaemia, anthropometric undernutrition and associated factors among mothers with children younger than 2 years of age in the rural Dale district, southern Ethiopia: A community-based study.</article-title> <source>Matern Child Nutr</source>. <year>2022</year>;<volume>18</volume>(<issue>4</issue>):<fpage>25</fpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref063"><label>63</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Boke</surname> <given-names>MM</given-names></name>, <name name-style="western"><surname>Yesuf</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Gutema</surname> <given-names>BT</given-names></name>. <article-title>Prevalence of Undernutrition and Associated Factors among Lactating Mothers of Angecha District, Kembata Tembaro Zone, Southern Ethiopia</article-title>. <source>Journal of nutrition and metabolism</source>. <year>2021</year>;<volume>2021</volume>:<fpage>6691982</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1155/2021/6691982" xlink:type="simple">10.1155/2021/6691982</ext-link></comment> <object-id pub-id-type="pmid">33996153</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref064"><label>64</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Motbainor</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Worku</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Kumie</surname> <given-names>A</given-names></name>. <article-title>Household food insecurity is associated with both body mass index and middle upper-arm circumference of mothers in northwest Ethiopia: a comparative study.</article-title> <source>Int J Womens Health</source>. <year>2017</year>;<volume>9</volume>:<fpage>379</fpage>–<lpage>89</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2147/IJWH.S130870" xlink:type="simple">10.2147/IJWH.S130870</ext-link></comment> <object-id pub-id-type="pmid">28603432</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref065"><label>65</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Korir</surname> <given-names>Lilian</given-names></name>, <name name-style="western"><surname>Rizov</surname> <given-names>Marian</given-names></name>, <article-title>Eric Ruto Diet diversity, malnutrition and health: Evidence from Kenya</article-title>. <source>Journal of Agricultural Economics</source>. <year>2022</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref066"><label>66</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hadley Craig</surname> <given-names>L.</given-names></name> <article-title>Crooks Deborah Coping and the Biosocial Consequences of Food Insecurity in the 21st Century</article-title>. <source>YEARBOOK OF PHYSICAL ANTHROPOLOGY 55:72–94 (2012.</source> <year>2012</year>;<volume>55</volume>:<fpage>72</fpage>–<lpage>9</lpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref067"><label>67</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gelebo</surname> <given-names>DG</given-names></name>, <name name-style="western"><surname>Gebremichael</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Asale</surname> <given-names>GA</given-names></name>, <name name-style="western"><surname>Berbada</surname> <given-names>DA</given-names></name>. <article-title>Prevalence of undernutrition and its associated factors among pregnant women in Konso district, southern Ethiopia: a community-based cross-sectional study.</article-title> <source>BMC Nutrition.</source> <year>2021</year>;<volume>7</volume>(<issue>1</issue>):<fpage>32</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s40795-021-00437-z" xlink:type="simple">10.1186/s40795-021-00437-z</ext-link></comment> <object-id pub-id-type="pmid">34247657</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref068"><label>68</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Locks</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Patel</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Katz</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Simmons</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Hibberd</surname> <given-names>P</given-names></name>. <article-title>Seasonal trends and maternal characteristics as predictors of maternal undernutrition and low birthweight in Eastern Maharashtra, India.</article-title> <source>Matern Child Nutr</source>. <year>2021</year>;<volume>17</volume>(<issue>2</issue>):<fpage>1</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/mcn.13087" xlink:type="simple">10.1111/mcn.13087</ext-link></comment> <object-id pub-id-type="pmid">33006259</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref069"><label>69</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Khudri</surname> <given-names>MM</given-names></name>, <name name-style="western"><surname>Rhee</surname> <given-names>KK</given-names></name>, <name name-style="western"><surname>Hasan</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Ahsan</surname> <given-names>KZ</given-names></name>. <article-title>Predicting nutritional status for women of childbearing age from their economic, health, and demographic features: A supervised machine learning approach.</article-title> <source>PloS one</source>. <year>2023</year>;<volume>18</volume>(<issue>5</issue>):<fpage>e0277738</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0277738" xlink:type="simple">10.1371/journal.pone.0277738</ext-link></comment> <object-id pub-id-type="pmid">37172042</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref070"><label>70</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ikoona</surname> <given-names>EN</given-names></name>, <name name-style="western"><surname>Toure</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Njenga</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Namulemo</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Kaluya</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Kamara</surname> <given-names>K</given-names></name>, <etal>et al</etal>. <article-title>Prevalence and factors associated with underweight among 15–49-year-old women in Sierra Leone: a secondary data analysis of Sierra Leone demographic health survey of 2019.</article-title> <source>BMC Women’s Health</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>192</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12905-023-02358-4" xlink:type="simple">10.1186/s12905-023-02358-4</ext-link></comment> <object-id pub-id-type="pmid">37085835</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref071"><label>71</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zemene</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Mengistu</surname> <given-names>NW</given-names></name>, <name name-style="western"><surname>Nigatu</surname> <given-names>SG</given-names></name>. <article-title>Trends and factors associated with thinness among late adolescent girls in Ethiopia: Multivariate decomposition and multilevel analysis.</article-title> <source>Frontiers in Nutrition.</source> <year>2022</year>;<fpage>9</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fnut.2022.933895" xlink:type="simple">10.3389/fnut.2022.933895</ext-link></comment> <object-id pub-id-type="pmid">36061901</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref072"><label>72</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Desalegn</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Gebremedhin</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Stoecker</surname> <given-names>BJ</given-names></name>. <article-title>Successes and challenges of the Home-grown School Feeding Program in Sidama Region, Southern Ethiopia: a qualitative study</article-title>. <source>J Nutr Sci</source>. <year>2022</year>;<volume>30</volume>(<issue>11</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/jns.2022.77" xlink:type="simple">10.1017/jns.2022.77</ext-link></comment> <object-id pub-id-type="pmid">36304822</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref073"><label>73</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Anna</surname> <given-names>Ferro-Luzzi</given-names></name>, <etal>et al</etal>. <chapter-title>Seasonal Undernutrition in Rural Ethiopia Magnitude, Correlates, and Functional Significance.</chapter-title> <source>International Food Policy Research Institute</source> <publisher-loc>Washington, D.C</publisher-loc>., <publisher-name>and Istituto Nazionale della Nutrizione, Rome in collaboration with, Ethiopian Health and Nutrition Research Institute, Addis Ababa,</publisher-name> <year>2001</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref074"><label>74</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mengistu</surname> <given-names>Abenet</given-names></name>, <name name-style="western"><surname>Mesfin</surname> <given-names>Aklilu</given-names></name>. <article-title>Productive Safety Net Programme, Public Works operation And Maintenance Guideline.</article-title> <source>A practical guideline manual for development agents in Ethiopia. In: Natural Resource Sector of the Ministry of Agriculture, editor. Ethiopia</source> <year>2014</year>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref075"><label>75</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stephen</surname> <given-names>Devereux</given-names></name>, and <name name-style="western"><surname>Jonas</surname> <given-names>Nzabamwita</given-names></name>. <article-title>Social Protection, Food Security and Nutrition in Six African Countries.</article-title> <source>Institute of Development Studies</source>, <year>2018</year> Contract No.: <fpage>518</fpage>.</mixed-citation></ref>
+<ref id="pgph.0003294.ref076"><label>76</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hailu</surname> <given-names>AG</given-names></name>, <name name-style="western"><surname>Amare</surname> <given-names>ZY</given-names></name>. <article-title>Impact of productive safety net program on food security of beneficiary households in western Ethiopia: A matching estimator approach.</article-title> <source>PloS one.</source> <year>2022</year>;<volume>17</volume>(<issue>1</issue>):<fpage>e0260817</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0260817" xlink:type="simple">10.1371/journal.pone.0260817</ext-link></comment> <object-id pub-id-type="pmid">35061681</object-id></mixed-citation></ref>
+<ref id="pgph.0003294.ref077"><label>77</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kabalo</surname> <given-names>BY</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Seasonality and predictors of childhood stunting and wasting in drought-prone areas in Ethiopia: a cohort study</article-title>. <source>BMJ open</source>. <year>2022</year>;<volume>12</volume>(<issue>11</issue>):<fpage>e060692</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1136/bmjopen-2021-060692" xlink:type="simple">10.1136/bmjopen-2021-060692</ext-link></comment> <object-id pub-id-type="pmid">36356996</object-id></mixed-citation></ref>
+</ref-list>
+</back>
+<sub-article article-type="author-comment" id="pgph.0003294.r001" specific-use="rebutted-decision-letter-unavailable">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r001</article-id>
+<title-group>
+<article-title>Author response to previous submission</article-title>
+</title-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="author-response-date">15 Feb 2024</named-content>
+</p>
+<supplementary-material id="pgph.0003294.s003" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.s003" xlink:type="simple">
+<label>Attachment</label>
+<caption>
+<p>Submitted filename: <named-content content-type="submitted-filename">letter of rebutal.docx</named-content></p>
+</caption>
+</supplementary-material>
+</body>
+</sub-article>
+<sub-article article-type="aggregated-review-documents" id="pgph.0003294.r002" specific-use="decision-letter">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r002</article-id>
+<title-group>
+<article-title>Decision Letter 0</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Amugsi</surname>
+<given-names>Dickson Abanimi</given-names>
+</name>
+<role>Academic Editor</role>
+</contrib>
+</contrib-group>
+<permissions>
+<copyright-year>2024</copyright-year>
+<copyright-holder>Dickson Abanimi Amugsi</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<related-object document-id="10.1371/journal.pgph.0003294" document-id-type="doi" document-type="article" id="rel-obj002" link-type="peer-reviewed-article"/>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="letter-date">1 Apr 2024</named-content>
+</p>
+<p>PGPH-D-24-00274</p>
+<p>Seasonal variations in household food insecurity and consumption affect women’s nutritional status in rural South Ethiopia.</p>
+<p>PLOS Global Public Health</p>
+<p>Dear Dr. Mezgebe,</p>
+<p>Thank you for submitting your manuscript to PLOS Global Public Health. After careful consideration, we feel that it has merit but does not fully meet PLOS Global Public Health’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.</p>
+<p>==============================</p>
+<p>EDITOR: Please insert comments here and delete this placeholder text when finished. Be sure to:</p>
+<p><list list-type="bullet"><list-item><p>Please ensure that your decision is justified on PLOS Global Public Health’s <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/journal-information#loc-criteria-for-publication" xlink:type="simple">publication criteria</ext-link> and not, for example, on novelty or perceived impact.</p>
+<p>==============================</p>
+<p>Please submit your revised manuscript by 22/04/2024. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at <email xlink:type="simple">globalpubhealth@plos.org</email>. When you're ready to submit your revision, log on to <ext-link ext-link-type="uri" xlink:href="https://www.editorialmanager.com/pgph/" xlink:type="simple">https://www.editorialmanager.com/pgph/</ext-link> and select the 'Submissions Needing Revision' folder to locate your manuscript file.</p>
+<p>Please include the following items when submitting your revised manuscript:</p></list-item></list><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.</p></list-item></list></p>
+<p>Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.</p>
+<p>We look forward to receiving your revised manuscript.</p>
+<p>Kind regards,</p>
+<p>Dickson Abanimi Amugsi, PhD</p>
+<p>Academic Editor</p>
+<p>PLOS Global Public Health</p>
+<p>Journal Requirements:</p>
+<p>1. Please amend your detailed Financial Disclosure statement. This is published with the article. It must therefore be completed in full sentences and contain the exact wording you wish to be published.</p>
+<p>a. State the initials, alongside each funding source, of each author to receive each grant.</p>
+<p>b. State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”</p>
+<p>c. If any authors received a salary from any of your funders, please state which authors and which funders.</p>
+<p>If you did not receive any funding for this study, please simply state: “The authors received no specific funding for this work.</p>
+<p>Additional Editor Comments (if provided):</p>
+<p>[Note: HTML markup is below. Please do not edit.]</p>
+<p>Reviewers' comments:</p>
+<p>Reviewer's Responses to Questions</p>
+<p><!-- <font color="black"> --><bold>Comments to the Author</bold></p>
+<p>1. Does this manuscript meet PLOS Global Public Health’s <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/criteria-for-publication" xlink:type="simple">publication criteria</ext-link>? Is the manuscript technically sound, and do the data support the conclusions? The manuscript must describe methodologically and ethically rigorous research with conclusions that are appropriately drawn based on the data presented.<!-- </font> --></p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: Yes</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->2. Has the statistical analysis been performed appropriately and rigorously?<!-- </font> --></p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: No</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->3. Have the authors made all data underlying the findings in their manuscript fully available (please refer to the Data Availability Statement at the start of the manuscript PDF file)?</p>
+<p>The <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/data-availability" xlink:type="simple">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception. The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.<!-- </font> --></p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: Yes</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->4. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+<p>PLOS Global Public Health does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #2: Yes</p>
+<p>Reviewer #3: No</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->5. Review Comments to the Author</p>
+<p>Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+<p>Reviewer #1: Thank you for preparing the article. I have a few comments which I hope would help with improving the manuscript.</p>
+<p>Title</p>
+<p>I suggest the authors consider rewriting the objective of the study for clarity. “Food insecurity,” which has a negative connotation, is not consistent with “dietary diversity” and “food consumption” and makes the objective hard to read. The objective can be refined to: “To assess the effect of seasonal variation in household food security, adequate dietary diversity and food consumption, and household income on the nutritional status of women of reproductive age in a rural community in South Ethiopia. Further, the study aimed at identifying associated factors to women's nutritional status”.</p>
+<p>Introduction</p>
+<p>It would be helpful to the reader if the authors specified in the introduction what information is from Ethiopia and what is from other countries.</p>
+<p>Study setting and context</p>
+<p>What was the reason for using “live birth rate” instead of “birth rate”? “Live birth rate is usually used in fertility reporting and not at the population level.</p>
+<p>Selection of study population and sample size</p>
+<p>Could you add the total number of women included at the end of the section and specify the reason for including all eligible women?</p>
+<p>Wealth index</p>
+<p>Line 217: typo. “Cooking”</p>
+<p>Meal frequency</p>
+<p>I couldn’t find the description of calculating “meal frequency” in the methods. Further, if data is available, including the meal frequency finding in Table 2 would be informative.</p>
+<p>Discussion</p>
+<p>I suggest the authors discuss the significance of the findings; the discussion primarily compares the findings of the study with other studies. However, the validity and significance of the findings could have been discussed further. I also would like authors to discuss the implications of funding, not only for future research but also in designing development projects.</p>
+<p>Reviewer #2: Dear author,</p>
+<p>Thank you for interesting in this area, which needs great attention all sectors to overcome the problem of malnutrition. However, a lots of researches have been conducted and published on this title. So, the followings are the main questions raised on your work. I have included the comments also.</p>
+<p>1. what a new thing your research findings contribute to the science?</p>
+<p>2. the recommendation needs to be revised and inline with the study findings.</p>
+<p>3. Use the journal guidelines as all contents of the paper has poor write up.</p>
+<p>4. Use the scientific tables for the study results</p>
+<p>5. Your discussion is weak and recommendations also need revision.</p>
+<p>Reviewer #3: The manuscript entitled "Seasonal variation in household food insecurity and consumption affect women's nutritional status in rural South Ethiopia" is important as it deals with with household food security and its impact to women's health. The study findings will be useful to Policymakers, farmers, health officials, extension officers, government, researchers, students, other readers, etc. I suggest the following to improve the quality of the manuscript.</p>
+<p>1. The Author must include the hypothesis towards the end of Introduction section.</p>
+<p>2. The Methods and Materials section is not organised properly and needs to be rearranged. The first subsection must be "Study area description, food production and food availability". The current subsections "Study design" in Line 107 and Study setting and context in Line 110 must be deleted. This means that the content under these deleted subsection will be under new subsection.</p>
+<p>3. The subsection "Ethical consideration must be second subsection following Study area description, food production and availability</p>
+<p>4. The subsection "Variables" in Line 159 must be deleted and be replaced with subsection "Data collection procedures". All the content before Data processing and analysis will be under new subsection of "Data collection procedures"</p>
+<p>5. It will be interesting for the Author to make recommendation(s) to Policymakers based on this study findings to ensure sustainable nutritious food availability throughout the year including food scarcity seasons.</p>
+<p>6. There are some minor gramatical errors and the Author needs to go through the manuscript, reading it carefully and correct these.</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->6. PLOS authors have the option to publish the peer review history of their article (<ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/editorial-and-peer-review-process#loc-peer-review-history" xlink:type="simple">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+<p><bold>Do you want your identity to be public for this peer review?</bold> If you choose “no”, your identity will remain anonymous but your review may still be made public.</p>
+<p>For information about this choice, including consent withdrawal, please see our <ext-link ext-link-type="uri" xlink:href="https://www.plos.org/privacy-policy" xlink:type="simple">Privacy Policy</ext-link>.<!-- </font> --></p>
+<p>Reviewer #1: <bold>Yes: </bold>Behnoush Ahranjani</p>
+<p>Reviewer #2: <bold>Yes: </bold>Tamiru Yazew</p>
+<p>Reviewer #3: No</p>
+<p>**********</p>
+<p>[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]</p>
+<p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, <ext-link ext-link-type="uri" xlink:href="https://pacev2.apexcovantage.com/" xlink:type="simple">https://pacev2.apexcovantage.com/</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at <email xlink:type="simple">figures@plos.org</email>. Please note that Supporting Information files do not need this step.</p>
+</body>
+</sub-article>
+<sub-article article-type="author-comment" id="pgph.0003294.r003">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r003</article-id>
+<title-group>
+<article-title>Author response to Decision Letter 0</article-title>
+</title-group>
+<related-object document-id="10.1371/journal.pgph.0003294" document-id-type="doi" document-type="peer-reviewed-article" id="rel-obj003" link-type="rebutted-decision-letter" object-id="10.1371/journal.pgph.0003294.r002" object-id-type="doi" object-type="decision-letter"/>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>1</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="author-response-date">10 May 2024</named-content>
+</p>
+<supplementary-material id="pgph.0003294.s004" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.s004" xlink:type="simple">
+<label>Attachment</label>
+<caption>
+<p>Submitted filename: <named-content content-type="submitted-filename">response May 10.docx</named-content></p>
+</caption>
+</supplementary-material>
+</body>
+</sub-article>
+<sub-article article-type="aggregated-review-documents" id="pgph.0003294.r004" specific-use="decision-letter">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r004</article-id>
+<title-group>
+<article-title>Decision Letter 1</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Amugsi</surname>
+<given-names>Dickson Abanimi</given-names>
+</name>
+<role>Academic Editor</role>
+</contrib>
+</contrib-group>
+<permissions>
+<copyright-year>2024</copyright-year>
+<copyright-holder>Dickson Abanimi Amugsi</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<related-object document-id="10.1371/journal.pgph.0003294" document-id-type="doi" document-type="article" id="rel-obj004" link-type="peer-reviewed-article"/>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>1</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="letter-date">5 Jun 2024</named-content>
+</p>
+<p>PGPH-D-24-00274R1</p>
+<p>Seasonal variations in household food security and consumption affect women’s nutritional status in rural South Ethiopia.</p>
+<p>PLOS Global Public Health</p>
+<p>Dear Bethelhem,</p>
+<p>Thank you for submitting your manuscript to PLOS Global Public Health. After careful consideration, we feel that it has merit but does not fully meet PLOS Global Public Health’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.</p>
+<p>Please submit your revised manuscript by 18/06/2024. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at <email xlink:type="simple">globalpubhealth@plos.org</email>. When you're ready to submit your revision, log on to <ext-link ext-link-type="uri" xlink:href="https://www.editorialmanager.com/pgph/" xlink:type="simple">https://www.editorialmanager.com/pgph/</ext-link> and select the 'Submissions Needing Revision' folder to locate your manuscript file.</p>
+<p>Please include the following items when submitting your revised manuscript:</p>
+<p><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.</p></list-item></list></p>
+<p>Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.</p>
+<p>We look forward to receiving your revised manuscript.</p>
+<p>Kind regards,</p>
+<p>Dickson Abanimi Amugsi, PhD</p>
+<p>Academic Editor</p>
+<p>PLOS Global Public Health</p>
+<p>Journal Requirements:</p>
+<p>1. Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.</p>
+<p>2. Please amend your detailed Financial Disclosure statement. This is published with the article. It must therefore be completed in full sentences and contain the exact wording you wish to be published.</p>
+<p>a. State the initials, alongside each funding source, of each author to receive each grant.</p>
+<p>b. State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”</p>
+<p>c. If any authors received a salary from any of your funders, please state which authors and which funders.</p>
+<p>If you did not receive any funding for this study, please simply state: “The authors received no specific funding for this work.”</p>
+<p>3. We have noticed that you have uploaded Supporting Information files, but you have not included a list of legends. Please add a full list of legends for your Supporting Information files after the references list.</p>
+<p>Additional Editor Comments (if provided):</p>
+<p>[Note: HTML markup is below. Please do not edit.]</p>
+<p>Reviewers' comments:</p>
+<p>Reviewer's Responses to Questions</p>
+<p><!-- <font color="black"> --><bold>Comments to the Author</bold></p>
+<p>1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.<!-- </font> --></p>
+<p>Reviewer #1: (No Response)</p>
+<p>Reviewer #3: All comments have been addressed</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->2. Does this manuscript meet PLOS Global Public Health’s <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/criteria-for-publication" xlink:type="simple">publication criteria</ext-link>? Is the manuscript technically sound, and do the data support the conclusions? The manuscript must describe methodologically and ethically rigorous research with conclusions that are appropriately drawn based on the data presented.<!-- </font> --></p>
+<p>Reviewer #1: Partly</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->3. Has the statistical analysis been performed appropriately and rigorously?<!-- </font> --></p>
+<p>Reviewer #1: I don't know</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->4. Have the authors made all data underlying the findings in their manuscript fully available (please refer to the Data Availability Statement at the start of the manuscript PDF file)?</p>
+<p>The <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/data-availability" xlink:type="simple">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception. The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.<!-- </font> --></p>
+<p>Reviewer #1: Yes</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->5. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+<p>PLOS Global Public Health does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+<p>Reviewer #1: No</p>
+<p>Reviewer #3: Yes</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->6. Review Comments to the Author</p>
+<p>Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+<p>Reviewer #1: Thank you for addressing the comments and updating the manuscript. Based on the updated manuscript, I have some recommendations.</p>
+<p>The updated introduction section is long and can be rewritten to be more concise. Further, some detailed information about other studies can be used in writing the discussion and not being included in the introduction.</p>
+<p>Could you please check that "paid activities" L88 refers to paid and not unpaid?</p>
+<p>L285, I believe taking height measures in adults for two times addresses reliability or accuracy of measures and not validity.</p>
+<p>Did you use dietary recall to assess food consumption? If so and you haven't mentioned it somewhere, could you add it?</p>
+<p>Table 3: numbers don't add up. Please check and if this is because of missing data, note that.</p>
+<p>Discussion:</p>
+<p>-Generally, before comparing the findings of the study to other studies, the importance and significance of the findings should be discussed. How accurate and relevant are the findings? I recommend re-writing the discussion.</p>
+<p>- What does "weighted" food consumption mean?</p>
+<p>- Regarding PSNP, when was the BMI of beneficiaries were lower than their peers? I wonder if the recipients of PSNP had lower BMI than others and that's the reason they were part of the program.</p>
+<p>- Please check L481: is there any evidence to suggest the impact of changes in seasonal wealth on women's nutrition status?</p>
+<p>-L503: What does information bias include?</p>
+<p>Recommendation:</p>
+<p>What is the difference between year-round access and sustainable access? I recommend merge these two categories and group the recommendations under different stakeholders such as policy makers, local government, etc.</p>
+<p>I recommend a final edit of the document for English language to prepare a concise version.</p>
+<p>Reviewer #3: (No Response)</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->7. PLOS authors have the option to publish the peer review history of their article (<ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/editorial-and-peer-review-process#loc-peer-review-history" xlink:type="simple">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+<p><bold>Do you want your identity to be public for this peer review?</bold> If you choose “no”, your identity will remain anonymous but your review may still be made public.</p>
+<p>For information about this choice, including consent withdrawal, please see our <ext-link ext-link-type="uri" xlink:href="https://www.plos.org/privacy-policy" xlink:type="simple">Privacy Policy</ext-link>.<!-- </font> --></p>
+<p>Reviewer #1: <bold>Yes: </bold>Behnoush Ahranjani</p>
+<p>Reviewer #3: No</p>
+<p>**********</p>
+<p>[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]</p>
+<p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, <ext-link ext-link-type="uri" xlink:href="https://pacev2.apexcovantage.com/" xlink:type="simple">https://pacev2.apexcovantage.com/</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at <email xlink:type="simple">figures@plos.org</email>. Please note that Supporting Information files do not need this step.</p>
+</body>
+</sub-article>
+<sub-article article-type="author-comment" id="pgph.0003294.r005">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r005</article-id>
+<title-group>
+<article-title>Author response to Decision Letter 1</article-title>
+</title-group>
+<related-object document-id="10.1371/journal.pgph.0003294" document-id-type="doi" document-type="peer-reviewed-article" id="rel-obj005" link-type="rebutted-decision-letter" object-id="10.1371/journal.pgph.0003294.r004" object-id-type="doi" object-type="decision-letter"/>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>2</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="author-response-date">22 Jun 2024</named-content>
+</p>
+<supplementary-material id="pgph.0003294.s005" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pgph.0003294.s005" xlink:type="simple">
+<label>Attachment</label>
+<caption>
+<p>Submitted filename: <named-content content-type="submitted-filename">response to reviewer.docx</named-content></p>
+</caption>
+</supplementary-material>
+</body>
+</sub-article>
+<sub-article article-type="aggregated-review-documents" id="pgph.0003294.r006" specific-use="decision-letter">
+<front-stub>
+<article-id pub-id-type="doi">10.1371/journal.pgph.0003294.r006</article-id>
+<title-group>
+<article-title>Decision Letter 2</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Amugsi</surname>
+<given-names>Dickson Abanimi</given-names>
+</name>
+<role>Academic Editor</role>
+</contrib>
+</contrib-group>
+<permissions>
+<copyright-year>2024</copyright-year>
+<copyright-holder>Dickson Abanimi Amugsi</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<related-object document-id="10.1371/journal.pgph.0003294" document-id-type="doi" document-type="article" id="rel-obj006" link-type="peer-reviewed-article"/>
+<custom-meta-group>
+<custom-meta>
+<meta-name>Submission Version</meta-name>
+<meta-value>2</meta-value>
+</custom-meta>
+</custom-meta-group>
+</front-stub>
+<body>
+<p>
+<named-content content-type="letter-date">16 Jul 2024</named-content>
+</p>
+<p>Seasonal variations in household food security and consumption affect women’s nutritional status in rural South Ethiopia.</p>
+<p>PGPH-D-24-00274R2</p>
+<p>Dear Dr Mezgebe,</p>
+<p>We are pleased to inform you that your manuscript 'Seasonal variations in household food security and consumption affect women’s nutritional status in rural South Ethiopia.' has been provisionally accepted for publication in PLOS Global Public Health.</p>
+<p>Before your manuscript can be formally accepted you will need to complete some formatting changes, which you will receive in a follow up email. A member of our team will be in touch with a set of requests.</p>
+<p>Please note that your manuscript will not be scheduled for publication until you have made the required changes, so a swift response is appreciated.</p>
+<p>IMPORTANT: The editorial review process is now complete. PLOS will only permit corrections to spelling, formatting or significant scientific errors from this point onwards. Requests for major changes, or any which affect the scientific understanding of your work, will cause delays to the publication date of your manuscript.</p>
+<p>If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they'll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact <email xlink:type="simple">globalpubhealth@plos.org</email>.</p>
+<p>Thank you again for supporting Open Access publishing; we are looking forward to publishing your work in PLOS Global Public Health.</p>
+<p>Best regards,</p>
+<p>Dickson Abanimi Amugsi, PhD</p>
+<p>Academic Editor</p>
+<p>PLOS Global Public Health</p>
+<p>***********************************************************</p>
+<p>Please work with the editorial office to address this very minor issues from reviewer 2:</p>
+<p>Thank you for addressing the comments.</p>
+<p>Please check L91: it seems it should be association and not impact, and L455: incomplete sentence.</p>
+<p>The manuscript needs editing for English.</p>
+<p>Thank you</p>
+<p>Reviewer Comments (if any, and for reference):</p>
+<p>Reviewer's Responses to Questions</p>
+<p><!-- <font color="black"> --><bold>Comments to the Author</bold></p>
+<p>1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.<!-- </font> --></p>
+<p>Reviewer #1: All comments have been addressed</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->2. Does this manuscript meet PLOS Global Public Health’s <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/criteria-for-publication" xlink:type="simple">publication criteria</ext-link>? Is the manuscript technically sound, and do the data support the conclusions? The manuscript must describe methodologically and ethically rigorous research with conclusions that are appropriately drawn based on the data presented.<!-- </font> --></p>
+<p>Reviewer #1: Partly</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->3. Has the statistical analysis been performed appropriately and rigorously?<!-- </font> --></p>
+<p>Reviewer #1: I don't know</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->4. Have the authors made all data underlying the findings in their manuscript fully available (please refer to the Data Availability Statement at the start of the manuscript PDF file)?</p>
+<p>The <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/data-availability" xlink:type="simple">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception. The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.<!-- </font> --></p>
+<p>Reviewer #1: (No Response)</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->5. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+<p>PLOS Global Public Health does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+<p>Reviewer #1: No</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->6. Review Comments to the Author</p>
+<p>Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+<p>Reviewer #1: Thank you for addressing the comments.</p>
+<p>Please check L91: it seems it should be association and not impact, and L455: incomplete sentence.</p>
+<p>The manuscript needs editing for English.</p>
+<p>**********</p>
+<p><!-- <font color="black"> -->7. PLOS authors have the option to publish the peer review history of their article (<ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/globalpublichealth/s/editorial-and-peer-review-process#loc-peer-review-history" xlink:type="simple">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+<p><bold>Do you want your identity to be public for this peer review?</bold> If you choose “no”, your identity will remain anonymous but your review may still be made public.</p>
+<p>For information about this choice, including consent withdrawal, please see our <ext-link ext-link-type="uri" xlink:href="https://www.plos.org/privacy-policy" xlink:type="simple">Privacy Policy</ext-link>.<!-- </font> --></p>
+<p>Reviewer #1: <bold>Yes: </bold>Behnoush Ahranjani</p>
+<p>**********</p>
+</body>
+</sub-article>
+</article>

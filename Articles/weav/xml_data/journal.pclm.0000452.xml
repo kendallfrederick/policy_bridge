@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "http://jats.nlm.nih.gov/publishing/1.3/JATS-journalpublishing1-3.dtd">
+<article article-type="research-article" dtd-version="1.3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<processing-meta>
+<custom-meta-group content-type="composition">
+<custom-meta specific-use="newgen" xlink:href="https://www.newgen.co/">
+<meta-name>Composition Vendor</meta-name>
+<meta-value>Newgen KnowledgeWorks (P) Ltd.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLOS Clim</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosclimate</journal-id>
+<journal-title-group>
+<journal-title>PLOS Climate</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2767-3200</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pclm.0000452</article-id>
+<article-id pub-id-type="publisher-id">PCLM-D-24-00146</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject><subj-group><subject>Food</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Diet</subject><subj-group><subject>Food</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Agriculture</subject><subj-group><subject>Crop science</subject><subj-group><subject>Crops</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Earth sciences</subject><subj-group><subject>Atmospheric science</subject><subj-group><subject>Meteorology</subject><subj-group><subject>Rain</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Malnutrition</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject><subj-group><subject>Malnutrition</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>People and places</subject><subj-group><subject>Geographical locations</subject><subj-group><subject>Africa</subject><subj-group><subject>Ethiopia</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Biology and life sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Social sciences</subject><subj-group><subject>Economics</subject><subj-group><subject>Health economics</subject><subj-group><subject>Health insurance</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and health sciences</subject><subj-group><subject>Health care</subject><subj-group><subject>Health economics</subject><subj-group><subject>Health insurance</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3">
+<subject>Earth sciences</subject><subj-group><subject>Atmospheric science</subject><subj-group><subject>Climatology</subject><subj-group><subject>Climate change</subject></subj-group></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Effect of climate variability, crop production, and household food insecurity on malnutrition among women: A mediation analysis from a drought-prone area in Southern Ethiopia</article-title>
+<alt-title alt-title-type="running-head">Climate variability, crop production, and household food insecurity on malnutrition</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0009-0001-4770-1395</contrib-id>
+<name name-style="western">
+<surname>Gari</surname>
+<given-names>Taye</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor001">*</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Mezgebe</surname>
+<given-names>Bethlehem</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Belayneh</surname>
+<given-names>Mehretu</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Mersha</surname>
+<given-names>Yonas</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff002"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6267-6984</contrib-id>
+<name name-style="western">
+<surname>Lindtjørn</surname>
+<given-names>Bernt</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+<role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role content-type="http://credit.niso.org/contributor-roles/software/">Software</role>
+<role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+<role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff001"><label>1</label> <addr-line>School of Public Health, College of Medicine and Health Sciences, Hawassa University, Hawassa, Ethiopia</addr-line></aff>
+<aff id="aff002"><label>2</label> <addr-line>Computational Data Science Program, Addis Ababa University, Addis Ababa, Ethiopia</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Males</surname>
+<given-names>Jamie</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>PLOS Climate, UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">tayegari@hu.edu.et</email></corresp>
+</author-notes>
+<pub-date pub-type="epub"><day>2</day><month>6</month><year>2025</year></pub-date>
+<pub-date pub-type="collection"><year>2025</year></pub-date>
+<volume>4</volume>
+<issue>6</issue>
+<elocation-id>e0000452</elocation-id>
+<history>
+<date date-type="received"><day>19</day><month>6</month><year>2024</year></date>
+<date date-type="accepted"><day>27</day><month>4</month><year>2025</year></date>
+</history>
+<permissions>
+<copyright-year>2025</copyright-year>
+<copyright-holder>Gari et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pclm.0000452"/>
+<abstract>
+<p>Malnutrition is viewed as one of climate change’s five most considerable adverse health impacts. This study, from a drought-and famine-prone food insecure setting in the Rift Valley of southern Ethiopia, aims to quantify the possible causal effect of climate variation on women’s nutritional status through its effect on the normalized difference vegetation index (NDVI), a proxy measure for crop production, and household food security. Using a cohort study design, we ensured a temporal relationship between the main exposures preceding the mediator and the outcome. Women living in 904 households from nine randomly selected subsistence farming in rural <italic>Kebeles</italic>, the lowest administrative unit in the Boricha district in Sidama, were visited quarterly to collect nutritional status (outcome variable), household food security status (HHFS), and sociodemographic information. Climate data (rainfall and temperature) was obtained from the Google Earth Engine. Generalized structural equation modeling (GSEM) was used to measure the association between rains, the NDVI, and women’s nutritional status after adjusting for the mediation effect of HHFS. The analysis adjusted the clustering effect of <italic>Kebele</italic> and the household. The study showed that the NDVI and HHFS directly affected women’s body mass index. Moreover, household heads who attended primary education, total energy expenditure of women, and household wealth were positively associated with women’s BMI. On the other hand, older women and women who were not members of a community-based health insurance had a lower BMI. Climate variability, NDVI, and household food security could be causally linked to women’s nutritional status, suggesting that rural people depending on rain-fed subsidence farming for crop production are vulnerable to the impact of climate variability.</p>
+</abstract>
+<funding-group>
+<award-group id="award001">
+<funding-source><institution>Research Council of Norway</institution>
+</funding-source><award-id>18033</award-id>
+</award-group>
+<funding-statement>This research was funded by the Research Council of Norway (CMI project: 18033), through a project entitle “the Co-producing Gender-responsive Climate Services for Enhanced Food and Nutrition Security and Health in Ethiopia and Tanzania (COGENT) project” conducted under Hawassa University. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="4"/>
+<table-count count="5"/>
+<page-count count="14"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability">
+<meta-name>Data Availability</meta-name>
+<meta-value>The dataset used in this study is now uploaded into <ext-link ext-link-type="uri" xlink:href="https://zenodo.org" xlink:type="simple">https://zenodo.org</ext-link> data repository. Our dataset can be accessed via the following link: <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/records/13767791" xlink:type="simple">https://zenodo.org/records/13767791</ext-link>.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>Introduction</title>
+<p>Ethiopia has repeatedly been affected by episodes of drought and famine over the centuries [<xref ref-type="bibr" rid="pclm.0000452.ref001">1</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref002">2</xref>]. Malnutrition is prevalent among children, even without drought, and a significant proportion of women suffer from malnutrition as well [<xref ref-type="bibr" rid="pclm.0000452.ref003">3</xref>]. As women perform most of the work in the home, malnutrition affects their everyday lives by lowering their ability to work [<xref ref-type="bibr" rid="pclm.0000452.ref004">4</xref>].</p>
+<p>The causes of malnutrition are complex, but the availability of rain is crucial as it is closely associated with food productivity in subsistence farming communities. Hence, some have labeled malnutrition as one of climate change’s five most critical adverse impacts [<xref ref-type="bibr" rid="pclm.0000452.ref005">5</xref>]. Poverty remains a leading cause of both malnutrition and famine. When severe malnutrition occurs during political and social unrest, it is often called a complex famine [<xref ref-type="bibr" rid="pclm.0000452.ref006">6</xref>].</p>
+<p>Climate variability “includes all the variations in the climate that last longer than individual weather events.” In contrast, climate change refers to variations that persist for a more extended period, typically decades or more [<xref ref-type="bibr" rid="pclm.0000452.ref007">7</xref>]. Our relatively short research views climate variability as stress multipliers to factors that indirectly or directly affect nutrition and health.</p>
+<p>In areas such as southern Ethiopia, the primary strategy of the population to meet the effects of global warming would be enhanced adaptation. Ethiopia’s carbon footprint is negligible but slowly increasing [<xref ref-type="bibr" rid="pclm.0000452.ref008">8</xref>]. Adaptation refers to “changes in processes, practices, and structures to moderate potential damages or benefits from climate change.” Our research aims to enhance our understanding of these processes and thus improve the livelihoods of people living in such areas.</p>
+<p>Nonetheless, systematic evidence quantifying these impacts needs to be improved. Earlier research on the relationships between nutrition indicators and food insecurity was correlational and based on cross-sectional studies [<xref ref-type="bibr" rid="pclm.0000452.ref005">5</xref>]. Thus, there is limited evidence for a causal link between climate or weather patterns, food production and availability, and malnutrition. What need to be improved are interdisciplinary studies linking the possible chain of events from weather variability to food production and malnutrition, particularly for rural subsistence farmers. Long-term survey data, such as cohort studies and interventional research, can capture the dynamic nature of food poverty and show causal relationships.</p>
+<p>Vulnerability to climate change may differ between children and adults, and men and women. For example, children’s growth would be more affected by acute diseases prevalent in that age group than adults. Earlier studies from the Rift Valley in Ethiopia have also shown that the workload, an essential factor for labor and thus food production, among women, is high throughout the year and differs from that of men [<xref ref-type="bibr" rid="pclm.0000452.ref005">5</xref>]. Women also have additional nutritional needs during pregnancy and lactation.</p>
+<p>We hypothesize that causal pathways link climate variability, food production, and malnutrition. Thus, by studying one smaller community over time, our study objective is to investigate associations between climate variability on crop production and malnutrition among women in subsisting farming and drought-prone communities in southern Ethiopia. Furthermore, we aimed to see how community interventions could influence the above mentioned association.</p>
+</sec>
+<sec id="sec002" sec-type="materials|methods">
+<title>Materials and methods</title>
+<sec id="sec003">
+<title>Ethics statement</title>
+<p>The research was approved by the Institutional Review Board at Hawassa University College of Medicine and Health Sciences (Ref.No. IRB/181/13 and dated 20/05/2021) and later revised (Ref. No IRB/275/13 dated 07.09.21). Permission to undertake our study was also obtained from the Sidama Region and relevant local authorities. Local leaders in the <italic>Kebele</italic>, village leaders, and community elders were informed about the study objectives, procedures, and benefits. Informed written consent was obtained from each participant. Participation by household members was voluntary, and measures were taken to ensure their respect, dignity, and freedom.</p>
+</sec>
+<sec id="sec004">
+<title>General description of the study area</title>
+<sec id="sec005">
+<title>Study setting.</title>
+<p>This study was conducted in the former Boricha <italic>woreda</italic> (recently split into Boricha, Darara, and Bilate <italic>woredas</italic>), located in the western part of the Sidama Region. The study <italic>Kebeles</italic> (the lowest administrative unit) were selected from Boricha woreda before it was divided into three, and thus, the study <italic>Kebeles</italic> were categorized under two of the new woredas called Boricha and Bilate Zuria woredas. In 2021, the districts of Boricha and Bilate Zuria <italic>Woredas</italic> (the third level of the administrative divisions of Ethiopia – after zones and the regional states) were chosen as the study areas. The <italic>woreda</italic> is further subdivided into <italic>Kebeles</italic>. With a population estimated at 130,000, Boricha had one district hospital, three health facilities, and thirteen health posts. Bilate Zuria served an estimated 147,000 people with five health centers and 17 health posts [<xref ref-type="bibr" rid="pclm.0000452.ref009">9</xref>].</p>
+<p>Boricha is a relatively flat area, with a decline in altitude from east to west. The altitude varies from 1320 m in the west to 2080 m in the east. In between, there are some scattered mountain ridges. As recently as a few generations ago, acacia forest covered the area, but it has become increasingly bare. Very few rivers cross this area. The areas to the lower altitude are severely degraded. Another dominant land cover is the scattered trees. They are found to be mixed with farmland and those planted by the dwellers. The area covers about 600 km<sup>2</sup> (<xref ref-type="fig" rid="pclm.0000452.g001">Fig 1</xref>).</p>
+<fig id="pclm.0000452.g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.g001</object-id><label>Fig 1</label><caption><title>Map of the study area in the Sidama Region and Ethiopia.</title><p>Source: We have used the U.S. Geological Survey (USGS) (<ext-link ext-link-type="uri" xlink:href="http://www.usgs.gov" xlink:type="simple">http://www.usgs.gov</ext-link>) for the base layer map, and we collected the geographic coordinate points of the homes in the study area.</p></caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.g001" xlink:type="simple"/></fig>
+</sec>
+<sec id="sec006">
+<title>Farming systems and crop production.</title>
+<p>Generally, Boricha can be regarded as a water-starved area. Because of this, people in most <italic>Kebeles</italic> (the lowest administrative unit in Ethiopia and contains a health post staffed by two health extension workers) largely depend on artificial ponds that usually dry after the rains. Livestock are essential, and cattle, goats, and donkeys are the primary livestock.</p>
+<p>Based on food usage data collected during our study, we found that the principal crops are cereals (mainly maize), vegetables (primarily collard greens, cabbage, tomatoes), roots and tubers (mainly ensete (<italic>Ensete ventricosum</italic>), potatoes, sweet potatoes), legumes and seeds (beans, peas, seeds), sugar cane, fruits (avocadoes and bananas). Usually, wheat, teff, oils, and sugars are purchased or obtained by households as part of food aid packages. There is some pepper production, mainly used for sales. The higher altitude areas are green, with eucalyptus, fruit, coffee trees, and an ensete (Ensete ventricosum) growing around every house. However, no natural forest exists, and communal grazing land is limited [<xref ref-type="bibr" rid="pclm.0000452.ref010">10</xref>].</p>
+</sec>
+<sec id="sec007">
+<title>Climate.</title>
+<p>Boricha woreda, as in the western sector of the southern highlands of Ethiopia, has a bimodal rain pattern, with main rains from March to May (“Belg”) and smaller rains from September to October. Some rains are from June to August, and the dry season is from November to February [<xref ref-type="bibr" rid="pclm.0000452.ref011">11</xref>]. There is a potential for the local farmers to produce food more than twice in a year with good rains. This depends on the capacity of the meteorology agency to provide area-specific weather forecast service for the farmers. However, the weather forecast system in Ethiopia is weak to do.</p>
+<p>Rain-fed agriculture owned by smallholder farmers dominates the primary land use. Reliance on rain-fed farming for subsistence and rainfall variability exposes people to high risks of harvest loss, quickly resulting in food insecurity.</p>
+<p>Precipitation trends in Ethiopia indicate that southern Ethiopia’s rainfall has decreased since 1971 [<xref ref-type="bibr" rid="pclm.0000452.ref012">12</xref>]. From March to May, the main rain period in Boricha, precipitation declined by 2.6 mm/year in the spring region from 1971–2010. Thus, since 1971, rainfall may have been reduced by as much as 30% [<xref ref-type="bibr" rid="pclm.0000452.ref012">12</xref>]. On resource-poor farms in southern Ethiopia, the spring crop may determine whether the annual productivity reaches the critical margin [<xref ref-type="bibr" rid="pclm.0000452.ref013">13</xref>].</p>
+</sec>
+</sec>
+<sec id="sec008">
+<title>Study design and population</title>
+<p>This study is an open and dynamic cohort conducted from June 2021 to June 2022 to measure the causal association between climate variability and women’s undernutrition, the outcome variable. The details of the study population were presented elsewhere [<xref ref-type="bibr" rid="pclm.0000452.ref003">3</xref>]. We selected the same homes as in a previous cohort study [<xref ref-type="bibr" rid="pclm.0000452.ref010">10</xref>] to ensure we acquired comprehensive nutrition and food intake data over more extended periods. For this study, we focused on women in rural communities because the households are farmers and dependent on weather changes for their livelihoods. A multiphase sampling method was employed in the selection of the study participants. First, nine of the 30 rural <italic>Kebeles</italic> in the districts were chosen randomly. A two-stage sampling technique was used. Secondly, a cluster sampling technique was used to choose households from each sub-kebele <italic>(“gouts”)</italic> of the selected kebeles. All households in the sub-kebele were selected. All eligible girls and women between the ages of 15 and 49 from the selected households were included in the study, except those who were seriously ill, paralyzed, deformed, or belonged to families experiencing grief or festivity during the data collection period.</p>
+</sec>
+<sec id="sec009">
+<title>Sample size</title>
+<p>In the original study, the sample size was determined using OpenEpi version 3.03 (<ext-link ext-link-type="uri" xlink:href="http://www.OpenEpi.com" xlink:type="simple">www.OpenEpi.com</ext-link>) to investigate malnutrition seasonality in women [<xref ref-type="bibr" rid="pclm.0000452.ref003">3</xref>]. About 54.7% of mothers had a BMI &lt; 18.5 kg/m<sup>2</sup> pre-harvest and 41.7% post-harvest. Parameters included 95% confidence, 80% power, 1:1 ratio of unexposed to exposed, design effect of 1.5, and 20% non-response rate, resulting in 904 women. The same study population was utilized for the regression analysis (using <italic>power rsquared</italic> Stata command) in the current study, where a minimum sample size of 806 was calculated for linear regression with an effect size (R<sup>2</sup>) of 0.10, P &lt; 0.05, and ten covariates.</p>
+</sec>
+<sec id="sec010">
+<title>Data and variable description</title>
+<p>In good years, agricultural activities are conducted for 8 – 9 months in the area; quarterly visits were made to each household. Enumerators gathered information on all births, deaths, and migrations at each house they visited. The household dietary diversity used the past 24 hours recall for 12 food groups and include cereals, roots or tubers, vegetables, fruits, meat or poultry, eggs, fish and seafood, pulses or legumes or nuts, milk and milk products, oil or fats, sugar or honey, and miscellaneous [<xref ref-type="bibr" rid="pclm.0000452.ref014">14</xref>]. The level of physical activity was determined by administering the World Health Organization Global Physical Activity Questionnaire and estimating the metabolic equivalents (MET) and total energy expenditure (TEE) [<xref ref-type="bibr" rid="pclm.0000452.ref015">15</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref016">16</xref>] We conducted a baseline census in June 2021 and then gathered quarterly data on household food insecurity, food habits, nutrition status, and sociodemographic characteristics. Weight in kilograms divided by height in square meters was used to create the outcome variable, body mass index (BMI). This study used data collected between June 2021 and June 2022. Household food security level was measured using questionnaires validated in different populations in Southern Ethiopia [<xref ref-type="bibr" rid="pclm.0000452.ref017">17</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref018">18</xref>].</p>
+</sec>
+<sec id="sec011">
+<title>Climate, NDVI data, and crop production</title>
+<p>In our study area, there is only one meteorology station per district, but there is no station at the K<italic>ebele</italic> level. Moreover, the data collection at these weather stations was not regular. Therefore, the precipitation, temperature, and Normalized Difference Vegetation Index (NDVI) data were downloaded from Google Earth Engine (accessed via <ext-link ext-link-type="uri" xlink:href="https://earthengine.google.com/signup" xlink:type="simple">https://earthengine.google.com/signup</ext-link>). The temperature data was downloaded from the ERA5-Land monthly averaged data using GRIB format via the following link: <ext-link ext-link-type="uri" xlink:href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=form" xlink:type="simple">https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=form</ext-link>. The monthly rainfall was obtained using the Climate Hazards Group InfraRed Precipitation (CHIRPS) [<xref ref-type="bibr" rid="pclm.0000452.ref019">19</xref>] with a spatial resolution of 0.05 degrees. This study uses each <italic>Kebele’s</italic> average precipitation, temperature, and NDVI.</p>
+<p>The NDVI, or normalized difference vegetation index, is used to assess crop health and plant growth by measuring greenness on the surface [<xref ref-type="bibr" rid="pclm.0000452.ref020">20</xref>]. The remote sensing method, NDVI, tracks vegetation dynamics. It is computed using canopy reflectance in the near-infrared and infrared bands and is less reliant on soil characteristics [<xref ref-type="bibr" rid="pclm.0000452.ref021">21</xref>]. We used the United States Geological Survey (USGS) [<xref ref-type="bibr" rid="pclm.0000452.ref022">22</xref>] data server to obtain a retrospective time series of the NDVI with a monthly temporal resolution. Calculated from satellite imagery, it captures visible and near-infrared light wavelengths reflected by vegetation; NDVI measures the difference between these wavelengths. Where: NIR represents the reflectance values of the near-infrared wavelengths, and RED represents the reflectance values of the red wavelengths. This computation generates a value ranging from -1 to +1, with higher values indicating denser, healthier vegetation (closer to +1) and lower values signifying less vegetation or areas with non-vegetative cover (approaching -1) [<xref ref-type="bibr" rid="pclm.0000452.ref023">23</xref>]. The average NDVI was obtained from the satellite using Sentinel-2 MSI (Multispectral Instrument, Level-2A), sensor: SENTINEL-2, and with a spatial resolution of 10 meters [<xref ref-type="bibr" rid="pclm.0000452.ref019">19</xref>].</p>
+<p>NDVI is effective for monitoring crops, with a strong correlation between early NDVI values and final yields [<xref ref-type="bibr" rid="pclm.0000452.ref020">20</xref>]. This index can detect crop stresses from environmental changes such as droughts or diseases [<xref ref-type="bibr" rid="pclm.0000452.ref024">24</xref>]. Unhealthy plants have lower NDVI values than healthy ones, making NDVI a valuable proxy for plant health. Thus, validated studies, also from Ethiopia, show a high correlation (between 0.5 and 0.8) between the NDVI index and crops such as maize, wheat, sugar cane, and potatoes [<xref ref-type="bibr" rid="pclm.0000452.ref020">20</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref025">25</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref026">26</xref>]. NDVI is more readily available than expensive field studies and is thus beneficial in rural Ethiopia. Therefore, our study uses the NDVI index as a proxy for crop growth. However, NDVI values are influenced by seasonal changes and weather conditions, particularly rainfall and cloud cover, when using satellite data.</p>
+</sec>
+<sec id="sec012">
+<title>Data analysis</title>
+<p>Data were entered and cleaned using SPSS Version 26 (IBM Corp, Armonk, NY), and STATA Version 17 (Stata Corp, Texas, USA) software was used to analyze the data. Descriptive statistics, such as numerical summary measures and diagrams, were used to summarize the data. The wealth index was constructed using principal component analysis using household assets such as possession of farmland, animals, a mobile phone, an animal cart, a motorcycle, and housing, such as the type of roof, wall, and floor.</p>
+<p>In this study, we used different models, such as multilevel linear and panel data models, to measure the predictors of BMI. However, the direct, indirect, and total effect of climate variability and NDVI on BM were evaluated using mediation analysis. BMI, the outcome variable, was a continuous variable with a normal distribution, and therefore, a linear regression model was used to measure the predictors of BMI. As data were collected from several levels, we employed a multilevel multiple linear regression model to account for the dependency for mediation analysis. The intra-class correlation coefficient (ICC) was 0.08 for <italic>Kebele</italic> and 0.12 for households. Therefore, the effect of <italic>Kebele</italic> and household levels was accounted for in the final model. The model’s goodness-of-fit was checked using Akaike’s information criteria (AIC) and standardized root mean squared residual (SRMR) [<xref ref-type="bibr" rid="pclm.0000452.ref027">27</xref>]. The path diagram was developed using the average change in women’s BMI as the outcome variable, measured four times over one year, and exposure variables such as one month lag in NDVI from the measured household food insecurity (HHFI) and two months lag in total rainfall from NDVI. This allowed us to measure the natural sequence of events and correspond to the conceptual framework.</p>
+<p>The standard regression analysis, including the linear regression model, handles the time series effect but not the cross-sectional effect in modeling the data. Therefore, using standard regression for panel data could give a biased estimate of a regression coefficient, and thus we used panel data modeling that can account for both effects.</p>
+<p>Panel data analysis is a statistical method used to study the association between outcome and exposure variables in data obtained from a follow-up that involves both cross-sectional and time-series variations [<xref ref-type="bibr" rid="pclm.0000452.ref028">28</xref>]. Fixed effect and random effect estimators are the two parameter estimates in panel data analysis. Of these two estimators, the one that could provide reliable estimate can be assessed using Hausman test approach. In our data, the Hausman test result was statistically significant (P &lt; 0.001), and therefore we reported a fixed effect model.</p>
+<p>Panel data modeling can be either a dynamic panel model that accounts for endogeneity, i.e., correlation between the model error term and predictor variables, or a static panel model that does not account for endogeneity [<xref ref-type="bibr" rid="pclm.0000452.ref029">29</xref>]. In this study, we observed that lag-BMI was correlated with the error term, and therefore, the dynamic panel model, which accounts for endogeneity, was considered to be better than the static panel model. However, we observed that the Wooldridge test for autocorrelation (P-value = 0.513) showed no serial autocorrelation (requirement to run a dynamic model). Furthermore, the dynamic model was also a poor fit (the Arellano-Bond test was not estimated), which could be due to a small number of times of observation per individual (minimum 1 and maximum 4). Therefore, we reported the result of the static fixed panel model.</p>
+<p>Mediation analysis was done to measure the direct and indirect effect of climate variability on BMI. A theoretical conceptual framework developed by Phalkey et al. was used in the path analysis (<xref ref-type="fig" rid="pclm.0000452.g002">Fig 2</xref>) [<xref ref-type="bibr" rid="pclm.0000452.ref005">5</xref>]. However, the model in <xref ref-type="fig" rid="pclm.0000452.g002">Fig 2</xref> may simplify the natural world as there are variables that will affect crop production, for example, soil characteristics and evaporation that we did not measure. Mediation analysis is a statistical technique used to examine how one variable (the predictor variables) affects another (the outcome variable) through one or more intervening factors [<xref ref-type="bibr" rid="pclm.0000452.ref030">30</xref>]. A mediation or path analysis was done to measure the relationship between rainfall, crop production using NDVI as a proxy crop measure, and women’s nutritional status (BMI) after adjusting for the mediation effect of household food security. The mediation effect of HHFS was checked, and the observed regression coefficient of the exposure variable (NDVI) in the first model (without a mediator) increased from 0.42 to 0.66 in the second model (with a mediator variable). The generalized structural equation modeling (GSEM) [<xref ref-type="bibr" rid="pclm.0000452.ref030">30</xref>] was used to measure the sequential mediation effect of household food security status on women’s BMI after accounting for clustering at <italic>kebele</italic> and household. The final model was selected using the following steps: first, the unadjusted path model was fitted with NDVI (exposure), household food security score (mediator), and BMI (outcome) variable. Then, the entire mediation analysis model was fitted after adjusting for potential confounding variables. We measured the effects of sociodemographic variables to assess the potential impact of factors that indirectly or directly affect the pathway from precipitation/rainfall to nutritional status (BMI). These include household use of the government’s safety net program, use of health insurance, and wealth status, measured in June 2021, and we assumed it to be constant throughout the study period.</p>
+<fig id="pclm.0000452.g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.g002</object-id><label>Fig 2</label><caption><title>Conceptual framework adapted from the initially developed by Phalkey et al. [</title><p><xref ref-type="bibr" rid="pclm.0000452.ref005">5</xref>].</p></caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.g002" xlink:type="simple"/></fig>
+</sec>
+</sec>
+<sec id="sec013" sec-type="results">
+<title>Results</title>
+<sec id="sec014">
+<title>Sociodemographic characteristics</title>
+<p>Overall, 1057 women from 904 households living in nine <italic>Kebeles</italic> were followed and evaluated quarterly. The number of women assessed was 910 in September 2021, 903 in December 2021, 866 in March 2022, and 803 in June 2022. The number of women per <italic>Kebeles</italic> ranged from 99 women in Gonowa Bulano <italic>Kebele</italic> to 136 women in Sadamo Dikicha <italic>Kebele.</italic> About two-thirds (61.3%) of the women were living in households whose heads had attended formal education; 15.8% of the heads of the households were employed or traders; only 10.9% of households were members of community-based health insurance; 23.1% of households were beneficiaries of the safety net program; and 33.7% of the households were poor (<xref ref-type="table" rid="pclm.0000452.t001">Table 1</xref>).</p>
+<table-wrap id="pclm.0000452.t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.t001</object-id><label>Table 1</label><caption><title>Sociodemographic and other characteristics of the study participants.</title></caption>
+<alternatives><graphic id="pclm.0000452.t001g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.t001" xlink:type="simple"/><table><colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">Description</th>
+<th align="left">Frequency</th>
+<th align="left">Percent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><bold>Name of <italic>Kebele</italic></bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Sadamo Dikicha</td>
+<td align="left">136</td>
+<td align="left">12.9</td>
+</tr>
+<tr>
+<td align="left">Alawo Siiso</td>
+<td align="left">107</td>
+<td align="left">10.1</td>
+</tr>
+<tr>
+<td align="left">Furara Aldaada</td>
+<td align="left">128</td>
+<td align="left">12.1</td>
+</tr>
+<tr>
+<td align="left">Aldaada Deele</td>
+<td align="left">104</td>
+<td align="left">9.8</td>
+</tr>
+<tr>
+<td align="left">Kitawo Dambie</td>
+<td align="left">113</td>
+<td align="left">10.7</td>
+</tr>
+<tr>
+<td align="left">Gonowa Bulano</td>
+<td align="left">99</td>
+<td align="left">9.4</td>
+</tr>
+<tr>
+<td align="left">Sadamo cala</td>
+<td align="left">120</td>
+<td align="left">11.4</td>
+</tr>
+<tr>
+<td align="left">Qonsore Haranja</td>
+<td align="left">131</td>
+<td align="left">12.4</td>
+</tr>
+<tr>
+<td align="left">Hanja Goro</td>
+<td align="left">119</td>
+<td align="left">11.2</td>
+</tr>
+<tr>
+<td align="left"><bold>Household head education</bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">No formal education</td>
+<td align="left">648</td>
+<td align="left">61.3</td>
+</tr>
+<tr>
+<td align="left">Grade 1–6</td>
+<td align="left">184</td>
+<td align="left">17.4</td>
+</tr>
+<tr>
+<td align="left">Grade 7–9</td>
+<td align="left">130</td>
+<td align="left">12.3</td>
+</tr>
+<tr>
+<td align="left">Grade &gt;=10</td>
+<td align="left">95</td>
+<td align="left">9</td>
+</tr>
+<tr>
+<td align="left"><bold>Occupation of HH head</bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Employed and trader</td>
+<td align="left">167</td>
+<td align="left">15.8</td>
+</tr>
+<tr>
+<td align="left">Others</td>
+<td align="left">890</td>
+<td align="left">84.2</td>
+</tr>
+<tr>
+<td align="left" colspan="2"><bold>Community Based Health Insurance</bold></td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">115</td>
+<td align="left">10.9</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">942</td>
+<td align="left">89.1</td>
+</tr>
+<tr>
+<td align="left"><bold>Safety-Net Beneficiary</bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">244</td>
+<td align="left">23.1</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">813</td>
+<td align="left">76.9</td>
+</tr>
+<tr>
+<td align="left"><bold>Wealth Status</bold></td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Poor</td>
+<td align="left">356</td>
+<td align="left">33.7</td>
+</tr>
+<tr>
+<td align="left">Middle</td>
+<td align="left">392</td>
+<td align="left">37.1</td>
+</tr>
+<tr>
+<td align="left">Rich</td>
+<td align="left">309</td>
+<td align="left">29.2</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+</sec>
+<sec id="sec015">
+<title>Household food habits</title>
+<p><xref ref-type="table" rid="pclm.0000452.t002">Table 2</xref> shows the foods recorded from 5225 meals during the study period. The table shows seasonal variations in using locally produced crops such as cereals, vegetables, roots and tubers, legumes, and fruits.</p>
+<table-wrap id="pclm.0000452.t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.t002</object-id><label>Table 2</label><caption><title>Food type used across seasons among the study participants.</title></caption>
+<alternatives><graphic id="pclm.0000452.t002g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.t002" xlink:type="simple"/><table><colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">Season</th>
+<th align="left">June 2021</th>
+<th align="left">September</th>
+<th align="left">December</th>
+<th align="left">March</th>
+<th align="left">June 2022</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Food type</td>
+<td align="left">Total 1040<break/>n (%)</td>
+<td align="left">Total 1053<break/>n (%)</td>
+<td align="left">Total 1059<break/>n (%)</td>
+<td align="left">Total 1048<break/>n (%)</td>
+<td align="left">Total 1025<break/>n (%)</td>
+</tr>
+<tr>
+<td align="left">Cereals</td>
+<td align="left">860 (82.7)</td>
+<td align="left">689 (65.4)</td>
+<td align="left">1040 (98.2)</td>
+<td align="left">988 (94.3)</td>
+<td align="left">985 (96.1)</td>
+</tr>
+<tr>
+<td align="left">Vegetables</td>
+<td align="left">922 (88.7)</td>
+<td align="left">860 (81.7)</td>
+<td align="left">966 (91.2)</td>
+<td align="left">755 (72.0)</td>
+<td align="left">962 (93.9)</td>
+</tr>
+<tr>
+<td align="left">Roots and tubers</td>
+<td align="left">852 (81.9)</td>
+<td align="left">750 (71.2)</td>
+<td align="left">828 (78.2)</td>
+<td align="left">960 (91.6)</td>
+<td align="left">828 (80.8)</td>
+</tr>
+<tr>
+<td align="left">Oils and fats</td>
+<td align="left">746 (71.7)</td>
+<td align="left">487 (46.3)</td>
+<td align="left">741 (70.0)</td>
+<td align="left">766 (73.1)</td>
+<td align="left">842 (82.2)</td>
+</tr>
+<tr>
+<td align="left">Legumes, nuts and seeds</td>
+<td align="left">631 (60.7)</td>
+<td align="left">611 (58)</td>
+<td align="left">777 (73.4)</td>
+<td align="left">685 (65.4)</td>
+<td align="left">432 (42.2)</td>
+</tr>
+<tr>
+<td align="left">Sugar and sugar cane</td>
+<td align="left">30 (2.9)</td>
+<td align="left">184 (17.5)</td>
+<td align="left">164 (15.5)</td>
+<td align="left">172 (16.4)</td>
+<td align="left">190 (18.5)</td>
+</tr>
+<tr>
+<td align="left">Fruits</td>
+<td align="left">114 (11.0)</td>
+<td align="left">102 (9.7)</td>
+<td align="left">155 (14.6)</td>
+<td align="left">60 (5.7)</td>
+<td align="left">63 (6.2)</td>
+</tr>
+<tr>
+<td align="left">Meat</td>
+<td align="left">36 (3.5)</td>
+<td align="left">44 (4.2)</td>
+<td align="left">94 (8.9)</td>
+<td align="left">4 (0.4)</td>
+<td align="left">20 (2)</td>
+</tr>
+<tr>
+<td align="left">Eggs</td>
+<td align="left">14 (1.4)</td>
+<td align="left">17 (1.6)</td>
+<td align="left">16 (1.5)</td>
+<td align="left">1 (0.1)</td>
+<td align="left">1 (0.1)</td>
+</tr>
+<tr>
+<td align="left">Fish</td>
+<td align="left">9 (0.9)</td>
+<td align="left">17 (1.6)</td>
+<td align="left">5 (0.5)</td>
+<td align="left">0 (0.0)</td>
+<td align="left">2 (0.2)</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+</sec>
+<sec id="sec016">
+<title>Household food insecurity and women’s nutritional status</title>
+<p>The lowest household food insecurity score (4.0) in December coincides with the highest women’s mean BMI (20.6) for the same month. The mean (standard deviation, SD) BMI of the women was 20.2 (2.2) kg/m<sup>2</sup> in September 2021, 20.6 (2.2) kg/m<sup>2</sup> in December 2021, 20.57 (2.3) kg/m<sup>2</sup> in March 2022, and 20.3 (2.3) kg/m<sup>2</sup> in June 2022. A statistically significant difference in BMI was observed between September and December 2021 (t-test -4.4; P &lt; 0.001). On the other hand, the median (interquartile range) of household food insecurity was 10.0 (6.0-16.0) in September 2021, 4.0 (0.0-9.0) in December 2021, 8.0 (4.0-13.0) in March 2022, and 11.0 (7.0-16.0) in June 2022.</p>
+</sec>
+<sec id="sec017">
+<title>Monthly rainfall, temperature, and NDVI</title>
+<p>As shown in <xref ref-type="fig" rid="pclm.0000452.g003">Fig 3</xref>, the total monthly rainfall varied over the months. During the study period, the monthly total rainfall peaked between July and October 2021 and mid-February and April 2022 (biannual). In our data, the NDVI value ranges from 0.09 (nearly absence of green vegetation or no crop yield) to 0.6 (dense green vegetation). In general, the quarterly NDVI data does not refer to four-time crop production. A high NDVI value was observed following the high rainfall (twice a year). The average monthly NDVI was high between August and November 2021. There was a positive correlation between NDVI and one-month lag rainfall (r = 0.53; P &lt; 0.001). The average monthly temperature was between 16 and 22 degrees Celsius (<xref ref-type="fig" rid="pclm.0000452.g003">Fig 3</xref>).</p>
+<fig id="pclm.0000452.g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.g003</object-id><label>Fig 3</label><caption><title>Monthly NDVI, rainfall and temperature in the study area.</title></caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.g003" xlink:type="simple"/></fig>
+</sec>
+<sec id="sec018">
+<title>Predictors of body mass index in multilevel multivariable model</title>
+<p>In the multilevel multiple regression analysis, after controlling for potential confounders, the NDVI and household wealth index were positively associated with women’s BMI. An increase in the household food security (HHFS) score was positively associated with BMI, but the age of the women was negatively associated with BMI. The change in BMI was higher among household heads who attended primary education compared. Moreover, a higher body mass index was observed among those not members of CBHI and non-beneficiaries of the safety net program (<xref ref-type="table" rid="pclm.0000452.t003">Table 3</xref>).</p>
+<table-wrap id="pclm.0000452.t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.t003</object-id><label>Table 3</label><caption><title>Multilevel regression model to measure association between BMI, outcome variable, and different covariates.</title></caption>
+<alternatives><graphic id="pclm.0000452.t003g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.t003" xlink:type="simple"/><table><colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">Variables</th>
+<th align="left">β coefficient (95% CI)</th>
+<th align="left">P-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Age in years</td>
+<td align="left">-0.01 (-0.02 - -0.001)</td>
+<td align="left">0.023</td>
+</tr>
+<tr>
+<td align="left">NDVI<sup>$</sup></td>
+<td align="left">0.72 (0.27 - 1.17)</td>
+<td align="left">0.001</td>
+</tr>
+<tr>
+<td align="left">HHFS<sup>#</sup></td>
+<td align="left">0.52 (0.37 – 0.68)</td>
+<td align="left">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Household safety net beneficiary</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">1:00</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">0.26 (0.07 - 0.45)</td>
+<td align="left">0.006</td>
+</tr>
+<tr>
+<td align="left">Total energy expenditure in a day</td>
+<td align="left">0.18 (0.07 – 0.30)</td>
+<td align="left">0.001</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Community based health insurance member</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">1:00</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">0.43 (0.19 - 0.67)</td>
+<td align="left">0.001</td>
+</tr>
+<tr>
+<td align="left">Household wealth status</td>
+<td align="left">0.18 (0.10 - 0.26)</td>
+<td align="left">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Household head education attended 1–6 grade</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">1:00</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">0.48 (0.27 - 0.68)</td>
+<td align="left">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Household head occupation</td>
+</tr>
+<tr>
+<td align="left">Employed/trader</td>
+<td align="left">0.22 (0.01 - 0.44)</td>
+<td align="left">0.033</td>
+</tr>
+<tr>
+<td align="left">Others</td>
+<td align="left">1:00</td>
+<td align="left"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot>
+<fn id="t003fn001"><p>$:Average Normalized Difference Vegetation Index (lag two months); <sup>#:</sup> Average household Food security score.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="sec019">
+<title>Panel data modeling</title>
+<p>In the fixed effect panel model, a unit increase in NDVI over time was associated with a change in BMI by 0.57 kg/m², and a unit increase in HHFS over time was associated with a change in BMI by 0.02 kg/m². These findings are similar to the multilevel linear model and mediation analysis. Even though a unit increase in TEE over time was associated with a change of 0.06 kg/m², this change does not look large (<xref ref-type="table" rid="pclm.0000452.t004">Table 4</xref>).</p>
+<table-wrap id="pclm.0000452.t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.t004</object-id><label>Table 4</label><caption><title>Fixed panel data estimation of the predictors of BMI.</title></caption>
+<alternatives><graphic id="pclm.0000452.t004g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.t004" xlink:type="simple"/><table><colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">BMI</th>
+<th align="left">β Coefficient (95% Confidence Interval)</th>
+<th align="left">P-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">NDVI</td>
+<td align="left">0.67 (0.45, 0.88)</td>
+<td align="left">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left">HHFS</td>
+<td align="left">0.02 (0.01, 0.03)</td>
+<td align="left">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left">TEE</td>
+<td align="left">0.02 (-0.03, 0.08)</td>
+<td align="left">0.58</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot>
+<fn id="t004fn001"><p>BMI: Body Mass Index; NDVI: Normalized Difference Vegetation Index; HHFS: Household Food Security; TEE: Total Energy Expenditure.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="sec020">
+<title>Mediation analysis</title>
+<p>The mediation analysis, using the multilevel linear regression model, shows (<xref ref-type="table" rid="pclm.0000452.t005">Table 5</xref> and <xref ref-type="fig" rid="pclm.0000452.g004">Fig 4</xref>,) on average, a unit increase in NDVI was associated with a direct effect of an increase in women’s body mass index by about a coefficient of 0.67, 95% CI (0.23 to 1.11). The indirect impact of NDVI on BMI via household food insecurity was -0.21, 95% CI (-0.28 to -0.13). The proportion of total effect medicated was 43%. Similarly, an increase in household food security score (0.06 m/kg<sup>2</sup> (95% CI 0.04 to 0.07)), total energy expenditure (0.17, 95% CI (0.06 to 0.27)), and household wealth index (Coefficient 0.18, 95% CI 0.11 to 0.26) were positively associated with women’s BMI. The BMI of the women was higher among household heads who had attended primary education. Furthermore, women’s BMI was lower among CBHI. An increase in women’s age was negatively associated with their BMI. No significant association was observed between the safety net beneficiary and the household head’s occupation.</p>
+<table-wrap id="pclm.0000452.t005" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.t005</object-id><label>Table 5</label><caption><title>Mediation analysis of the direct, indirect, total, and proportion of total effect mediated on women’s BMI (outcome variable).</title></caption>
+<alternatives><graphic id="pclm.0000452.t005g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.t005" xlink:type="simple"/><table><colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left">Effect of</th>
+<th align="left">Outcome</th>
+<th align="left">Direct effect (95% CI)</th>
+<th align="left">Indirect effect (95% CI)</th>
+<th align="left">Total effect (95% CI)</th>
+<th align="left">Proportion of total effect mediated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">NDVI<sup>$</sup></td>
+<td align="left">BMI via HHFS</td>
+<td align="left">0.66 (0.22 to 1.10)**</td>
+<td align="left">-0.20 (-0.28 to -0.13)***</td>
+<td align="left">0.46 (0.01 to 0.90)*</td>
+<td align="left">0.43</td>
+</tr>
+<tr>
+<td align="left">HHFS<sup>#</sup></td>
+<td align="left">BMI</td>
+<td align="left">0.06 (0.04 to 0.07)***</td>
+<td align="left"/>
+<td align="left">0.06 (0.02 to 0.09)***</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">CBHI<sup>&amp;</sup></td>
+<td align="left">BMI via HHFS</td>
+<td align="left">-0.50 (-0.74 to -0.27)***</td>
+<td align="left">-0.99 (-1.54 to -0.44)***</td>
+<td align="left">-0.36 (-0.60 to -0.13)**</td>
+<td align="left">2.75</td>
+</tr>
+<tr>
+<td align="left">HH<sup>@</sup> head education 1 to 6</td>
+<td align="left">BMI via HHFS</td>
+<td align="left">0.67 (0.47 to 0.87)***</td>
+<td align="left">1.10 (0.66 to 1.55)***</td>
+<td align="left">0.76 (0.56 to 0.96)***</td>
+<td align="left">1.45</td>
+</tr>
+<tr>
+<td align="left">Safety net</td>
+<td align="left">BMI</td>
+<td align="left">-0.15 (-0.33 to 0.02)</td>
+<td align="left"/>
+<td align="left">-0.15 (-0.33 to 0.02)</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">Wealth status</td>
+<td align="left">BMI via HHFS</td>
+<td align="left">0.18 (0.10 to 0.26)***</td>
+<td align="left">0.02 (-0.01 to 0.06)</td>
+<td align="left">0.18 (0.11 to 0.27)***</td>
+<td align="left">0.11</td>
+</tr>
+<tr>
+<td align="left">Occupation</td>
+<td align="left">BMI via HHFS</td>
+<td align="left">-0.19 (-0,41 to 0.01)</td>
+<td align="left">0.15 (-0.04 to 0.34)</td>
+<td align="left">-0.24 (-0,46 to -0.03)*</td>
+<td align="left">0.63</td>
+</tr>
+<tr>
+<td align="left">Age</td>
+<td align="left">BMI</td>
+<td align="left">-0.01 (-0.02 to 0.003)*</td>
+<td align="left"/>
+<td align="left">-0.01 (-0.02 to 0.003)*</td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">RF<sup>##</sup></td>
+<td align="left">NDVI</td>
+<td align="left" colspan="2">0.0036(0.003 to 0.004)***</td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">TEE<sup><bold>§</bold></sup></td>
+<td align="left">BMI via NDVI</td>
+<td align="left">0.17 (0.06 – 0.27) **</td>
+<td align="left">-0.02 (-0.04 to 0.01)</td>
+<td align="left">0.17 (0.07 – 0.28)**</td>
+<td align="left">0.12</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot>
+<fn id="t005fn001"><p><italic>$: Normalized Difference Vegetation Index; #: Household food security score; &amp;: Community Based Health Insurance; @: Household; ##: Rainfall.</italic> The final model was selected using AIC, <bold>§</bold><sup>:</sup> <italic>Total energy expenditure in kilo calories a day.</italic></p></fn>
+</table-wrap-foot>
+</table-wrap>
+<fig id="pclm.0000452.g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pclm.0000452.g004</object-id><label>Fig 4</label><caption><title>Path diagram showing the relationship between changes in women’s BMI measured quarterly between June 2021 and June 2022) and lag in rainfall, NDVI, and HHFS.</title></caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pclm.0000452.g004" xlink:type="simple"/></fig>
+<p><italic>NB: Categorical variables coded as CBHI (0 = no, 1 = yes), Safety net (0 = no, 1 = yes) TEE: Total energy expenditure in kilo calories a day.</italic></p>
+</sec>
+</sec>
+<sec id="sec021" sec-type="conclusions">
+<title>Discussion</title>
+<p>As we hypothesized, our study shows a direct effect of rainfall on the NDVI and an indirect effect of the NDVI via HHFS on women’s BMI. Using a cohort design, we ensured a temporal relationship between the main exposures preceding the mediator and the outcome. Thus, the mediation analysis enabled us to assess likely causality and reduce confounding. Furthermore, our relatively short research shows that climate variability is a stress multiplier to factors that indirectly or directly affect nutrition and health, such as wealth, health insurance, education, and workload.</p>
+<p>Our analytical model accounted for data clustering at the <italic>Kebele</italic> and household levels to obtain a precise measure of the coefficients’ standard error. We adjusted for potential confounding effects of important sociodemographic variables. The time sequence of the occurrence of exposure, mediator, and outcome variables was used to build a mediation analysis model, adding evidence to claim for cause links between climate variability and crop production, household food security, and malnutrition.</p>
+<p>The advantage of studying in smaller areas is that it enables us to address details obtained through household studies. Even if this may limit the generalization of the findings, the study area is representative of drought-prone and subsistence farming rural communities in Ethiopia, a country with repeated episodes of climate variability and change, crop failures, and famines.</p>
+<p>Although NDVI data correlates well with food production, future studies should validate the use of remote sensing with the variety of foods produced on local farm plots. Furthermore, our study used self-reports while measuring HHFS, which might introduce measurement bias as participants, might have reported a household’s food insecurity with the expectation of getting food aid. However, earlier and repeated validation studies from similar areas in Ethiopia assessed the food insecurity measuring tool as reliable [<xref ref-type="bibr" rid="pclm.0000452.ref017">17</xref>,<xref ref-type="bibr" rid="pclm.0000452.ref018">18</xref>].</p>
+<p>Another limitation is that our mediation model simplifies the real world. However, our approach represents an improvement from previous correlational analysis as we put the variables in a clear time frame with some events preceding the intermediary and outcome.</p>
+<p>Furthermore, there are variables that we did not measure that affect crop production. Thus, we may have missed potential residual confounders. The strength of our study is that it represents a random sample of households. We have taken the estimation of sample size and in the analysis (multilevel analysis) to minimize such a bias. Moreover, no multicollinearity was found during our assessment of the multicollinearity problem. However, as we did not collect these (hidden) variables, we still believe our crude model is correct as it agrees with previous findings.</p>
+<p>Our study confirms earlier results from Ethiopia and Africa that rainfall was associated with NDVI, a proxy for crop production, and that crop production, household food security, and wealth were correlated to an increase in women’s BMI [<xref ref-type="bibr" rid="pclm.0000452.ref031">31</xref>–<xref ref-type="bibr" rid="pclm.0000452.ref034">34</xref>]. Unlike previous studies in southern Ethiopia, we did not find an association between using the safety net program (SNP) and women’s BMI [<xref ref-type="bibr" rid="pclm.0000452.ref035">35</xref>]. Similarly, we did not demonstrate any effect of the Safety Net program. However, the number of persons using health insurance and the safety net program was small, and an inadequate sample size could explain the lack of associations in our study. On the other hand, our mediation model improved when including these variables.</p>
+<p>The need for longitudinal data is a severe constraint for researchers in countries such as Ethiopia. Our study demonstrates that it is possible to retrospectively access valid climate data from publicly available sources and combine them with relatively short-duration studies.</p>
+</sec>
+<sec id="sec022" sec-type="conclusions">
+<title>Conclusion</title>
+<p>Climate variability, crop production, and household food security could be causally linked to women’s nutritional status, suggesting that rural people depending on rain-fed subsidence farming for crop production are vulnerable to the impact of climate variability. Government interventions such as education, CBHI, and safety net could help mitigate the effect of climate variability. In the current study area, mitigating climate variability through improving household food security, wealth status, and educational status could reduce the climate variability stress in the affected populations.</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank the Sidama National Regional State Health Bureau, and the Boricha and Bilate Zuria district health offices for their support. We would also like to thank the study participants and data collectors for their contributions.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pclm.0000452.ref001"><label>1</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Pankhurst</surname> <given-names>R</given-names></name>. <source>The history of famine and epidemics in Ethiopia prior to the twentieth century</source>. <publisher-name>Relief and Rehabilitation Commission</publisher-name>; <year>1986</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref002"><label>2</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kloos</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Lindtjorn</surname> <given-names>B</given-names></name>. <article-title>Malnutrition and mortality during recent famines in Ethiopia: implications for food aid and rehabilitation</article-title>. <source>Disasters</source>. <year>1994</year>;<volume>18</volume>(<issue>2</issue>):<fpage>130</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-7717.1994.tb00294.x" xlink:type="simple">10.1111/j.1467-7717.1994.tb00294.x</ext-link></comment> <object-id pub-id-type="pmid">8076157</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mezgebe</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Gari</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Belayneh</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Seasonal variations in household food security and consumption affect women’s nutritional status in rural South Ethiopia</article-title>. <source>PLOS Glob Public Health</source>. <year>2024</year>;<volume>4</volume>(<issue>8</issue>):e0003294. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pgph.0003294" xlink:type="simple">10.1371/journal.pgph.0003294</ext-link></comment> <object-id pub-id-type="pmid">39163350</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref004"><label>4</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Alemu</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Physical activity, illness and nutritional status among adults in a rural Ethiopian community</article-title>. <source>Int J Epidemiol</source>. <year>1995</year>;<volume>24</volume>(<issue>5</issue>):<fpage>977</fpage>–<lpage>83</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/ije/24.5.977" xlink:type="simple">10.1093/ije/24.5.977</ext-link></comment> <object-id pub-id-type="pmid">8557456</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Phalkey</surname> <given-names>RK</given-names></name>, <name name-style="western"><surname>Aranda-Jan</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Marx</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Höfle</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Sauerborn</surname> <given-names>R</given-names></name>. <article-title>Systematic review of current efforts to quantify the impacts of climate change on undernutrition</article-title>. <source>Proc Natl Acad Sci U S A</source>. <year>2015</year>;<volume>112</volume>(<issue>33</issue>):E4522-9. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1409769112" xlink:type="simple">10.1073/pnas.1409769112</ext-link></comment> <object-id pub-id-type="pmid">26216952</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref006"><label>6</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Burkholder</surname> <given-names>BT</given-names></name>, <name name-style="western"><surname>Toole</surname> <given-names>MJ</given-names></name>. <article-title>Evolution of complex disasters</article-title>. <source>Lancet</source>. <year>1995</year>;<volume>346</volume>(<issue>8981</issue>):<fpage>1012</fpage>–<lpage>5</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/s0140-6736(95)91694-6" xlink:type="simple">10.1016/s0140-6736(95)91694-6</ext-link></comment> <object-id pub-id-type="pmid">7475552</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref007"><label>7</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Field</surname> <given-names>CB</given-names></name>, <name name-style="western"><surname>Barros</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Stocker</surname> <given-names>TF</given-names></name>, <name name-style="western"><surname>Dahe</surname> <given-names>Q</given-names></name>, <name name-style="western"><surname>Dokken</surname> <given-names>DJ</given-names></name>, <name name-style="western"><surname>Ebi</surname> <given-names>KL</given-names></name>, <etal>et al</etal>. <article-title>IPCC, 2012: summary for policymakers: managing the risks of extreme events and disasters to advance climate change adaptation</article-title>. <source>Planning for Climate Change</source>: <publisher-name>Routledge</publisher-name>; <year>2018</year>. p. <fpage>111</fpage>–<lpage>28</lpage>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref008"><label>8</label><mixed-citation publication-type="book" xlink:type="simple"><collab>Climate Watch</collab>. <source>Climate Watch Historical GHG Emissions</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>World Resources Institute</publisher-name>; <year>2023</year>. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.climate-watchdata.org/ghg-emissions?source=Climate%" xlink:type="simple">https://www.climate-watchdata.org/ghg-emissions?source=Climate%</ext-link></mixed-citation></ref>
+<ref id="pclm.0000452.ref009"><label>9</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Sidama</surname> <given-names>R</given-names></name>. <source>Health, Bureau. Sidama Regional Health Bureau. Health Sector Transformation Plan-II</source>. <publisher-name>Report. Hawassa</publisher-name>; <year>2021</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Belayneh</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Loha</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Seasonal Variation of Household Food Insecurity and Household Dietary Diversity on Wasting and Stunting among Young Children in A Drought Prone Area in South Ethiopia: A Cohort Study</article-title>. <source>Ecol Food Nutr</source>. <year>2021</year>;<volume>60</volume>(<issue>1</issue>):<fpage>44</fpage>–<lpage>69</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/03670244.2020.1789865" xlink:type="simple">10.1080/03670244.2020.1789865</ext-link></comment> <object-id pub-id-type="pmid">32672490</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref011"><label>11</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Korecha</surname> <given-names>D</given-names></name>. <source>Characterizing the predictability of seasonal climate in Ethiopia [PhD]</source>. <publisher-loc>Bergen</publisher-loc>: <publisher-name>University of Bergen</publisher-name>; <year>2013</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Viste</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Korecha</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Sorteberg</surname> <given-names>A</given-names></name>. <article-title>Recent drought and precipitation tendencies in Ethiopia</article-title>. <source>Theor Appl Climatol</source>. <year>2012</year>;<volume>112</volume>(3–4):<fpage>535</fpage>–<lpage>51</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00704-012-0746-3" xlink:type="simple">10.1007/s00704-012-0746-3</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref013"><label>13</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McCann</surname> <given-names>JC</given-names></name>. <article-title>A Great Agrarian Cycle? Productivity in Highland Ethiopia, 1900 to 1987</article-title>. <source>Journal of Interdisciplinary History</source>. <year>1990</year>;<volume>20</volume>(<issue>3</issue>):<fpage>389</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/204084" xlink:type="simple">10.2307/204084</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref014"><label>14</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Swindale</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Bilinsky</surname> <given-names>P</given-names></name>. <source>Household Dietary Diversity Score (HDDS) for measurement of household food access: Indicator guide (v.2)</source>. <publisher-loc>Washington, D.C</publisher-loc>: <publisher-name>FHI 360/FANTA</publisher-name>; <year>2006</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Herrmann</surname> <given-names>SD</given-names></name>, <name name-style="western"><surname>Willis</surname> <given-names>EA</given-names></name>, <name name-style="western"><surname>Ainsworth</surname> <given-names>BE</given-names></name>, <name name-style="western"><surname>Barreira</surname> <given-names>TV</given-names></name>, <name name-style="western"><surname>Hastert</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kracht</surname> <given-names>CL</given-names></name>, <etal>et al</etal>. <article-title>2024 Adult Compendium of Physical Activities: A third update of the energy costs of human activities</article-title>. <source>J Sport Health Sci</source>. <year>2024</year>;<volume>13</volume>(<issue>1</issue>):<fpage>6</fpage>–<lpage>12</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jshs.2023.10.010" xlink:type="simple">10.1016/j.jshs.2023.10.010</ext-link></comment> <object-id pub-id-type="pmid">38242596</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref016"><label>16</label><mixed-citation publication-type="book" xlink:type="simple"><source>World Health organization Global Physical Activity Questionnaire (GPAQ) Analysis Guide 17. Instrument questions</source>. <publisher-loc>Geneva, Switzerland</publisher-loc>; <year>2021</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gebreyesus</surname> <given-names>SH</given-names></name>, <name name-style="western"><surname>Lunde</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Mariam</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Woldehanna</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Is the adapted household food insecurity access scale (hfias) developed internationally to measure food insecurity valid in urban and rural households of ethiopia?</article-title> <source>BMC Nutr</source>. <year>2015</year>;<volume>1</volume>(<issue>1</issue>):<fpage>2</fpage>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kabalo</surname> <given-names>BY</given-names></name>, <name name-style="western"><surname>Gebreyesus</surname> <given-names>SH</given-names></name>, <name name-style="western"><surname>Loha</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Performance of an adapted household food insecurity access scale in measuring seasonality in household food insecurity in rural Ethiopia: a cohort analysis</article-title>. <source>BMC Nutr</source>. <year>2019</year>;<volume>5</volume>(<issue>1</issue>):<fpage>54</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s40795-019-0323-6" xlink:type="simple">10.1186/s40795-019-0323-6</ext-link></comment> <object-id pub-id-type="pmid">32153967</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple">UCSB CHIRPS v2p0 daily-improved. <year>2016</year>. <ext-link ext-link-type="uri" xlink:href="https://iridl.ldeo.columbia.edu/SOURCES/.UCSB/.CHIRPS/.v2p0/.daily-improved" xlink:type="simple">https://iridl.ldeo.columbia.edu/SOURCES/.UCSB/.CHIRPS/.v2p0/.daily-improved</ext-link></mixed-citation></ref>
+<ref id="pclm.0000452.ref020"><label>20</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Panek</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Gozdowski</surname> <given-names>D</given-names></name>. <article-title>Analysis of relationship between cereal yield and NDVI for selected regions of Central Europe based on MODIS satellite data</article-title>. <source>Remote Sens Appl Soc Environ</source>. <year>2020</year>;<volume>17</volume>:<fpage>100286</fpage>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref021"><label>21</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rouse</surname> <given-names>JW</given-names></name>, <name name-style="western"><surname>Haas</surname> <given-names>RH</given-names></name>, <name name-style="western"><surname>Schell</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Deering</surname> <given-names>DW</given-names></name>. <article-title>Monitoring vegetation systems in the Great Plains with ERTS</article-title>. <source>NASA Spec Publ</source>. <year>1974</year>;<volume>351</volume>(<issue>1</issue>):<fpage>309</fpage>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"> United States Geological Survey (USGS). <month>May</month> <year>2024</year>. <ext-link ext-link-type="uri" xlink:href="https://www.usgs.gov/" xlink:type="simple">https://www.usgs.gov/</ext-link></mixed-citation></ref>
+<ref id="pclm.0000452.ref023"><label>23</label><mixed-citation publication-type="book" xlink:type="simple"><collab>Landsat Missions</collab>. <source>Landsat normalized difference vegetation index</source>. <publisher-name>US Geological Survey</publisher-name>. <year>2020</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moussa Kourouma</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Eze</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Negash</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Phiri</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Vinya</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Girma</surname> <given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Assessing the spatio-temporal variability of NDVI and VCI as indices of crops productivity in Ethiopia: a remote sensing approach</article-title>. <source>Geomatics, Natural Hazards and Risk</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>2880</fpage>–<lpage>903</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/19475705.2021.1976849" xlink:type="simple">10.1080/19475705.2021.1976849</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref025"><label>25</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mkhabela</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Mkhabela</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Mashinini</surname> <given-names>NN</given-names></name>. <article-title>Early maize yield forecasting in the four agro-ecological regions of Swaziland using NDVI data derived from NOAA’s-AVHRR</article-title>. <source>Agricultural and Forest Meteorology</source>. <year>2005</year>;<volume>129</volume>(1–2):<fpage>1</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.agrformet.2004.12.006" xlink:type="simple">10.1016/j.agrformet.2004.12.006</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref026"><label>26</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bala</surname> <given-names>SK</given-names></name>, <name name-style="western"><surname>Islam</surname> <given-names>AS</given-names></name>. <article-title>Correlation between potato yield and MODIS‐derived vegetation indices</article-title>. <source>International Journal of Remote Sensing</source>. <year>2009</year>;<volume>30</volume>(<issue>10</issue>):<fpage>2491</fpage>–<lpage>507</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/01431160802552744" xlink:type="simple">10.1080/01431160802552744</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Marcoulides</surname> <given-names>KM</given-names></name>, <name name-style="western"><surname>Foldnes</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Grønneberg</surname> <given-names>S</given-names></name>. <article-title>Assessing model fit in structural equation modeling using appropriate test statistics</article-title>. <source>Struct Equ Modeling</source>. <year>2020</year>;<volume>27</volume>(<issue>3</issue>):<fpage>369</fpage>–<lpage>79</lpage>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref028"><label>28</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Frees</surname> <given-names>EW</given-names></name>. <source>Longitudinal and panel data: analysis and applications in the social sciences</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>; <year>2004</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref029"><label>29</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Baltagi</surname> <given-names>BH</given-names></name>. <source>Econometric analysis of panel data sixth edition</source>. <publisher-loc>New York, USA</publisher-loc>: <publisher-name>Spring</publisher-name>; <year>2021</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref030"><label>30</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Hayes</surname> <given-names>AF</given-names></name>. <article-title>Introduction to mediation, moderation, and conditional process analysis</article-title>. <source>A regression-based approach</source>. <edition>3rd ed</edition>. <publisher-name>Guilford Press</publisher-name>; <year>2017</year>.</mixed-citation></ref>
+<ref id="pclm.0000452.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Feng</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Zhang</surname> <given-names>Z</given-names></name>, <name name-style="western"><surname>Zhao</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Guo</surname> <given-names>X</given-names></name>, <name name-style="western"><surname>Zhu</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Das</surname> <given-names>P</given-names></name>. <article-title>Time lag effect of vegetation response to seasonal precipitation in the Mara River Basin</article-title>. <source>Ecol Process</source>. <year>2023</year>;<volume>12</volume>(<issue>1</issue>). <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s13717-023-00461-w" xlink:type="simple">10.1186/s13717-023-00461-w</ext-link></comment></mixed-citation></ref>
+<ref id="pclm.0000452.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hagos</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Lunde</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Mariam</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Woldehanna</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Climate change, crop production and child under nutrition in Ethiopia; a longitudinal panel study</article-title>. <source>BMC Public Health</source>. <year>2014</year>;<volume>14</volume>:<fpage>884</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/1471-2458-14-884" xlink:type="simple">10.1186/1471-2458-14-884</ext-link></comment> <object-id pub-id-type="pmid">25163522</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ahmed</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Ejeta Chibsa</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Hussen</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Bayisa</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Tefera Kefeni</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Gezimu</surname> <given-names>W</given-names></name>, <etal>et al</etal>. <article-title>Undernutrition among exclusive breastfeeding mothers and its associated factors in Southwest Ethiopia: A community-based study</article-title>. <source>Womens Health (Lond)</source>. <year>2024</year>;<volume>20</volume>:<fpage>17455057241231478</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/17455057241231478" xlink:type="simple">10.1177/17455057241231478</ext-link></comment> <object-id pub-id-type="pmid">38390653</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rajabzadeh-Dehkordi</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Mohammadi-Nasrabadi</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Nouri</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ahmadi</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Faghih</surname> <given-names>S</given-names></name>. <article-title>Food insecurity, body mass index, socio-economic status, and food intake in lactating and non-lactating mothers with children under two years</article-title>. <source>BMC Nutr</source>. <year>2023</year>;<volume>9</volume>(<issue>1</issue>):<fpage>62</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s40795-023-00718-9" xlink:type="simple">10.1186/s40795-023-00718-9</ext-link></comment> <object-id pub-id-type="pmid">37069651</object-id></mixed-citation></ref>
+<ref id="pclm.0000452.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kabalo</surname> <given-names>BY</given-names></name>, <name name-style="western"><surname>Lindtjørn</surname> <given-names>B</given-names></name>. <article-title>Seasonality and predictors of childhood stunting and wasting in drought-prone areas in Ethiopia: a cohort study</article-title>. <source>BMJ Open</source>. <year>2022</year>;<volume>12</volume>(<issue>11</issue>):e060692. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1136/bmjopen-2021-060692" xlink:type="simple">10.1136/bmjopen-2021-060692</ext-link></comment> <object-id pub-id-type="pmid">36356996</object-id></mixed-citation></ref>
+</ref-list>
+</back>
+</article>

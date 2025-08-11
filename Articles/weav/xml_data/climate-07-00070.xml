@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">climate</journal-id>
+      <journal-title-group>
+        <journal-title>Climate</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Climate</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Climate</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2225-1154</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/cli7050070</article-id>
+      <article-id pub-id-type="publisher-id">climate-07-00070</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Climate Change-Induced Impacts on Smallholder Farmers in Selected Districts of Sidama, Southern Ethiopia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Matewos</surname>
+            <given-names>Tafesse</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-climate-07-00070">Geography &amp; Environmental Studies &amp; PhD Fellow in Development Studies at Institute of Policy &amp; Development Research (IPDR), Hawassa University, Ethiopia. Po Box 05 Hawassa, Ethiopia; <email>tafessemk@gmail.com</email></aff>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>05</month>
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>5</issue>
+      <elocation-id>70</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2019 by the author.</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Different factors control the types of adaptive strategies and likelihoods of experiencing climate change-induced impacts by smallholder farmers. By using a mixed research method, this study examines the types and determinants of climate change-induced impacts on smallholder rural farmers in drought-prone low lands of Sidama, Southern Ethiopia. Randomly selected (401) households were surveyed on climate change-induced impacts. Longitudinal climatic data were also collected from the Ethiopian National Meteorological Agency to assess the trend of rainfall (RF), temperature and drought incidents. The analyses of the data revealed that RF and temperature had shown decreasing and increasing trends, respectively, during the three decades under consideration (1983&#x2013;2014). These changes in RF and temperature exposed farmers to climate-related epidemics, drought, harvest loss, and hunger. The logit model results revealed that different factors control the likelihood of exposure to climate change-induced impacts. The findings revealed that literacy level, involving women in family decisions and farmers&#x2019; involvement in adaptation planning, reduces the likelihood of exposure to climate change-induced hunger. Therefore, there is a need to work on human capital of the farmers through expanding education, strengthening women&#x2019;s participation in family decision-making, and by improving public participation in climate change adaptation undertakings to minimize climate change-induced impacts.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>climate change-induced impacts</kwd>
+        <kwd>smallholder farmers</kwd>
+        <kwd>drought-prone low lands</kwd>
+        <kwd>rural Sidama</kwd>
+        <kwd>southern Ethiopia</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-climate-07-00070" sec-type="intro">
+      <title>1. Introduction </title>
+      <p>Climate change has emerged as one of the development challenges of the 21st century [<xref ref-type="bibr" rid="B1-climate-07-00070">1</xref>,<xref ref-type="bibr" rid="B2-climate-07-00070">2</xref>]. There is high confidence and agreement among the global scientific community that climate change poses a serious threat to current and future sustainable development. According to the forecasts, climate change-induced impacts will continue to affect people, even if anthropogenic greenhouse gasses emissions stop today [<xref ref-type="bibr" rid="B3-climate-07-00070">3</xref>]. Sub-Saharan Africa (SSA), where smallholder farmers dominate agriculture [<xref ref-type="bibr" rid="B4-climate-07-00070">4</xref>], is one of the global hotspots for climate change-induced impacts [<xref ref-type="bibr" rid="B5-climate-07-00070">5</xref>]. In SSA, agriculture directly employs about 175 million people who cultivate degraded lands where there is no reliable supply of water for irrigation [<xref ref-type="bibr" rid="B6-climate-07-00070">6</xref>]. These smallholder farmers in SSA are among the most vulnerable groups to climate change and variability-induced impacts due to dependency on RF, limited use of irrigation, and weak adaptive capacity. Furthermore, limited human and material capacity, poor infrastructure, fragile environments, political instability, and marginalization contributed to the vulnerability in this region [<xref ref-type="bibr" rid="B7-climate-07-00070">7</xref>,<xref ref-type="bibr" rid="B8-climate-07-00070">8</xref>,<xref ref-type="bibr" rid="B9-climate-07-00070">9</xref>,<xref ref-type="bibr" rid="B10-climate-07-00070">10</xref>]. The case is not different in Ethiopia where smallholder farmers, who produce 90% of the total agricultural yield and own 95% of the total cultivated land [<xref ref-type="bibr" rid="B11-climate-07-00070">11</xref>], suffer from different climate change induced-impacts. Most of these subsistent farmers practice rain-fed traditional farming, use little modern agricultural inputs, and have little surplus to sell in local markets. They are not resilient enough to cope with climate change-induced recurrent shocks and long-term impacts [<xref ref-type="bibr" rid="B12-climate-07-00070">12</xref>,<xref ref-type="bibr" rid="B13-climate-07-00070">13</xref>,<xref ref-type="bibr" rid="B14-climate-07-00070">14</xref>]. Although climate change-induced impacts have been recurrent in Ethiopia and in the study area, little is known about the factors that affect the likelihood of exposure to such impacts in Ethiopia and SSA. Thus, by using mixed research strategy, this study presents the types and determinants of climate change induced-impacts on smallholder rural farmers in drought-prone lowland context. </p>
+      <p>Climate change induced-impacts refers to effects on natural and human systems due to gradual changes in climate, variations in weather and climatic elements from the average, and that of the impacts of climatic extremes. As IPCC report, climate change-induced impacts refer to impacts on human lives, livelihoods, culture, economies, ecosystems, and material resources due to hazardous climatic events over a period of time [<xref ref-type="bibr" rid="B3-climate-07-00070">3</xref>]. Climate change-induced impacts also include consequences and outcomes of the direct impacts including droughts, hunger, famine, loss of life and property, and sea level rise which can be potential or residual (ibid). The former includes impacts that occur due to a projected change in climate without adaptation. The latter refers to the impacts with adaptation [<xref ref-type="bibr" rid="B15-climate-07-00070">15</xref>]. Therefore, in this research, climate change-induced impacts include the immediate effects as well as outcomes and consequences of the immediate effects on human and natural systems. As global warming increases the likelihood of experiencing severe, persistent, and irreversible impacts on natural and human systems will be stronger [<xref ref-type="bibr" rid="B3-climate-07-00070">3</xref>,<xref ref-type="bibr" rid="B16-climate-07-00070">16</xref>]. Greenhouse gas emissions have adverse effects on biodiversity, ecosystem services, and economic development, which are causing risks for livelihoods and human security [<xref ref-type="bibr" rid="B17-climate-07-00070">17</xref>,<xref ref-type="bibr" rid="B18-climate-07-00070">18</xref>]. The 4th IPCC report argues that <italic>&#x2026;by 2020, between 75 million and 250 million people are projected to be exposed to increased water stress due to climate change</italic> [<xref ref-type="bibr" rid="B15-climate-07-00070">15</xref>] (p13). Agricultural crop yield in some African countries could be reduced by 50% by 2020 and this can endanger the existence of many smallholder rural farmers. </p>
+      <p>Climate change-induced impacts have hampered poverty reduction and sustainable development in the Global South [<xref ref-type="bibr" rid="B5-climate-07-00070">5</xref>,<xref ref-type="bibr" rid="B19-climate-07-00070">19</xref>,<xref ref-type="bibr" rid="B20-climate-07-00070">20</xref>]. This is because most climate-related impacts affect the poor, who are struggling to come out of poverty [<xref ref-type="bibr" rid="B21-climate-07-00070">21</xref>]. Furthermore, livelihood strategies and housing conditions of the poor are more vulnerable to climate change and variability-induced impacts [<xref ref-type="bibr" rid="B22-climate-07-00070">22</xref>,<xref ref-type="bibr" rid="B23-climate-07-00070">23</xref>]. The poor usually have houses made of mud, bamboo, straw, and other inexpensive materials that are the most vulnerable to extreme weather events. The poor also cannot buy climate insurance against climate-related risks. Besides the direct impacts on agriculture-related livelihoods, climate change is also indirectly affecting the health and well-being of the poor through its effect on human and livestock health [<xref ref-type="bibr" rid="B24-climate-07-00070">24</xref>,<xref ref-type="bibr" rid="B25-climate-07-00070">25</xref>]. For example, because of increasing surface temperature, malaria is expected to migrate to higher altitudes and cause further health problems, which affect the poor&#x2019;s income and productivity. According to the World Health Organization (WHO) estimates, global warming causes about 150,000 deaths per year [<xref ref-type="bibr" rid="B26-climate-07-00070">26</xref>]. RF and temperature variability also result in pests and diseases incidents that affect the quantity and the quality of the crop yield [<xref ref-type="bibr" rid="B27-climate-07-00070">27</xref>]. Besides impacts, social strains caused by increased resource scarcity may lead to greater conflict [<xref ref-type="bibr" rid="B5-climate-07-00070">5</xref>,<xref ref-type="bibr" rid="B28-climate-07-00070">28</xref>], with the poor again being the most likely victims. </p>
+      <p>Erratic RF and higher temperatures characterize the drought-prone lowlands of Sidama. The area is part of the Great East African Rift Valley (GEARV). Climate change-induced impacts such as drought, crop failure, livestock loss, flooding, and water-borne and related diseases (such as diarrhea and malaria) have been recurrent in this area. The problem worsened in 2016 despite various adaptive strategies of the households, communities, and other actors, including the government. This needed a large-scale emergency relief for about 100,000 people, which is highest in recent documented drought history of the area. Despite a few research works on climate change-induced impacts on smallholder farmers, there is a gap in the literature about factors that control the likelihood of exposure to the impacts. Therefore, the main goal of this study is to identify factors that determine the likelihood of exposure to climate-induced impacts on smallholder rural farmers. Identifying such determinants is important for policy-makers, practitioners, and smallholder farmers to identify leverage points to manage the imminent impacts of climate change in the country and beyond.</p>
+    </sec>
+    <sec id="sec2-climate-07-00070">
+      <title>2. Climate Change-Induced Impacts in Ethiopia</title>
+      <p>While agriculture is the backbone of Ethiopia&#x2019;s economy, it is RF dependent and dominated by smallholder subsistent farmers. About 80% of the Ethiopian population lives in rural areas making drought-prone agriculture as the primary means of livelihood. This figure is much higher than the SSA average, which stood at 63% in the year 2014 [<xref ref-type="bibr" rid="B11-climate-07-00070">11</xref>,<xref ref-type="bibr" rid="B29-climate-07-00070">29</xref>]. Furthermore, agriculture constitutes 40% of the GDP, supports 80% of the total employment, and is a source of 90% of the export in Ethiopia [<xref ref-type="bibr" rid="B11-climate-07-00070">11</xref>,<xref ref-type="bibr" rid="B30-climate-07-00070">30</xref>,<xref ref-type="bibr" rid="B31-climate-07-00070">31</xref>]. Nonetheless, climate change-induced impacts are challenging the roles of agriculture for the overall growth of the country [<xref ref-type="bibr" rid="B12-climate-07-00070">12</xref>]. In the 20th century alone, twelve extreme droughts happened in Ethiopia that hampered the economic development of the country. The drought incidents claimed the lives of hundreds of thousands and affected the livelihoods of over 50 million people [<xref ref-type="bibr" rid="B32-climate-07-00070">32</xref>]. Drought incidents have been increasing in recent decades in the country. Eight major droughts had occurred in the last three decades in Ethiopia: 1984/85 1987/88 1991 1994 1997 2002/03 2010/11, and in 2015/16 [<xref ref-type="bibr" rid="B32-climate-07-00070">32</xref>,<xref ref-type="bibr" rid="B33-climate-07-00070">33</xref>]. </p>
+      <p>Previous studies revealed that climate change and variability had exerted significant impacts on agriculture and the overall economic growth in Ethiopia [<xref ref-type="bibr" rid="B32-climate-07-00070">32</xref>,<xref ref-type="bibr" rid="B34-climate-07-00070">34</xref>,<xref ref-type="bibr" rid="B35-climate-07-00070">35</xref>]. Specifically, climate change-induced impacts have hampered the country&#x2019;s economic growth and effort to move out of poverty. For instance, it was reported that from 1991&#x2013;2010, the growth estimates were reduced by 2&#x2013;9% because of climate change-induced impacts [<xref ref-type="bibr" rid="B30-climate-07-00070">30</xref>]. Under the worst-case scenarios, the economic impacts of climate change may reduce Ethiopia&#x2019;s GDP by up to 8% [<xref ref-type="bibr" rid="B36-climate-07-00070">36</xref>]. On the other hand, another study on climate change impact on agriculture and related sectors revealed a 10% GDP drop from the target [<xref ref-type="bibr" rid="B37-climate-07-00070">37</xref>]. The same study revealed a widening income inequality that could reach up to 20% due to the effect of climate change. In general, with higher vulnerability, and lesser resilience to climate change-induced impacts, the country is projected to experience a 6% decline in total agricultural output in the coming years [<xref ref-type="bibr" rid="B38-climate-07-00070">38</xref>]. </p>
+      <p>Besides the impacts on the national economy, climate change-induced impacts have been affecting health and livelihood status of smallholder farmers in Ethiopia. Some of these impacts include climate-related epidemics, crop failure, flooding, livestock mortality, shortage of water and pasture, migration, and food aid dependency [<xref ref-type="bibr" rid="B2-climate-07-00070">2</xref>,<xref ref-type="bibr" rid="B39-climate-07-00070">39</xref>,<xref ref-type="bibr" rid="B40-climate-07-00070">40</xref>]. Unsustainable adaptation strategies of the farmers, such as selling assets and charcoal production, have resulted in the degradation of assets, environment degradation, and biodiversity losses. Climate change-induced food and water shortages affect the health, educational, and economic status of the households [<xref ref-type="bibr" rid="B8-climate-07-00070">8</xref>]. For instance, during drought events, children are forced to drop out of the school to participate in such household activities as collecting water and fuel-wood from long distances. Malaria affects labor availability at the household level and increases the health expenses of the family.</p>
+    </sec>
+    <sec id="sec3-climate-07-00070">
+      <title>3. Data and Methods</title>
+      <sec id="sec3dot1-climate-07-00070">
+        <title>3.1. Study Area</title>
+        <p>Located in the Horn of Africa, Ethiopia had a population of 94.35 million in 2017, according to the Ethiopian Central Statistical agency. The country has nine regional states and two city administrations. The Southern Nations Nationalities and Peoples&#x2019; Regional State (SNNPRS) is one of the nine administrative regions comprising about 20% of the country&#x2019;s total population and 10% of the land area. The Sidama Administration Zone is one of the 14 administrative zones in the SNNPRS. With a population of 3,677,370 in 2014 [<xref ref-type="bibr" rid="B41-climate-07-00070">41</xref>], it is the most populous zone in the region. The zone is located in the central-eastern part of the region bordered by Oromiya in the North, East, and Southeast, Gedeo Zone in the South, and Wolayita Zone in the west. The zone lies between 6&#xB0;10&#x2032; to 7&#xB0;05&#x2032; North latitude and 38&#xB0;21&#x2032; to 39&#xB0;11&#x2032; East longitude. The total area of the zone is 6981.9 km<sup>2</sup> [<xref ref-type="bibr" rid="B42-climate-07-00070">42</xref>].</p>
+        <p>Three drought-prone districts (Hawassa Zuria, Boricha, and Loka Abaya) were selected for this study (<xref ref-type="fig" rid="climate-07-00070-f001">Figure 1</xref>). The districts are located in the heart of the East African Rift Valley and they were chosen based on their higher potential risk of exposure to adverse climate change and variability. Variable RF and higher temperatures characterize the districts compared to other districts of the zone. The population of the districts is 576,865 from 113,285 households. About 97% of the population in these districts lives in rural areas where drought-prone agriculture is their source of livelihood. Agro-pastoral communities dominate the southwestern parts of the study area, where climate-related animal diseases are prevalent. </p>
+        <p>Diverse climate characterizes the drought-prone districts of Sidama Zone. Altitude ranges from 560&#x2013;2300 meters above sea level and the average annual RF ranges between 700 and 1200 mm. The RF pattern in the area is bimodal, which occurs in the summer and spring seasons. The summer (<italic>kiremt</italic>) rains last from June to September while the spring (<italic>belg</italic>) rains usually begin in February and end in late May. Both the <italic>kiremt</italic> and <italic>belg</italic> rains are irregular and unpredictable, resulting in frequent losses of harvest and cattle. The region has a bimodal precipitation distribution and high RF variability due to the seasonal progression of the inter-tropical convergence zone (ITCZ), an atmospheric circulation feature often modified by the El Ni&#xF1;o&#x2013;Southern Oscillation (ENSO). Also, there is severe livestock and human diseases (for example, malaria, cholera, and trypanosomiasis) in the area largely due to the inhospitable climate. The perennial Bilate River, which dissects the Wolayita and Sidama Zones, drains the western part of the area. The eastern part lacks perennial rivers, and households largely depend on artificial ponds and hand-dug shallow wells for water for domestic uses and watering livestock. The area experiences severe water shortages when the ponds run out of water during the December&#x2013;February dry period.</p>
+      </sec>
+      <sec id="sec3dot2-climate-07-00070">
+        <title>3.2. Data</title>
+        <p>This study employed a cross-sectional household survey method. Randomly selected 401 rural household heads took part as respondents for the study. The following sampling procedure was applied. Based on their climatic conditions, accessibility, population size, and population density three kebeles from Boricha, two kebeles from Hawassa Zuria, and two kebeles from Loka Abaya districts (a total of seven kebeles) were selected. Accordingly, Hanja Cafa, Haldada Dela, and Korangoge from Boricha district, Muticha Gorbe, and Sala Kore kebeles from Loka Abaya district, and Doyo Cala and Doyo Otilicha kebeles from Hawassa Zuria districts were selected for the study. The ideal sample size was calculated based on the Krejcie and Morgan formula; the maximum sample size at a 95% confidence interval and 5% margin of error for 750,000 people is 382 [<xref ref-type="bibr" rid="B43-climate-07-00070">43</xref>]. Considering attritions of the responses, a 5% contingency (19 HHs) gives 401 households, which were selected from the three districts. The 401 sample size was proportionally distributed based on the number of households in each district. So, 189 HHs from Boricha, 93 HHs from Loka Abaya, and 119 HHs from Hawassa Zuria districts were included for this study. The respondents were household heads who were selected by using systematic random sampling. Female-headed households were also included proportionately in all the districts (<xref ref-type="table" rid="climate-07-00070-t001">Table 1</xref>). </p>
+        <p>The field data collection process took place from April to May 2017 with trained data collectors supervised by the researcher. More data were gathered through focus group discussions, interviews with key informants, and field observation. The study also used RF data collected from the National Meteorological Agency of Ethiopia for the period 1983&#x2013;2014 to support other data.</p>
+        <p>The RF data was analyzed by using trend analysis, Mann&#x2013;Kendall&#x2019;s rank test, and standard RF anomalies (SRA). The SRA refers to standard RF anomaly and <italic>Pi</italic> and <italic>P&#xB5;</italic> represent RF of a given year and the mean RF, respectively. Accordingly, the result helps to classify temperature RF condition into different categories (<xref ref-type="table" rid="climate-07-00070-t002">Table 2</xref>).</p>
+        <disp-formula id="FD1-climate-07-00070">
+          <label>(1)</label>
+          <mml:math id="mm1" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:mi>SRA</mml:mi>
+                <mml:mo>=</mml:mo>
+                <mml:mfrac>
+                  <mml:mrow>
+                    <mml:msub>
+                      <mml:mi>P</mml:mi>
+                      <mml:mi>i</mml:mi>
+                    </mml:msub>
+                    <mml:mo>&#x2212;</mml:mo>
+                    <mml:mi>P</mml:mi>
+                    <mml:mi>&#x3BC;</mml:mi>
+                  </mml:mrow>
+                  <mml:mi>&#x3B4;</mml:mi>
+                </mml:mfrac>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </disp-formula>
+        <p>The collected quantitative data were encoded into STATA software (Version 14.2), and various descriptive and inferential techniques (mean, percent, standard deviation, and logit model) were used to analyze and interpret the results. The logit model analysis was carried out by using the STATA software to identify the determinants of climate change-induced effects on smallholder farmers. The qualitative data were analyzed via systematic thematization to augment the quantitative results.</p>
+      </sec>
+      <sec id="sec3dot3-climate-07-00070">
+        <title>3.3. Model Specifications </title>
+        <p>A logit model is a statistical approach used when the dependent variable (DV) is nominal with two or more categories commonly grouped as dummy variables (<xref ref-type="table" rid="climate-07-00070-t003">Table 3</xref>). On the other hand, the independent (predictor) variables (IVs) in a logit model can be qualitative (nominal or ordinal level) and interval/ratio level variables. This study used a logit model to identify factors that control the likelihood of households&#x2019; exposure to climate change-induced impacts. Climate change-induced impacts considered in this study include the likelihoods to exposure to drought, harvest loss, flooding, and hunger. The exposure to hunger is examined vis-&#xE0;-vis eighteen socio-economic and institutional s (<xref ref-type="table" rid="climate-07-00070-t002">Table 2</xref>). The eighteen dependent variables were selected among other socioeconomic and institutional variables after all the variables were tested to have a relationship with the four dependent variables considered for this study. The logit model showed that the selected eighteen variables have some explanatory power on the dependent variables considered.</p>
+        <p>Logistic regression involves a linear function: <disp-formula id="FD2-climate-07-00070"><label>(2)</label><mml:math id="mm2" display="block"><mml:semantics><mml:mrow><mml:mi>Z</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mo>&#x2026;</mml:mo><mml:mo>+</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mi>n</mml:mi></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mi>n</mml:mi></mml:msub></mml:mrow></mml:semantics></mml:math></disp-formula>
+        where Z is a dependent variable and X<sub>i</sub>&#x2026;X<sub>n</sub> are explanatory variables.</p>
+        <p>The logistic regression function is thus, given by:<disp-formula id="FD3-climate-07-00070"><label>(3)</label><mml:math id="mm3" display="block"><mml:semantics><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mi>z</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mi>z</mml:mi></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:semantics></mml:math></disp-formula>
+        where <inline-formula><mml:math id="mm4" display="block"><mml:semantics><mml:mi>p</mml:mi></mml:semantics></mml:math></inline-formula> is the probability that an event occurs; and the odds in favor of the occurrence are related according to <inline-formula><mml:math id="mm5" display="block"><mml:semantics><mml:mi>p</mml:mi></mml:semantics></mml:math></inline-formula> = <inline-formula><mml:math id="mm6" display="block"><mml:semantics><mml:mrow><mml:mfrac><mml:mrow><mml:mi>Odds</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x2212;</mml:mo><mml:mi>odds</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:semantics></mml:math></inline-formula> = <inline-formula><mml:math id="mm7" display="block"><mml:semantics><mml:mrow><mml:mfrac><mml:mi>p</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x2212;</mml:mo><mml:mi>p</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:semantics></mml:math></inline-formula>.</p>
+        <disp-formula id="FD4-climate-07-00070">
+          <label>(4)</label>
+          <mml:math id="mm8" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:mi>log</mml:mi>
+                <mml:mrow>
+                  <mml:mo>(</mml:mo>
+                  <mml:mrow>
+                    <mml:mfrac>
+                      <mml:mi>p</mml:mi>
+                      <mml:mrow>
+                        <mml:mn>1</mml:mn>
+                        <mml:mo>&#x2212;</mml:mo>
+                        <mml:mi>p</mml:mi>
+                      </mml:mrow>
+                    </mml:mfrac>
+                  </mml:mrow>
+                  <mml:mo>)</mml:mo>
+                </mml:mrow>
+                <mml:mo>=</mml:mo>
+                <mml:msub>
+                  <mml:mi>&#x3B2;</mml:mi>
+                  <mml:mn>0</mml:mn>
+                </mml:msub>
+                <mml:mo>+</mml:mo>
+                <mml:msub>
+                  <mml:mi>&#x3B2;</mml:mi>
+                  <mml:mn>1</mml:mn>
+                </mml:msub>
+                <mml:mi>X</mml:mi>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </disp-formula>
+        <p>Thus, odds is defined for an event with probability <inline-formula><mml:math id="mm9" display="block"><mml:semantics><mml:mi>p</mml:mi></mml:semantics></mml:math></inline-formula> and the logit is the log of the odds, i.e.; </p>
+        <p>Model - <italic>p</italic>(<italic>x</italic>) = probability of the event occurring at (Y=(<italic>x</italic>))</p>
+        <p>
+          <disp-formula id="FD5-climate-07-00070">
+            <label>(5)</label>
+            <mml:math display="block" id="mm10">
+              <mml:semantics>
+                <mml:mrow>
+                  <mml:mi>p</mml:mi>
+                  <mml:mo stretchy="false">(</mml:mo>
+                  <mml:mi>y</mml:mi>
+                  <mml:mo>/</mml:mo>
+                  <mml:mi>x</mml:mi>
+                  <mml:mo stretchy="false">)</mml:mo>
+                  <mml:mo>=</mml:mo>
+                  <mml:mfrac>
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>e</mml:mi>
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>1</mml:mn>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mn>1</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>2</mml:mn>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mn>2</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:mo>&#x2026;</mml:mo>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mi>k</mml:mi>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mi>k</mml:mi>
+                          </mml:msub>
+                        </mml:mrow>
+                      </mml:msup>
+                    </mml:mrow>
+                    <mml:mrow>
+                      <mml:mn>1</mml:mn>
+                      <mml:mo>+</mml:mo>
+                      <mml:msup>
+                        <mml:mi>e</mml:mi>
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>1</mml:mn>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mn>1</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mn>2</mml:mn>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mn>2</mml:mn>
+                          </mml:msub>
+                          <mml:mo>+</mml:mo>
+                          <mml:mo>&#x2026;</mml:mo>
+                          <mml:mo>+</mml:mo>
+                          <mml:msub>
+                            <mml:mi>&#x3B2;</mml:mi>
+                            <mml:mi>k</mml:mi>
+                          </mml:msub>
+                          <mml:msub>
+                            <mml:mi>X</mml:mi>
+                            <mml:mi>k</mml:mi>
+                          </mml:msub>
+                        </mml:mrow>
+                      </mml:msup>
+                    </mml:mrow>
+                  </mml:mfrac>
+                </mml:mrow>
+              </mml:semantics>
+            </mml:math>
+          </disp-formula>
+        </p>
+        <p>A smaller sample size with a large number of predictors creates problems with the analysis, specifically when there are categorical predictors with limited cases in each category. Descriptive statistics were run for each of the predictors to solve the problem. The result showed that all categorical variables have a required number of cases set as a minimum standard [<xref ref-type="bibr" rid="B44-climate-07-00070">44</xref>]. A multicollinearity test was done to check for high intercorrelations among predictor (independent) variables. The test result suggested that the maximum r-value of the independent variables is 0.7, which is within an acceptable limit [<xref ref-type="bibr" rid="B44-climate-07-00070">44</xref>]. The presence of outliers or cases that would not well be explained by the model was also checked to make sure the model fits the data well. The model tried to find out factors that control the HHs likelihood of exposure to climate-induced impacts such as the exposure to the effects of drought, harvest loss, flooding, and hunger in the study area. R<sup>2</sup> and adjusted R<sup>2</sup> were also used to discuss the amount of variation explained by the independent variables. The former supposes that every independent variable in the model explains the variation in the dependent variable by explaining the variation in percent as if all independent variables in the model affect the dependent variable. On the other hand, the adjusted R<sup>2</sup> gives the percentage of variation explained by independent variables that in reality, affect the dependent variable. In this context, it is also called marginal effect after logit.</p>
+      </sec>
+    </sec>
+    <sec id="sec4-climate-07-00070" sec-type="results">
+      <title>4. Results and Discussion</title>
+      <sec id="sec4dot1-climate-07-00070">
+        <title>4.1. RF Condition and Drought Incidents</title>
+        <p>Studies on RF over Ethiopia revealed high variability and drought incidents [<xref ref-type="bibr" rid="B32-climate-07-00070">32</xref>,<xref ref-type="bibr" rid="B35-climate-07-00070">35</xref>,<xref ref-type="bibr" rid="B45-climate-07-00070">45</xref>]. Similarly, the analyses of RF data have shown declining RF trends and incidents of drought during the years under consideration (1983&#x2013;2014). Annual and growing season (<italic>belg</italic> and <italic>kiremt</italic>) RF amounts had shown declining trends in the study area. The <italic>belg</italic> season (February, March, April, and May) RF accounts for 40% of the annual RF in the study area. It is an important season not only to grow short-growing season crops, but also it provides water for livestock and helps the growth of pasture. Though the current study does not check daily RF data of the growing seasons, the experts and focus group discussion participants reported that problems related to its onset, duration, and offset have serious consequence on food security in the study area. However, despite its huge role for livelihood security, it has shown a significant (<italic>p</italic> &#x2264; 0.05) declining trend in the last three decades (<xref ref-type="fig" rid="climate-07-00070-f002">Figure 2</xref>a, <xref ref-type="table" rid="climate-07-00070-t003">Table 3</xref>). The <italic>kiremt</italic> season (June, July, August, and September) is the main rain growing season in the study area which accounts for 41% of the total annual RF. <italic>Kiremt</italic> RF has also shown a declining trend over the years under consideration (<xref ref-type="fig" rid="climate-07-00070-f002">Figure 2</xref>b), though the trend is not statistically significant (<xref ref-type="table" rid="climate-07-00070-t003">Table 3</xref>). The trend analysis of annual RF data has also revealed a declining trend, though the result is statistically insignificant (<xref ref-type="table" rid="climate-07-00070-t003">Table 3</xref>). The annual RF had varied from its average amount, which amounts to 1100 mm. The year 2009 was the driest year among the years under consideration with the annual amount of 796.37 mm. The years 1984, 1999, 2000, 2002, 2003, 2004, and 2009 were the drier with annual RF of 950.44 mm, 870.1 mm, 934.02 mm, 960.09 mm, 994.71 mm, and 925.08 mm, respectively. </p>
+        <p>The years 1983 and 1996 were the wettest years with annual RF amounts of 1420.42 mm and 1368.41 mm, respectively (<xref ref-type="fig" rid="climate-07-00070-f003">Figure 3</xref>). On the other hand, the analysis of minimum, maximum, and mean monthly temperature had shown increasing trends, all of which are statistically significant </p>
+        <p>The RF Standard Anomalies (RSA) helps to estimate the extent of drought based on the RF data [<xref ref-type="bibr" rid="B46-climate-07-00070">46</xref>] (<xref ref-type="table" rid="climate-07-00070-t004">Table 4</xref>). </p>
+        <p>The analysis of annual RSA pointed out seven droughts incidents of different extent during the three decades under consideration. The year 2009 with annual SRA value of &#x2212;2.11 was the driest year in the last three decades, which coincides with the 2009/10 extreme drought all over the country. The years 1999 and 2012 were also years of severe drought in the study area with SRA vales of &#x2212;1.6 and &#x2212;1.45, respectively. The other four moderate drought years were in 1984 (SRA = &#x2212;1.04) 2000 (SRA = &#x2212;1.16) 2002 (SRA = &#x2212;0.98), and 2004 (SRA = &#x2212;1.22) (<xref ref-type="fig" rid="climate-07-00070-f003">Figure 3</xref>). </p>
+      </sec>
+      <sec id="sec4dot2-climate-07-00070">
+        <title>4.2. Types of Climate Change-Induced Impacts </title>
+        <p>Drought and flooding are the most common climate change variability-induced risks in Ethiopia [<xref ref-type="bibr" rid="B2-climate-07-00070">2</xref>,<xref ref-type="bibr" rid="B39-climate-07-00070">39</xref>,<xref ref-type="bibr" rid="B47-climate-07-00070">47</xref>]. The findings of this study nevertheless revealed other climate change-induced impacts that are recurrent in the study area. The common ones include climate-induced seasonal epidemics, drought, harvest loss, flooding, hunger, migration, and school dropout [<xref ref-type="bibr" rid="B48-climate-07-00070">48</xref>]. </p>
+        <sec id="sec4dot2dot1-climate-07-00070">
+          <title>4.2.1. Climate Change and Variability Related Epidemics</title>
+          <p>Climate change-related epidemics globally claim over 150,000 lives per year [<xref ref-type="bibr" rid="B26-climate-07-00070">26</xref>]. Studies on the health impact of anthropogenic climate change show that climate change is affecting human health. Diseases such as cardiovascular mortality, respiratory illnesses, water-related contagious diseases, and malnutrition are directly or indirectly associated with climate change [<xref ref-type="bibr" rid="B24-climate-07-00070">24</xref>,<xref ref-type="bibr" rid="B26-climate-07-00070">26</xref>,<xref ref-type="bibr" rid="B27-climate-07-00070">27</xref>,<xref ref-type="bibr" rid="B28-climate-07-00070">28</xref>,<xref ref-type="bibr" rid="B29-climate-07-00070">29</xref>,<xref ref-type="bibr" rid="B30-climate-07-00070">30</xref>,<xref ref-type="bibr" rid="B31-climate-07-00070">31</xref>,<xref ref-type="bibr" rid="B32-climate-07-00070">32</xref>,<xref ref-type="bibr" rid="B33-climate-07-00070">33</xref>,<xref ref-type="bibr" rid="B34-climate-07-00070">34</xref>,<xref ref-type="bibr" rid="B35-climate-07-00070">35</xref>,<xref ref-type="bibr" rid="B36-climate-07-00070">36</xref>,<xref ref-type="bibr" rid="B37-climate-07-00070">37</xref>,<xref ref-type="bibr" rid="B38-climate-07-00070">38</xref>,<xref ref-type="bibr" rid="B39-climate-07-00070">39</xref>,<xref ref-type="bibr" rid="B40-climate-07-00070">40</xref>,<xref ref-type="bibr" rid="B41-climate-07-00070">41</xref>,<xref ref-type="bibr" rid="B42-climate-07-00070">42</xref>,<xref ref-type="bibr" rid="B43-climate-07-00070">43</xref>,<xref ref-type="bibr" rid="B44-climate-07-00070">44</xref>,<xref ref-type="bibr" rid="B45-climate-07-00070">45</xref>,<xref ref-type="bibr" rid="B46-climate-07-00070">46</xref>,<xref ref-type="bibr" rid="B47-climate-07-00070">47</xref>,<xref ref-type="bibr" rid="B48-climate-07-00070">48</xref>,<xref ref-type="bibr" rid="B49-climate-07-00070">49</xref>,<xref ref-type="bibr" rid="B50-climate-07-00070">50</xref>]. Malaria, cholera, and animal diseases were the major climate change and variability induced epidemics reported by the HHs in the study area. Of the total respondents asked about the incidence of malaria in their locality, 46% (<italic>n</italic> = 183) said that they had suffered from a malaria epidemic in their family. Malaria has been the most prevalent disease in the study area and its prevalence increases in the wet season from May to November. During wet seasons, the availability of moisture creates a conducive environment for mosquitos to breed and spread, such as those places left open to harvest rainwater. </p>
+          <p>On the other hand, thirty-five percent (<italic>n</italic> = 138) of the households reported cholera incidences. Water supply coverage in the study area has been marginal because of poor hydro-geological conditions and limited resources to improve water supply coverage. Water scarcity forces people to use untreated water for domestic consumptions. Key informants in Boricha district said that such incidences usually happen during water-scarce seasons where families resort to using unsafe water for domestic consumptions. Diarrheal diseases incidents are very common during the dry season (from December to March) affecting health and household labor availability in the area. Twenty-one percent (<italic>n</italic> = 85) of the study participants also reported the prevalence of animal diseases. The problem is more acute for agro-pastoral communities living in the western parts of the study area, especially in Loka Abaya district. Some HHS also reported the prevalence of animal diseases, such as trypanosomiasis. It affects animal farming in the study area. About 21% (<italic>n</italic> = 81) of respondents reported that they had experienced climate change-related livestock diseases. Trypanosomiasis is one of the tropical livestock diseases, which has widely spread all over the SSA [<xref ref-type="bibr" rid="B51-climate-07-00070">51</xref>,<xref ref-type="bibr" rid="B52-climate-07-00070">52</xref>]. The World Health Organization (WHO) has also pointed out that climate change induced animal diseases are affecting cattle header Maasai pastoralist communities living in Tanzania and Kenya [<xref ref-type="bibr" rid="B53-climate-07-00070">53</xref>].</p>
+        </sec>
+        <sec id="sec4dot2dot2-climate-07-00070">
+          <title>4.2.2. Drought</title>
+          <p>Drought is a climatic condition, which occurs when there is a RF below its normal pattern for a long period of time [<xref ref-type="bibr" rid="B54-climate-07-00070">54</xref>]. Drought has happened in the study area every year since 2000, compelling large-scale relief intervention by government and international donors. A prolonged delay or a total absence of the rains during the two growing seasons (<italic>belg</italic> and <italic>kiremt</italic>) adversely affects crop and livestock productivity. About 84% (<italic>n</italic> = 336) of the households interviewed reported to have suffered from drought-related effects in the last ten years. During the dry season, pastoral household members travel eight to ten hours every other day to water their livestock at the Hawassa Lake or Bilate River. Such long-distance trekking undoubtedly hinders household heads or other family members from devoting enough time to other livelihoods and, therefore, incurring further economic losses. To support the farmers&#x2019; drought incident experience with the RF data, the researchers carried out RSA analysis. The result pointed out decreasing annual, summer, and spring RF amounts for the years under consideration. The SRA results pointed out that seven drought events of different extent occurred in the study area of which one was extreme, two were severe, and four were moderate (<xref ref-type="fig" rid="climate-07-00070-f003">Figure 3</xref>). The incidence of drought had increased in the study area because 88% of the drought happened in the last fifteen years of the three decades.</p>
+        </sec>
+        <sec id="sec4dot2dot3-climate-07-00070">
+          <title>4.2.3. Harvest Loss</title>
+          <p>Climate change-induced harvest loss due to rainfall shortages in the growing season is one reason for food insecurity in developing countries [<xref ref-type="bibr" rid="B55-climate-07-00070">55</xref>]. There had been harvest losses because of climate change in the study area. This happened due to the shortage of RF during the growing season. Out of 401 HHs interviewed, eighty-two percent (<italic>n</italic> = 329) said that they have experienced harvest losses in the last ten years. The farmers in the study area practice a mixed livelihood: crop cultivation and animal husbandry. When drought occurs, the productivity of both suffers. The exception is for <italic>enset</italic> crop. Because of its biological characteristics, <italic>enset</italic> has strong drought resistance capacity and has a strong link with animal husbandry. The mixed livelihoods are dependent on RF since there are no small-scale irrigation projects in the study area. During the drought years when animal pasture/grass is scarce, farmers fed their cattle <italic>enset</italic> (false banana). This alternative is less feasible nowadays because of the scarcity of animal dung, which is a critical fertilizer to grow <italic>enset</italic>. As a result, as the number of cattle owned by households dwindles, <italic>enset</italic> production also declines. Thus, climate change is affecting the mixed (crop cultivation and animal husbandry) rural livelihood by degrading its natural connection.</p>
+        </sec>
+        <sec id="sec4dot2dot4-climate-07-00070">
+          <title>4.2.4. Flooding </title>
+          <p>Climate change-induced flooding is one of the impacts of climate change, which has vast economic and social consequences. It has been occurring in Ethiopia for years inflicting heavy social and economic costs [<xref ref-type="bibr" rid="B56-climate-07-00070">56</xref>]. Flooding during rainy seasons is one of the primary climate-induced effects in the study area. Of the 402 households asked about their exposure to flooding, 74% (<italic>n</italic> = 297) said that flooding had affected them in the last ten years. Most parts of the study area, especially the western part, have suffered from devastating flooding due to the seasonal overflow of the Bilat River. On the other hand, since the area is located in lower elevations, there are run-offs from the surrounding highlands that destroy terraces built to control soil erosion. Also, several gullies occurred because of heavy rain that has affected the landscape as noted by the researcher during field visits. Flooding during rainy seasons causes property and harvest loss incurring a significant economic cost to the farmers. The social and economic effects mentioned by households include loss of human lives and livestock, property damages, destruction of crops, water-borne diseases, and soil erosion. </p>
+        </sec>
+        <sec id="sec4dot2dot5-climate-07-00070">
+          <title>4.2.5. Climate Change-Induced Hunger</title>
+          <p>Famine is a condition where people lack food for a longer period whereas hunger is a seasonal lack of food because of natural or human-made causes. Hunger becomes famine when it persists and affects many people [<xref ref-type="bibr" rid="B57-climate-07-00070">57</xref>]. RF shortage is one of the main reasons for famine and hunger in SSA [<xref ref-type="bibr" rid="B4-climate-07-00070">4</xref>,<xref ref-type="bibr" rid="B5-climate-07-00070">5</xref>]. Of the 401 respondents included in this study, 77% (<italic>n</italic> = 309) did experience hunger in the last ten years. Data collected from the Sidama Zone Agriculture and Natural Resources Management Department show that climate change-induced hunger did happen in the three districts in the previous fifteen years. Many people received emergency food aid in 2000, 2004, 2009, and 2016. These years coincide with the years of lower SRA discussed in part 4.1. According to key informants, signs of hunger include a delayed start of rain during rainy seasons (<italic>belg</italic> or <italic>kiremt</italic>) or its absence during critical sowing seasons. Both affect crop and livestock productivity and food security. </p>
+        </sec>
+      </sec>
+      <sec id="sec4dot3-climate-07-00070">
+        <title>4.3. Determinants of Climate Change-Induced Impacts on Smallholder Farmers</title>
+        <sec id="sec4dot3dot1-climate-07-00070">
+          <title>4.3.1. Determinants of Exposure to the Effects of Drought</title>
+          <p>The result of the logit model shows that several reasons decide the likelihood of exposure to the effects of drought in the study area. The model is statistically significant for the determinants of drought (N = 357, Chi<sup>2</sup> = 59.99, <italic>p</italic> = 0.0000). The pseudo R<sup>2</sup> and adjusted R<sup>2</sup> (after marginal effect) values for this category of explanatory variables are 18.56% and 88.83%, respectively (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). Out of the explanatory variables considered in the model, educational status, growing enset, membership in 1 to 5 groups, and being head in 1 to 5 groups affect the exposure to the effects of drought. Besides, the use of chemical fertilizer and the participation of women in family decision-making are found to be the main determinants of exposure to the effects of climate change-induced drought. Specifically, the findings show that a one year increase in schooling decreases the likelihood of being affected by drought by 10% (at <italic>p</italic> &lt; 0.05 level). </p>
+          <p>Growing enset is another determinant of climate change-induced drought. Households who grow enset are 111.3% less likely to experience the effects of drought than those without <italic>enset</italic> at <italic>p</italic> &lt; 0.05 level (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). <italic>Enset</italic> (false banana) is a perennial crop known for its drought-resistant nature and is wildly used as a staple food in the most southern part of Ethiopia [<xref ref-type="bibr" rid="B58-climate-07-00070">58</xref>,<xref ref-type="bibr" rid="B59-climate-07-00070">59</xref>]). <italic>Enset</italic> is important for the local economy because its products, locally called <italic>waasa</italic> and <italic>bu&#x2019;la</italic>, are sold in markets and are a source of income. Its roots, leaves, and stem are also used to feed animals during drought years. The Peasant Association (Kebele Administration) is the lowest administrative unit in Ethiopia that is accountable to the district (district) administration. Locally, households are organized in small groups of five households known as the 1 to 5 group. The government designed it without having local farmers say in its formation. The government widely uses this group for economic, political, and social purposes. Of the total 402 households involved in this study, 60% (<italic>n</italic> = 242) were members in the 1 to 5 group organization and the remaining 40% (<italic>n</italic> = 160) were not. On the other hand, 11% (<italic>n</italic> = 42) were serving as group leaders. There is widespread debate and controversies on the merits and demerits of such grouping. However, the purpose here is as a social organization, to what extent being a member or a leader in 1 to 5 groups is related to the likelihood of facing climate change-induced impacts? </p>
+          <p>The model revealed that being a member or having a position in the 1 to 5 groups affects the likelihood of exposure to climate change-induced drought. Being a member of the group increases the likelihood of exposure to drought effects by 120.2% (at <italic>p</italic> &lt; 0.01 level). On the other hand, having a position of leadership of a group decreases the exposure to climate change-induced drought by 149.7% at <italic>p</italic> &lt; 0.01 level (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). A further investigation on the socio-economic status of the 1 to 5 group heads pointed out that they are were individuals with a better resource base. Furthermore, the group heads have more decision making power on resources owned by the community. On the other hand, the members of these groups were poor farmers who joined the group to get government support. Despite the claims of the government to support the poor organized in the groups, the members were most vulnerable compared with others. Also, the model examined agricultural technology use and the likelihood of exposure to climate change-induced impacts. The results of the model show that except for improved animal fodder, other agricultural technologies did not decrease the likelihood of exposure to climate change-induced impacts. Using chemical fertilizers (Urea and NPS) increases the possibility of experiencing the effects of drought and harvest losses. It increases the likelihood of experiencing drought effects by 150.4% (at <italic>p</italic> &lt; 0.01 level). This is contrary to the claims of government officials who argue using chemical fertilizers as rewarding for farmers. Interviews with farmers revealed that when RF onset is late, the application of chemical fertilizers is calamitous to farmers because the fertilizers wilt the crops in their early stages. Thus, applying chemical fertilizers during drought seasons increases their likelihood of exposure to the effects of drought. Moreover, those farmers who use chemical fertilizers are more likely to experience bankruptcy during drought years for they have to pay back the fertilizer loan, which is expensive according to key informants. Thus, the debt and risks associated with borrowing in precarious situations are found to be factors for the higher vulnerability of farmers.</p>
+        </sec>
+        <sec id="sec4dot3dot2-climate-07-00070">
+          <title>4.3.2. Determinants of Facing Harvest Loss</title>
+          <p>The logit model results show that several factors affect the possibility of exposure to harvest loss in the study area. The model is statistically significant for the determinants of harvest loss (N = 358, Chi<sup>2</sup> = 85.78, <italic>p</italic> = 0.0000). The pseudo R<sup>2</sup> and adjusted R<sup>2</sup> values are 24.44% and 87.75%, respectively (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). Among the explanatory variables, membership and headship in 1 to 5 groups, PSNP, and animal fodder control the likelihood of experiencing harvest loss. Also, the use of chemical fertilizer controls the likelihood of harvest loss. The PSNP is a social protection program that government instruments in drought-prone and food insecure areas of Ethiopia. Because of the widespread food insecurity, the government has been carrying out the PSNP in the study area. It aids vulnerable farmers in cash and kind in the study area. Of the sampled households, 29% (<italic>n</italic> = 114) were PSNP beneficiaries, whereas the remaining were not. The results of the model revealed that HHs supported by the program are less likely to experience the effects of harvest loss by 91.9% (at <italic>p</italic> &lt; 0.01 level) than the non-users of the program. Like the case of drought exposure, membership in the 1 to 5 group increases the possibility of facing a harvest loss by 159.8% (at <italic>p</italic> &lt; 0.01 level). On the contrary, bearing the leadership position in the 1 to 5 group reduces the likelihood of exposure to harvest loss by 200% (at <italic>p</italic> &lt; 0.01 level). One of the challenges for farmers during the drought season is the lack of pasture and water for their livestock. To solve the problem, the government has introduced a plant species that farmers grow to feed their livestock. Farmers call it animal fodder in the study area. The logit model analysis shows that the use of this improved animal fodder reduces the likelihood of facing harvest loss. Farmers who use improved animal fodder are 81.6% less likely to experience harvest loss than the non-users (at <italic>p</italic> &lt; 0.1 level). This is because, without the fodder, farmers use crops to feed livestock. Using chemical fertilizers in crop fields increases the chance of experiencing harvest loss. Farmers who apply chemical fertilizers in their crop field are 37% more likely to experience harvest loss during a drought season because crops wilt under inadequate rain conditions (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). </p>
+        </sec>
+        <sec id="sec4dot3dot3-climate-07-00070">
+          <title>4.3.3. Determinants of Exposure to the Effects of Flooding</title>
+          <p>Flooding is one of the climate change-induced impacts experienced by the HHs in the study area. The model is statistically significant for the determinants of experiencing flooding (N = 357, Chi<sup>2</sup> = 39.62.78, <italic>p</italic> = 0.0958). The pseudo R<sup>2</sup> and adjusted R<sup>2</sup> values of the model are 9.58% and 75.7%, respectively (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). Among the variables considered, land use right certificate, being a beneficiary of PSNP, and membership in the 1 to 5 groups are the determinants of exposure to flooding. Also, taking part in climate change adaptation decisions affects exposure to climate change-induced flooding (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). Land use right certificate affects the likelihood of experiencing climate change-induced impacts. The likelihood of facing flooding decreases by 64.5% for farmers who have land ownership certificate. This result is statistically significant (at <italic>p</italic> &lt; 0.1 level). This is because farmers with a land use right certificate have a stronger landownership feeling than those without and this encourages farmers to carry out different soil and water conservation practices. Households with larger landholding size are less likely to experience flooding than HHs with a smaller landholding size. A unit increase in landholding size decreases the likelihood of experiencing flooding by 43.9% (at <italic>p</italic> &lt; 0.05). Being a PSNP beneficiary also decreases the likelihood of facing climate change-induced flooding by 92.3% (at <italic>p</italic> &lt; 0.01 level). On the other hand, membership in the 1 to 5 groups controls the likelihood of exposure to flooding impacts. Being a member in 1 to 5 group decreases the chance of experiencing flooding impacts by 85.2% (at <italic>p</italic> &lt; 0.01 level). Participation in climate change adaptation decisions at the local level is also relevant. Farmers who take part in local level decision-making are 52% less likely to experience climate change induced flooding impacts than the non-participants (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). The incident of flooding is common for low-lying areas, but the model did not consider topography and is a limitation of the model.</p>
+        </sec>
+        <sec id="sec4dot3dot4-climate-07-00070">
+          <title>4.3.4. Determinants of Facing Hunger</title>
+          <p>Climate change and variability-induced hunger are one of the impacts experienced by the HHs in the study area, especially during drought periods. The model is statistically significant for the determinants of experiencing hunger by the HHs (N = 357, Chi<sup>2</sup> = 82.49, <italic>p</italic> = 0.0000). The pseudo R<sup>2</sup> and adjusted R<sup>2</sup> values are 21.18% % and 83.25%, respectively (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). The logit model result identified sex, educational status, farmland size, membership, and headship in the 1 to 5 groups as determinants of exposure to hunger. Besides, the use of improved animal fodder, chemical fertilizer, and improved seed variety also control the chance of exposure to hunger. Furthermore, female participation in family decision making also decides the likelihood of exposure to change-induced hunger. The sex of the household head is associated with the likelihood of facing climate-induced impacts; being a male household head decreases the chance of exposure to hunger by 55.9% (at <italic>p</italic> &lt; 0.1 level). This means female-headed HHs are more vulnerable to the exposure of hunger than the male counterpart. This is due to issues related to access to and control over resources owned by the family and the community. </p>
+          <p>On the other hand, a unit increase in education decreases the likelihood of facing hunger by 11.6% (at <italic>p</italic> &lt; 0.01 level). This suggests the role of education in minimizing the impacts of climate change induced hunger. Household&#x2019;s total farm size also lowers the chance of facing hunger. A unit increase in farm size reduces the likelihood of facing hunger by 57.1% (at <italic>p</italic> &lt; 0.01 level). This means as land holding size decreases, farmers become more vulnerable to climate change-induced hunger. Like the case of exposure to drought, membership in the 1 to 5 groups increases the likelihood of exposure to hunger. The likelihood of facing hunger increases by 147.5% for members in 1 to 5 group and decreases by 142.7% for the heads of the group (at <italic>p</italic> &lt; 0.01 levels). Using improved animal fodder decreases the likelihood of experiencing hunger. Users of improved animal fodder are 88.7% less likely to face climate change-induced hunger than non-users (at <italic>p</italic> &lt; 0.1 level). Women&#x2019;s involvement in family decision-making such as selling assets and renting out lands affects the likelihood of exposure to hunger. It reduces the chance of experiencing climate change-induced hunger by 101.5% (at <italic>p</italic> &lt; 0.01 level). The use of chemical fertilizers and drought-resistant varieties also affects the possibility of experiencing climate change-induced hunger. Using these inputs increases the chance of experiencing hunger by 142.9% and 69.7%, respectively (<xref ref-type="table" rid="climate-07-00070-t005">Table 5</xref>). Key informants&#x2019; interviews to justify the reasons behind these findings suggested the use of chemical fertilizer and improved seed varieties is disadvantageous for farmers. This is because farmers who use agricultural inputs usually get them in the form of a loan. The farmers have to sell their assets to pay back the debt since there is no surplus produce to sell in the market during drought years. This further degrades their asset base, exposing them to food security.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec5-climate-07-00070" sec-type="conclusions">
+      <title>5. Conclusions</title>
+      <p>The analyses of data collected from different sources have shown that RF had been scarce, erratic and declining from time to time, exposing rained smallholder farmers to various climate change-induced impacts. Annual and growing season (<italic>belg</italic> and <italic>kiremt</italic>) RF had shown a declining trend in the study area. The analysis annual RSA has shown that the study area had experienced seven droughts of different extent during the three decades (1983&#x2013;2014) under consideration. The monthly minimum, maximum, and average temperature had increased over the years under consideration, all of which are statistically significant. These changes in climatic variables resulted in climate change-induced epidemics, drought, harvest losses, flooding, and hunger. </p>
+      <p>The logit model results have shown that different several socio-economic and institutional factors control the likelihood of exposure to the impacts. The likelihood of exposure to the effects of drought is controlled by the educational status of the HH head, growing enset, and membership in the 1 to 5 groups. Furthermore, leadership in 1 to 5 groups, use of chemical fertilizers, and female involvement in family decision-making are other determinants. Furthermore, membership and headship in the 1 to 5 groups, being the beneficiary of the PSNP, the use of improved animal fodder, and the use of chemical fertilizer affect the likelihood of exposure to harvest loss. On the other hand, land use right certificate, participation in the PSNP, membership in the 1 to 5 groups, and participation in climate change adaptation decisions are determinants of climate change-induced flooding. Moreover, the logit model has identified that sex, educational status, farmland size, and membership and headship in the 1 to 5 groups affect the likelihood of experiencing climate change-induced hunger. Besides, the use of improved animal fodder, chemical fertilizers, and improved seed variety also control the likelihood of exposure to climate change-induced hunger. Participation of women in family decision-making also reduces climate change-induced hunger.</p>
+      <p>Climate change and variability-induced impacts are widely available in the study area despite various adaptive strategies of the government and the households. Government policies on education, female empowerment, land use right certification, and participation of the households in adaptation decisions can help to minimize climate change-induced impacts. The empirical literature also suggests that working on human capital is key to successful livelihood diversification [<xref ref-type="bibr" rid="B60-climate-07-00070">60</xref>,<xref ref-type="bibr" rid="B61-climate-07-00070">61</xref>,<xref ref-type="bibr" rid="B62-climate-07-00070">62</xref>]. In this regard, education (both formal and informal) and skills training need to be emphasized. On the contrary, organizing farmers into 1 to 5 groups contributed positively only in minimizing the incidence of flooding. Memberships in such organization did not help to reduce the possibility of facing the effects of drought, harvest loss, and hunger. Thus, the government needs to reform such organizations in a manner that they can contribute to lessening climate change impelled impacts. Besides, the supplies of agricultural inputs (improved seed varieties and chemical fertilizers) specifically during drought years increased the likelihood of exposure to climate change-induced impacts. Therefore, there is a need to build human capital through expanding education, strengthening female participation in family decision-making, and improve public participation in climate change adaptation undertakings to manage climate change-induced impacts sustainably.</p>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Funding</title>
+      <p>This research received some funding from the NORHED-DEG Project of Norad in Hawassa University. The author is grateful for the financial support.</p>
+    </notes>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>I would like to thank Tesfaye Semela and Sintayehu Hailu for commenting and shaping the statistical model used in the study. I also thank Girma Kebede for commenting the first draft of the article.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The author declares no conflicts of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-climate-07-00070">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Brien</surname>
+              <given-names>K.L.</given-names>
+            </name>
+            <name>
+              <surname>Leichenko</surname>
+              <given-names>R.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Double exposure: Assessing the impacts of climate change within the context of economic globalization</article-title>
+          <source>Glob. Environ. Chang.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>221</fpage>
+          <lpage>232</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0959-3780(00)00021-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-climate-07-00070">
+        <label>2.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Radeny</surname>
+              <given-names>M.A.O.</given-names>
+            </name>
+            <name>
+              <surname>Mungai</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Agricultural Adaptation and Institutional Responses to Climate Change Vulnerability in Ethiopia</source>
+          <publisher-name>CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS)</publisher-name>
+          <publisher-loc>Copenhagen, Denmark</publisher-loc>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="B3-climate-07-00070">
+        <label>3.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>IPCC</collab>
+          </person-group>
+          <source>Climate Change 2014: Synthesis Report</source>
+          <comment>Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</comment>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pachauri</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>L.A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>IPCC</publisher-name>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <year>2014</year>
+          <fpage>151</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B4-climate-07-00070">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kotir</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change and variability in Sub-Saharan Africa: A review of current and future trends and impacts on agriculture and food security</article-title>
+          <source>Environ. Dev. Sustain.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>587</fpage>
+          <lpage>605</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10668-010-9278-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-climate-07-00070">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adeniyi</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change induced hunger and poverty in Africa</article-title>
+          <source>J. Glob. Biosci.</source>
+          <year>2016</year>
+          <volume>5</volume>
+          <fpage>3711</fpage>
+          <lpage>3724</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6-climate-07-00070">
+        <label>6.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>AGRA (Alliance for a Green Revolution in Africa Change)</collab>
+          </person-group>
+          <source>Smallholder Agriculture in Sub-Saharan Africa</source>
+          <publisher-name>AGRA</publisher-name>
+          <publisher-loc>Nairobi, Kenya</publisher-loc>
+          <year>2014</year>
+        </element-citation>
+      </ref>
+      <ref id="B7-climate-07-00070">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adger</surname>
+              <given-names>W.N.</given-names>
+            </name>
+            <name>
+              <surname>Huq</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Hulme</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adaptation to climate change in the developing world</article-title>
+          <source>Prog. Dev. Stud.</source>
+          <year>2003</year>
+          <volume>3</volume>
+          <fpage>179</fpage>
+          <lpage>195</lpage>
+          <pub-id pub-id-type="doi">10.1191/1464993403ps060oa</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-climate-07-00070">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morton</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of climate change on smallholder and subsistence agriculture</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2007</year>
+          <volume>104</volume>
+          <fpage>19680</fpage>
+          <lpage>19685</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0701855104</pub-id>
+          <pub-id pub-id-type="pmid">18077400</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-climate-07-00070">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schlenker</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Lobell</surname>
+              <given-names>D.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Robust negative impacts of climate change on African agriculture</article-title>
+          <source>Environ. Res. Lett.</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>014010</fpage>
+          <pub-id pub-id-type="doi">10.1088/1748-9326/5/1/014010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-climate-07-00070">
+        <label>10.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>FAO</collab>
+          </person-group>
+          <article-title>Agriculture in Sub-Saharan Africa: Prospects and challenges for the next decade</article-title>
+          <source>Agricultural Outlook 2016&#x2013;2025</source>
+          <publisher-name>FAO</publisher-name>
+          <publisher-loc>Rome, Italy</publisher-loc>
+          <year>2016</year>
+        </element-citation>
+      </ref>
+      <ref id="B11-climate-07-00070">
+        <label>11.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>MoA</collab>
+          </person-group>
+          <source>The Federal Democratic Republic of Ethiopia. Agriculture Sector Programme of Plan on Adaptation to Climate Change</source>
+          <publisher-name>Technical Working Group</publisher-name>
+          <publisher-loc>Addis Ababa, Ethiopia</publisher-loc>
+          <year>2011</year>
+        </element-citation>
+      </ref>
+      <ref id="B12-climate-07-00070">
+        <label>12.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>World Bank</collab>
+          </person-group>
+          <source>Measuring the Economic Impact of Climate Change on Ethiopian Agriculture: Ricardian Approach</source>
+          <publisher-name>The World Bank</publisher-name>
+          <publisher-loc>Washington, DC, USA</publisher-loc>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B13-climate-07-00070">
+        <label>13.</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Senbeta</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Olsson</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate Change Impact on Livelihood, Vulnerability and Coping, Mechanisms: A Case Study of West-Arsi Zone, Ethiopia. </article-title>
+          <source>Unpublished MA Thesis</source>
+          <publisher-name>Lund University</publisher-name>
+          <publisher-loc>Lund, Sweden</publisher-loc>
+          <year>2009</year>
+        </element-citation>
+      </ref>
+      <ref id="B14-climate-07-00070">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tafesse</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ayele</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ketema</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Geta</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adaptation to climate change and variability in eastern Ethiopia</article-title>
+          <source>J. Econ. Sustain. Dev.</source>
+          <year>2013</year>
+          <volume>4</volume>
+          <fpage>91</fpage>
+          <lpage>103</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B15-climate-07-00070">
+        <label>15.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>IPCC</collab>
+          </person-group>
+          <source>Climate Change 2007&#x2014;The Physical Science Basis: Working Group I Contribution to the Fourth Assessment Report of the IPCC</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Solomon</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Manning</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Averyt</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Marquis</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B16-climate-07-00070">
+        <label>16.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>IPCC</collab>
+          </person-group>
+          <source>Climate Change IPCC Third Assessment Report. Intergovernmental Panel on Climate Change</source>
+          <publisher-name>IPCC Secretariat</publisher-name>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <year>2001</year>
+        </element-citation>
+      </ref>
+      <ref id="B17-climate-07-00070">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cooper</surname>
+              <given-names>P.J.M.</given-names>
+            </name>
+            <name>
+              <surname>Dimes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>K.P.C.</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Shiferaw</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Twomlow</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Coping better with current climatic variability in the rain-fed farming systems of sub-Saharan Africa: An essential first step in adapting to future climate change?</article-title>
+          <source>Agric. Ecosyst. Environ.</source>
+          <year>2008</year>
+          <volume>126</volume>
+          <fpage>24</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.agee.2008.01.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-climate-07-00070">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shiferaw</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Tesfaye</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kassie</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abate</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Prasanna</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Menkir</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options</article-title>
+          <source>Weather Clim. Extrem.</source>
+          <year>2014</year>
+          <volume>3</volume>
+          <fpage>67</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.wace.2014.04.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-climate-07-00070">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mertz</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Halsn&#xE6;s</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Olesen</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Rasmussen</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adaptation to climate change in developing countries</article-title>
+          <source>Environ. Manag.</source>
+          <year>2009</year>
+          <volume>43</volume>
+          <fpage>743</fpage>
+          <lpage>752</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00267-008-9259-3</pub-id>
+          <pub-id pub-id-type="pmid">19184576</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-climate-07-00070">
+        <label>20.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ravindranath</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Sathaye</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change and developing countries</article-title>
+          <source>Climate Change and Developing Countries</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+          <year>2002</year>
+          <fpage>247</fpage>
+          <lpage>265</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B21-climate-07-00070">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mendelsohn</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Dinar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The distributional impact of climate change on rich and poor countries</article-title>
+          <source>Environ. Dev. Econ.</source>
+          <year>2006</year>
+          <volume>11</volume>
+          <fpage>159</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1355770X05002755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-climate-07-00070">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carter</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Little</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Mogues</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Negatu</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Poverty traps and natural disasters in Ethiopia and Honduras</article-title>
+          <source>World Dev.</source>
+          <year>2007</year>
+          <volume>35</volume>
+          <fpage>835</fpage>
+          <lpage>856</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.worlddev.2006.09.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-climate-07-00070">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ribot</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vulnerability does not fall from the sky: Toward multiscale, pro-poor climate policy</article-title>
+          <source>Soc. Dimens. Clim. Chang. Equity Vulnerability A Warm. World</source>
+          <year>2010</year>
+          <volume>2</volume>
+          <fpage>47</fpage>
+          <lpage>74</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B24-climate-07-00070">
+        <label>24.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McMichael</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <source>Global Climate Change and Health: An Old Story Writ Large. Climate Change and Human Health: Risks and Responses</source>
+          <publisher-name>World Health Organization</publisher-name>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <year>2003</year>
+        </element-citation>
+      </ref>
+      <ref id="B25-climate-07-00070">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kjellstrom</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change, direct heat exposure, health and well-being in low and middle-income countries</article-title>
+          <source>Glob. Health Action</source>
+          <year>2009</year>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3402/gha.v2i0.1958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-climate-07-00070">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patz</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Campbell-Lendrum</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Holloway</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Foley</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of regional climate change on human health</article-title>
+          <source>Nature</source>
+          <year>2005</year>
+          <volume>438</volume>
+          <fpage>310</fpage>
+          <pub-id pub-id-type="doi">10.1038/nature04188</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-climate-07-00070">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenzweig</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Iglesias</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>X.B.</given-names>
+            </name>
+            <name>
+              <surname>Epstein</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Chivian</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change and extreme weather events; implications for food production, plant diseases, and pests</article-title>
+          <source>Glob. Chang. Hum. Health</source>
+          <year>2001</year>
+          <volume>2</volume>
+          <fpage>90</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1015086831467</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-climate-07-00070">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nord&#xE1;s</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gleditsch</surname>
+              <given-names>N.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change and conflict</article-title>
+          <source>Political Geogr.</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <fpage>627</fpage>
+          <lpage>638</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.polgeo.2007.06.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-climate-07-00070">
+        <label>29.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>UN-DESA</collab>
+          </person-group>
+          <source>World Urbanization Prospects, the 2014. Population Division, Department of Economic and Social Affairs 2014</source>
+          <publisher-name>United Nations Secretariat</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>2014</year>
+        </element-citation>
+      </ref>
+      <ref id="B30-climate-07-00070">
+        <label>30.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asaminew</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Climate Change, Growth and Poverty in Ethiopia. The Robert S. Strauss Center for International Security and Law</source>
+          <publisher-name>The University of Texas at Austin</publisher-name>
+          <publisher-loc>Austin, TX, USA</publisher-loc>
+          <year>2013</year>
+        </element-citation>
+      </ref>
+      <ref id="B31-climate-07-00070">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evangelista</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Burnett</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>How will climate change spatially affect agriculture production in Ethiopia? Case studies of important cereal crops</article-title>
+          <source>Clim. Chang.</source>
+          <year>2013</year>
+          <volume>119</volume>
+          <fpage>855</fpage>
+          <lpage>873</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10584-013-0776-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-climate-07-00070">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mersha</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>van Laerhoven</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The interplay between planned and autonomous adaptation in response to climate change: Insights from rural Ethiopia</article-title>
+          <source>World Dev.</source>
+          <year>2018</year>
+          <volume>107</volume>
+          <fpage>87</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.worlddev.2018.03.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-climate-07-00070">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seleshi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zanke</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent changes in RF and rainy days in Ethiopia</article-title>
+          <source>Int. J. Climatol.</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <fpage>973</fpage>
+          <lpage>983</lpage>
+          <pub-id pub-id-type="doi">10.1002/joc.1052</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-climate-07-00070">
+        <label>34.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adem</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>A Climate Change Country Assessment Report for Ethiopia. Submitted to Forum for Environment</source>
+          <publisher-name>Epsilon International R&amp;D</publisher-name>
+          <publisher-loc>Addis Ababa, Ethiopia</publisher-loc>
+          <year>2011</year>
+        </element-citation>
+      </ref>
+      <ref id="B35-climate-07-00070">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adnew</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Variability and trends in RF amount and extreme event indices in the Omo-Ghibe River Basin, Ethiopia</article-title>
+          <source>Reg. Environ. Chang.</source>
+          <year>2014</year>
+          <volume>14</volume>
+          <fpage>799</fpage>
+          <lpage>810</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B36-climate-07-00070">
+        <label>36.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yalew</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Hirte</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Lotze-Campen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tscharaktschiew</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Economic Effects of Climate Change in Developing Countries: Economy-Wide and Regional Analysis for Ethiopia</source>
+          <publisher-name>Center of Public and International Economics</publisher-name>
+          <publisher-loc>Dresdon, Germany</publisher-loc>
+          <year>2017</year>
+        </element-citation>
+      </ref>
+      <ref id="B37-climate-07-00070">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mideksa</surname>
+              <given-names>T.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Economic and distributional impacts of climate change: The case of Ethiopia</article-title>
+          <source>Glob. Environ. Chang.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>278</fpage>
+          <lpage>286</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2009.11.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-climate-07-00070">
+        <label>38.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kreft</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Eckstein</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Dorsch</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>Global Climate Risk Index 2016: Who Suffers Most from Extreme Weather Events? Weather-related Loss Events in 2014 and 1995 to 2014</source>
+          <publisher-name>Germanwatch</publisher-name>
+          <publisher-loc>Bonn, Germany</publisher-loc>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="B39-climate-07-00070">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change perceptions and adaptive responses of smallholder farmers in central highlands of Ethiopia</article-title>
+          <source>Int. J. Environ. Stud.</source>
+          <year>2012</year>
+          <volume>69</volume>
+          <fpage>507</fpage>
+          <lpage>523</lpage>
+          <pub-id pub-id-type="doi">10.1080/00207233.2012.683328</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-climate-07-00070">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Atinkut</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mebrat</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determinants of farmers choice of adaptation to climate variability in Dera district, south Gondar zone, Ethiopia</article-title>
+          <source>Environ. Syst. Res.</source>
+          <year>2016</year>
+          <volume>5</volume>
+          <fpage>6</fpage>
+          <pub-id pub-id-type="doi">10.1186/s40068-015-0046-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41-climate-07-00070">
+        <label>41.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>SNNPRS-BoFED</collab>
+          </person-group>
+          <source>Annual Abstract SNNPRS Bureau of Finance and Economic Development Annual Statistical Abstract. 2003 E.C. Data Collection&#x2014;Dissemination Core Process</source>
+          <publisher-name>SNNPRS-BoFED</publisher-name>
+          <publisher-loc>Hawassa, Ethiopia</publisher-loc>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="B42-climate-07-00070">
+        <label>42.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>SZBoFED</collab>
+          </person-group>
+          <source>Sidama Zone Socio-Economic Profile. Sidama Zone Finance and Economic Development Department</source>
+          <publisher-name>SZBoFED</publisher-name>
+          <publisher-loc>Hawassa, Ethiopia</publisher-loc>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B43-climate-07-00070">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krejcie</surname>
+              <given-names>R.V.</given-names>
+            </name>
+            <name>
+              <surname>Morgan</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determining sample size for research activities</article-title>
+          <source>Educ. Psychol. Meas.</source>
+          <year>1970</year>
+          <volume>30</volume>
+          <fpage>607</fpage>
+          <lpage>610</lpage>
+          <pub-id pub-id-type="doi">10.1177/001316447003000308</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44-climate-07-00070">
+        <label>44.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pallant</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>SPSS Survival Manual: A Step by Step Guide to Data Analysis Using SPSS for Windows (Versions 10 and 11): SPSS Student Version 11.0 for Windows</source>
+          <publisher-name>Open University Press</publisher-name>
+          <publisher-loc>Milton Keynes, UK</publisher-loc>
+          <year>2001</year>
+        </element-citation>
+      </ref>
+      <ref id="B45-climate-07-00070">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A note on the temporal and spatial variability of RF in the drought-prone Amhara region of Ethiopia</article-title>
+          <source>Int. J. Climatol.</source>
+          <year>2007</year>
+          <volume>27</volume>
+          <fpage>1467</fpage>
+          <lpage>1477</lpage>
+          <pub-id pub-id-type="doi">10.1002/joc.1481</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46-climate-07-00070">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janowiak</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Ropelewski</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Halpert</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The precipitation anomaly classification: A method for monitoring regional precipitation deficiency and excess on a global scale</article-title>
+          <source>J. Clim. Appl. Meteorol.</source>
+          <year>1986</year>
+          <volume>25</volume>
+          <fpage>565</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="doi">10.1175/1520-0450(1986)025&lt;0565:TPACAM&gt;2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47-climate-07-00070">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arragaw</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bewket</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Smallholder farmers&#x2019; coping and adaptation strategies to climate change and variability in the central highlands of Ethiopia</article-title>
+          <source>Local Environ.</source>
+          <year>2017</year>
+          <volume>22</volume>
+          <fpage>825</fpage>
+          <lpage>839</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B48-climate-07-00070">
+        <label>48.</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tafesse</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Assessment of Domestic Water Supply Status of Rural Household in Selecting Kebeles of Boricha District, Sidaama Zone, Southern Ethiopia</article-title>
+          <source>Unpublished Master&#x2019;s Thesis</source>
+          <publisher-name>Addis Ababa University</publisher-name>
+          <publisher-loc>Addis Ababa, Ethiopia</publisher-loc>
+          <year>2009</year>
+        </element-citation>
+      </ref>
+      <ref id="B49-climate-07-00070">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haines</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kovats</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Campbell-Lendrum</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Corval&#xE1;n</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change and human health: Impacts, vulnerability and public health</article-title>
+          <source>Public Health</source>
+          <year>2006</year>
+          <volume>120</volume>
+          <fpage>585</fpage>
+          <lpage>596</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhe.2006.01.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50-climate-07-00070">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McMichael</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Barnett</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>McMichael</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>An ill wind? Climate change, migration, and health</article-title>
+          <source>Environ. Health Perspect.</source>
+          <year>2012</year>
+          <volume>120</volume>
+          <fpage>646</fpage>
+          <lpage>654</lpage>
+          <pub-id pub-id-type="doi">10.1289/ehp.1104375</pub-id>
+          <pub-id pub-id-type="pmid">22266739</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51-climate-07-00070">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allsopp</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Options for vector control against trypanosomiasis in Africa</article-title>
+          <source>Trends Parasitol.</source>
+          <year>2001</year>
+          <volume>17</volume>
+          <fpage>15</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1471-4922(00)01828-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52-climate-07-00070">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hotez</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Kamath</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Neglected tropical diseases in sub-Saharan Africa: Review of their prevalence, distribution, and disease burden</article-title>
+          <source>PLoS Negl. Trop. Dis.</source>
+          <year>2009</year>
+          <volume>3</volume>
+          <elocation-id>e412</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pntd.0000412</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B53-climate-07-00070">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kissui</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Livestock predation by lions, leopards, spotted hyenas, and their vulnerability to retaliatory killing in the Maasai steppe, Tanzania</article-title>
+          <source>Anim. Conserv.</source>
+          <year>2008</year>
+          <volume>11</volume>
+          <fpage>422</fpage>
+          <lpage>432</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-1795.2008.00199.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B54-climate-07-00070">
+        <label>54.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Philander</surname>
+              <given-names>S.G.</given-names>
+            </name>
+          </person-group>
+          <source>Encyclopedia of Global Warming and Climate Change: AE</source>
+          <publisher-name>Sage Publishers</publisher-name>
+          <publisher-loc>Thousand Oaks, CA, USA</publisher-loc>
+          <year>2008</year>
+        </element-citation>
+      </ref>
+      <ref id="B55-climate-07-00070">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wheeler</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Von Braun</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change impacts on global food security</article-title>
+          <source>Science</source>
+          <year>2013</year>
+          <volume>341</volume>
+          <fpage>508</fpage>
+          <lpage>513</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1239402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56-climate-07-00070">
+        <label>56.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>MoWR and NMA</collab>
+          </person-group>
+          <source>Climate Change National Adaptation Programme of Action (NAPA) of Ethiopia. National Meteorological Services Agency, Ministry of Water Resources</source>
+          <publisher-name>Federal Democratic Republic of Ethiopia</publisher-name>
+          <publisher-loc>Addis Ababa, Ethiopia</publisher-loc>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B57-climate-07-00070">
+        <label>57.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ayalew</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>What Is Food Security and Famine and Hunger. Using Science against Famine: Food Security, Famine Early Warning, and El Nino</source>
+          <publisher-name>National Center for Atmospheric Research</publisher-name>
+          <publisher-loc>Boulder, CO, USA</publisher-loc>
+          <year>1997</year>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B58-climate-07-00070">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsegaye</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Struik</surname>
+              <given-names>P.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of enset (<italic>Ensete ventricosum</italic>) indigenous production methods and farm-based biodiversity in major enset-growing regions of southern Ethiopia</article-title>
+          <source>Exp. Agric.</source>
+          <year>2002</year>
+          <volume>38</volume>
+          <fpage>291</fpage>
+          <lpage>315</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0014479702003046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B59-climate-07-00070">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tesfaye</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>L&#xFC;dders</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diversity and distribution patterns of enset landraces in Sidama, Southern Ethiopia</article-title>
+          <source>Genet. Resour. Crop Evol.</source>
+          <year>2003</year>
+          <volume>50</volume>
+          <fpage>359</fpage>
+          <lpage>371</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1023918919227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60-climate-07-00070">
+        <label>60.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellis</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Rural Livelihood Diversity in Developing Countries: Evidence and Policy Implications</source>
+          <publisher-name>Overseas Development Institute</publisher-name>
+          <publisher-loc>London, UK</publisher-loc>
+          <year>1999</year>
+        </element-citation>
+      </ref>
+      <ref id="B61-climate-07-00070">
+        <label>61.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eneyew</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determinants of livelihood diversification in pastoral societies of southern Ethiopia</article-title>
+          <source>J. Agric. Biodivers. Res.</source>
+          <year>2012</year>
+          <volume>1</volume>
+          <fpage>43</fpage>
+          <lpage>52</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B62-climate-07-00070">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adepoju</surname>
+              <given-names>A.O.</given-names>
+            </name>
+            <name>
+              <surname>Obayelu</surname>
+              <given-names>O.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Livelihood diversification and welfare of rural households in Ondo State, Nigeria</article-title>
+          <source>J. Dev. Agric. Econ.</source>
+          <year>2013</year>
+          <volume>31</volume>
+          <fpage>482</fpage>
+          <lpage>489</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="climate-07-00070-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The geographic location of the study area.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="climate-07-00070-g001.tif"/>
+      </fig>
+      <fig id="climate-07-00070-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Rainfall trend in the study area (1983&#x2013;2014). Source: Own computation from Ethiopian National Meteorological Agency data.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="climate-07-00070-g002a.tif"/>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="climate-07-00070-g002b.tif"/>
+      </fig>
+      <fig id="climate-07-00070-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Annual RF standard anomalies in the study area (1983&#x2013;2014).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="climate-07-00070-g003.tif"/>
+        <p>Source: Own computation from Ethiopian National Meteorological Agency data.</p>
+      </fig>
+      <table-wrap id="climate-07-00070-t001" position="float">
+        <object-id pub-id-type="pii">climate-07-00070-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Distribution of rural population and sampled households (HHs) in selected districts.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">District Name</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Total Rural Population</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Total HHs</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Kebele Name</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Sampled HHs</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin">Boricha</td>
+              <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin"> 299,175</td>
+              <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin"> 58,823</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Hanja Cafa</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">66 </td>
+              <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin">189</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Haldada Dela</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">66</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Korangoge</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">57</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Loka Abaya</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin"> 122,445</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin"> 25,278</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Muticha Gorbe</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">36</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">93</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Sala Kore</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">58</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">Hawassa Zuriya</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin"> 155,245</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin"> 29,184</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Doyo Chala</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">53</td>
+              <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin">119</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Doyo Otilicho</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">66</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">TOTAL</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">576,865</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">113,285</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">401(143)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">401</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>( ) female headed HHs. Source: Own compilation from SNNPRS, BoFED 2015.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="climate-07-00070-t002" position="float">
+        <object-id pub-id-type="pii">climate-07-00070-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Variables description.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">S.N</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variables</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable Type</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Description</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Code</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">Sex</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Sex of the HHs head</td>
+              <td align="center" valign="middle">continuous</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">Family size</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Number of HH members</td>
+              <td align="center" valign="middle">continuous</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle">Educational status</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle"> HHs head no. of years in school)</td>
+              <td align="center" valign="middle">continuous</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle">Total land size</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Size of land in hectare</td>
+              <td align="center" valign="middle">continuous</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">Land use certificate</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">I have land use right certificate </td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle">PSNP beneficiary</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Beneficiary of PSNP support</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">7</td>
+              <td align="center" valign="middle">Produce <italic>enset</italic></td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Produce <italic>enset</italic> crop</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">8</td>
+              <td align="center" valign="middle">Membership in 1 to 5</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Membership in 1 to 5 </td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">9</td>
+              <td align="center" valign="middle">Head of 1 to 5</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Head of 1 to 5</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">Communal grazing land</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Communal grazing land</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">11</td>
+              <td align="center" valign="middle">Communal water pond</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Communal water ponds</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">12</td>
+              <td align="center" valign="middle">Drought resistant variety</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Drought resistant crop variety</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">13</td>
+              <td align="center" valign="middle">Fertilizer/urea/NPS</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Fertilizer/urea/NPS</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">14</td>
+              <td align="center" valign="middle">Training on climate change</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Get trained on climate change adaptation</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">Early warning information </td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Get early climate change induced information</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">16</td>
+              <td align="center" valign="middle">Improved animal fodder</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Use improved animal fodder</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">17</td>
+              <td align="center" valign="middle">HHs participation in adaptive decision</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">HHs participation in climate decision making</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">18</td>
+              <td align="center" valign="middle">Women participation in HHs decision</td>
+              <td align="center" valign="middle">Explanatory</td>
+              <td align="center" valign="middle">Women participation in HHs decision making</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">19</td>
+              <td align="center" valign="middle">Drought</td>
+              <td align="center" valign="middle">Dependent</td>
+              <td align="center" valign="middle">Exposure to the effects of drought</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">Harvest loss</td>
+              <td align="center" valign="middle">Dependent</td>
+              <td align="center" valign="middle">Experienced harvest loss</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">21</td>
+              <td align="center" valign="middle">Flooding</td>
+              <td align="center" valign="middle">Dependent</td>
+              <td align="center" valign="middle">Affected by flooding</td>
+              <td align="center" valign="middle">1) yes 0) no</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Famine</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Dependent</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Experienced hunger</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1) yes 0) no</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>1. Productive Safety Net Program is a government program being implemented in the study area to support poor and vulnerable people. 2. Are groups of 5 people organized by government and used for political, economic, and social purposes. 3. Drought resistant varieties are plant seeds that are supplied by the government and can grow in moisture stress conditions. 4. Urea and NPS are the two types of chemical fertilizers supplied to farmers by the government (usually in loan) NPS refers to Nitrogen-Phosphoric fertilizer containing Sulphur. 5. Improved animal fodder is a plant species (supplied by the government) that is used as a forage to feed animals during a shortage of pasture. 6. HHS are members of a family living in a house.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="climate-07-00070-t003" position="float">
+        <object-id pub-id-type="pii">climate-07-00070-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Mann&#x2013;Kendall&#x2019;s rank test result for inter-annual rainfall (RF).</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Coefficicnt</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">n</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Winter RF</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Spring RF</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Summer RF</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Annual RF</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">Correlation Coefficient</td>
+              <td align="center" valign="middle">1.000</td>
+              <td align="center" valign="middle">0.117</td>
+              <td align="center" valign="middle">0270 *</td>
+              <td align="center" valign="middle">&#x2212;0.020</td>
+              <td align="center" valign="middle">&#x2212;0.161</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Sig. (2-tailed)</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">0.347</td>
+              <td align="center" valign="middle">0.030</td>
+              <td align="center" valign="middle">0.871</td>
+              <td align="center" valign="middle">0.195</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">N</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>* Correlation is significant at the 0.05 level (2-tailed).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="climate-07-00070-t004" position="float">
+        <object-id pub-id-type="pii">climate-07-00070-t004_Table 4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <p>Drought severity index based on standard rainfall anomalies (SRA).</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Anomaly </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Temperature </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"> RF </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">&lt;&#x2212;1.65</td>
+              <td align="center" valign="middle">Extremely hot</td>
+              <td align="center" valign="middle">Extreme drought </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&#x2212;1.65 to &#x2212;1.28</td>
+              <td align="center" valign="middle">Severe hot</td>
+              <td align="center" valign="middle">Severe drought </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&#x2212;1.28 to &#x2212;0.84</td>
+              <td align="center" valign="middle">Moderate hot </td>
+              <td align="center" valign="middle">Moderate drought </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">&gt;&#x2212;0.84</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Cool </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">No drought </td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Source: Janowiak et al. 1986.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="climate-07-00070-t005" position="float">
+        <object-id pub-id-type="pii">climate-07-00070-t005_Table 5</object-id>
+        <label>Table 5</label>
+        <caption>
+          <p>Marginal effects due to independent variables (the coefficients table).</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variables</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Drought </th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Lost Harvest</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Flooding</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Hunger</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle">Sex</td>
+              <td align="center" valign="middle">&#x2212;0.244</td>
+              <td align="center" valign="middle">&#x2212;0.370</td>
+              <td align="center" valign="middle">&#x2212;0.179</td>
+              <td align="center" valign="middle">&#x2212;0.559</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.360)</td>
+              <td align="center" valign="middle">(0.355)</td>
+              <td align="center" valign="middle">(0.278)</td>
+              <td align="center" valign="middle">(0.327) *</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Land certificate</td>
+              <td align="center" valign="middle">0.468</td>
+              <td align="center" valign="middle">0.100</td>
+              <td align="center" valign="middle">&#x2212;0.645</td>
+              <td align="center" valign="middle">&#x2212;0.273</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.424)</td>
+              <td align="center" valign="middle">(0.448)</td>
+              <td align="center" valign="middle">(0.379) *</td>
+              <td align="center" valign="middle">(0.417)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Family size</td>
+              <td align="center" valign="middle">0.026</td>
+              <td align="center" valign="middle">0.063</td>
+              <td align="center" valign="middle">0.009</td>
+              <td align="center" valign="middle">0.021</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.080)</td>
+              <td align="center" valign="middle">(0.087)</td>
+              <td align="center" valign="middle">(0.063)</td>
+              <td align="center" valign="middle">(0.073)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Educational status</td>
+              <td align="center" valign="middle">&#x2212;0.100</td>
+              <td align="center" valign="middle">&#x2212;0.030</td>
+              <td align="center" valign="middle">0.069</td>
+              <td align="center" valign="middle">&#x2212;0.116</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.048) **</td>
+              <td align="center" valign="middle">(0.051)</td>
+              <td align="center" valign="middle">(0.042)</td>
+              <td align="center" valign="middle">(0.045) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total land size</td>
+              <td align="center" valign="middle">&#x2212;0.095</td>
+              <td align="center" valign="middle">&#x2212;0.202</td>
+              <td align="center" valign="middle">&#x2212;0.439</td>
+              <td align="center" valign="middle">&#x2212;0.571</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.160)</td>
+              <td align="center" valign="middle">(0.172)</td>
+              <td align="center" valign="middle">(0.181) **</td>
+              <td align="center" valign="middle">(0.209) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">PSNP beneficiary</td>
+              <td align="center" valign="middle">0.003</td>
+              <td align="center" valign="middle">&#x2212;0.919</td>
+              <td align="center" valign="middle">&#x2212;0.923</td>
+              <td align="center" valign="middle">&#x2212;0.004</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.393)</td>
+              <td align="center" valign="middle">(0.354) ***</td>
+              <td align="center" valign="middle">(0.308) ***</td>
+              <td align="center" valign="middle">(0.358)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Do you produce enset?</td>
+              <td align="center" valign="middle">&#x2212;1.113</td>
+              <td align="center" valign="middle">&#x2212;0.636</td>
+              <td align="center" valign="middle">&#x2212;0.209</td>
+              <td align="center" valign="middle">0.094</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.497) **</td>
+              <td align="center" valign="middle">(0.455)</td>
+              <td align="center" valign="middle">(0.338)</td>
+              <td align="center" valign="middle">(0.365)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Weather early warning information</td>
+              <td align="center" valign="middle">0.176</td>
+              <td align="center" valign="middle">0.436</td>
+              <td align="center" valign="middle">&#x2212;0.155</td>
+              <td align="center" valign="middle">0.108</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.327)</td>
+              <td align="center" valign="middle">(0.326)</td>
+              <td align="center" valign="middle">(0.268)</td>
+              <td align="center" valign="middle">(0.295)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Climate change adaptation training</td>
+              <td align="center" valign="middle">0.202</td>
+              <td align="center" valign="middle">0.127</td>
+              <td align="center" valign="middle">&#x2212;0.262</td>
+              <td align="center" valign="middle">0.232</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.355)</td>
+              <td align="center" valign="middle">(0.350)</td>
+              <td align="center" valign="middle">(0.283)</td>
+              <td align="center" valign="middle">(0.318)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Membership in 1 to 5</td>
+              <td align="center" valign="middle">1.202</td>
+              <td align="center" valign="middle">1.598</td>
+              <td align="center" valign="middle">&#x2212;0.852</td>
+              <td align="center" valign="middle">1.475</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.380) ***</td>
+              <td align="center" valign="middle">(0.387) ***</td>
+              <td align="center" valign="middle">(0.301) ***</td>
+              <td align="center" valign="middle">(0.343) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Head of 1 to 5</td>
+              <td align="center" valign="middle">&#x2212;1.497</td>
+              <td align="center" valign="middle">&#x2212;2.000</td>
+              <td align="center" valign="middle">0.719</td>
+              <td align="center" valign="middle">&#x2212;1.427</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.510) ***</td>
+              <td align="center" valign="middle">(0.515) ***</td>
+              <td align="center" valign="middle">(0.486)</td>
+              <td align="center" valign="middle">(0.482) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Grazing land</td>
+              <td align="center" valign="middle">0.857</td>
+              <td align="center" valign="middle">0.406</td>
+              <td align="center" valign="middle">0.134</td>
+              <td align="center" valign="middle">0.958</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.648)</td>
+              <td align="center" valign="middle">(0.604)</td>
+              <td align="center" valign="middle">(0.477)</td>
+              <td align="center" valign="middle">(0.599)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Water pond</td>
+              <td align="center" valign="middle">1.022</td>
+              <td align="center" valign="middle">1.434</td>
+              <td align="center" valign="middle">0.289</td>
+              <td align="center" valign="middle">1.070</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.865)</td>
+              <td align="center" valign="middle">(0.869) *</td>
+              <td align="center" valign="middle">(0.542)</td>
+              <td align="center" valign="middle">(0.870)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Improved animal fodder</td>
+              <td align="center" valign="middle">&#x2212;0.761</td>
+              <td align="center" valign="middle">&#x2212;0.816</td>
+              <td align="center" valign="middle">&#x2212;0.597</td>
+              <td align="center" valign="middle">&#x2212;0.887</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.521)</td>
+              <td align="center" valign="middle">(0.480) *</td>
+              <td align="center" valign="middle">(0.409)</td>
+              <td align="center" valign="middle">(0.488) *</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Fertilizer/urea/NPS</td>
+              <td align="center" valign="middle">1.504</td>
+              <td align="center" valign="middle">1.041</td>
+              <td align="center" valign="middle">0.075</td>
+              <td align="center" valign="middle">1.429</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.534) ***</td>
+              <td align="center" valign="middle">(0.531) **</td>
+              <td align="center" valign="middle">(0.506)</td>
+              <td align="center" valign="middle">(0.506) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Drought resistant crop variety</td>
+              <td align="center" valign="middle">0.437</td>
+              <td align="center" valign="middle">&#x2212;0.151</td>
+              <td align="center" valign="middle">0.268</td>
+              <td align="center" valign="middle">0.687</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.420)</td>
+              <td align="center" valign="middle">(0.396)</td>
+              <td align="center" valign="middle">(0.327)</td>
+              <td align="center" valign="middle">(0.392) *</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Women participation in family decision making</td>
+              <td align="center" valign="middle">&#x2212;1.089</td>
+              <td align="center" valign="middle">&#x2212;0.350</td>
+              <td align="center" valign="middle">&#x2212;0.020</td>
+              <td align="center" valign="middle">&#x2212;1.015</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.419) ***</td>
+              <td align="center" valign="middle">(0.370)</td>
+              <td align="center" valign="middle">(0.295)</td>
+              <td align="center" valign="middle">(0.360) ***</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Participation in adaptation decision</td>
+              <td align="center" valign="middle">&#x2212;0.135</td>
+              <td align="center" valign="middle">&#x2212;0.007</td>
+              <td align="center" valign="middle">&#x2212;0.529</td>
+              <td align="center" valign="middle">&#x2212;0.043</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">(0.408)</td>
+              <td align="center" valign="middle">(0.396)</td>
+              <td align="center" valign="middle">(0.305) *</td>
+              <td align="center" valign="middle">(0.360)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> N</td>
+              <td align="center" valign="middle">357</td>
+              <td align="center" valign="middle">358</td>
+              <td align="center" valign="middle">357</td>
+              <td align="center" valign="middle">357</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Chi<sup>2</sup></td>
+              <td align="center" valign="middle">59.99</td>
+              <td align="center" valign="middle">85.78</td>
+              <td align="center" valign="middle">39.62</td>
+              <td align="center" valign="middle">82.49</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">
+                <italic>P</italic>
+              </td>
+              <td align="center" valign="middle">0.0000</td>
+              <td align="center" valign="middle">0.0000</td>
+              <td align="center" valign="middle">0.0024</td>
+              <td align="center" valign="middle">0.0000</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"> Pseudo R<sup>2</sup></td>
+              <td align="center" valign="middle">0.1856</td>
+              <td align="center" valign="middle">0.2444</td>
+              <td align="center" valign="middle">0.0958</td>
+              <td align="center" valign="middle">0.2118</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Adjusted R<sup>2</sup> (Marginal effect after logit)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.8883</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.8775</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.7570</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.8325</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>* <italic>p</italic> &lt; 0.1; ** <italic>p</italic> &lt; 0.05; *** <italic>p</italic> &lt; 0.01; (SE) = standard error.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

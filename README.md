@@ -18,10 +18,10 @@ We have developed and AI agent to fact-check congressional research reports and 
 
 # Contact Information
 
-Kendall Frederick | SWE Summer Intern at Intelligenesis LLC |
+Kendall Frederick | 2025 SWE Summer Intern at Intelligenesis LLC |
 Johns Hopkins University '28 |
 kfrede14@jh.edu
 
 Aleah Dinmore |
-SWE Summer Intern at Intelligenesis LLC |
+2025 SWE Summer Intern at Intelligenesis LLC |
 Stevens Institute of Technology '27 

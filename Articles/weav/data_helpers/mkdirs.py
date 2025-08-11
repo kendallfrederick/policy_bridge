@@ -1,0 +1,17 @@
+import os
+
+os.makedirs('/Users/law/Journals/plosbiol')
+os.makedirs('/Users/law/Journals/plosclimate')
+os.makedirs('/Users/law/Journals/ploscomlsys')
+os.makedirs('/Users/law/Journals/ploscomp')
+os.makedirs('/Users/law/Journals/plosdh')
+os.makedirs('/Users/law/Journals/plosgen')
+os.makedirs('/Users/law/Journals/plosgph')
+os.makedirs('/Users/law/Journals/plosmed')
+os.makedirs('/Users/law/Journals/plosmenthealth')
+os.makedirs('/Users/law/Journals/plosntds')
+os.makedirs('/Users/law/Journals/plosone')
+os.makedirs('/Users/law/Journals/plospath')
+os.makedirs('/Users/law/Journals/plosst')
+os.makedirs('/Users/law/Journals/ploswater')
+os.makedirs('/Users/law/Journals/plosclin')
