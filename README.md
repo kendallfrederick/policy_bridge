@@ -11,10 +11,14 @@ We have developed and AI agent to fact-check congressional research reports and 
 * weaviate
 * langchain
 * streamlit
+
+See detailed requirements.txt file in bill_processing folder. Note that once Ollama is installed, you will need to run 
+`Ollama create my-llama -f Modelfile`
  
 # Usage
 
 `Streamlit run Home.py`
+in bill_processing. 
 
 # Contact Information
 
