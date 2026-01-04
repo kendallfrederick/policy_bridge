@@ -28,4 +28,5 @@ kfrede14@jh.edu
 
 Aleah Dinmore |
 2025 SWE Summer Intern at Intelligenesis LLC |
-Stevens Institute of Technology '27 
+Stevens Institute of Technology '27 |  
+adinmore@stevens.edu
