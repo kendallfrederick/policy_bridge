@@ -22,11 +22,11 @@ in bill_processing.
 
 # Contact Information
 
-Kendall Frederick | 2025 SWE Summer Intern at Intelligenesis LLC |
+Kendall Frederick | 2025 SWE Summer Intern at IntelliGenesis LLC |
 Johns Hopkins University '28 |
 kfrede14@jh.edu
 
 Aleah Dinmore |
-2025 SWE Summer Intern at Intelligenesis LLC |
+2025 SWE Summer Intern at IntelliGenesis LLC |
 Stevens Institute of Technology '27 |  
 adinmore@stevens.edu
